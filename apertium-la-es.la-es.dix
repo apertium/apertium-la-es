@@ -14,9 +14,11 @@
      <sdef n="al"/>
      <sdef n="ant"/>
 
+     <sdef n="m"/>
      <sdef n="f"/>
      <sdef n="nt"/>
-     <sdef n="m"/>
+     <sdef n="mf"/>
+     <sdef n="GD"/>
   </sdefs>
   <pardefs>
   </pardefs>
@@ -38,6 +40,8 @@
     <e r="LR"><p><l>arula<s n="n"/><s n="f"/></l><r>altar<s n="n"/></r></p></e>
     <e><p><l>aristocratia<s n="n"/><s n="f"/></l><r>aristocracia<s n="n"/></r></p></e>
     <e><p><l>filius<s n="n"/></l><r>hijo<s n="n"/></r></p></e>
+    <e c="slr='baya D'"><p><l>baca<s n="n"/></l><r>baya<s n="n"/></r></p></e>
+    <e c="slr='perla'" i="yes"><p><l>baca<s n="n"/></l><r>perla<s n="n"/></r></p></e>
 
     <e><p><l>agricola<s n="n"/><s n="m"/></l><r>labrador<s n="n"/><s n="GD"/></r></p></e>
     <e><p><l>pirata<s n="n"/><s n="m"/></l><r>pirata<s n="n"/><s n="mf"/></r></p></e>
@@ -45,11 +49,11 @@
     <e><p><l>propheta<s n="n"/><s n="m"/></l><r>profeta<s n="n"/><s n="mf"/></r></p></e>
     <e><p><l>poeta<s n="n"/><s n="m"/></l><r>poeta<s n="n"/><s n="mf"/></r></p></e>
 
-    <e><p><l>murus<s n="n"/><s n="m"/></l><r>pared<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>murus<s n="n"/><s n="m"/></l><r>muralla<s n="n"/><s n="f"/></r></p></e>
 
     <e><p><l>bellum<s n="n"/><s n="nt"/></l><r>guerra<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>antidotum<s n="n"/><s n="nt"/></l><r>antídoto<s n="n"/><s n="m"/></r></p></e>
-    <e><p><l>argentum<s n="n"/><s n="nt"/></l><r>plata<s n="n"/><s n="n"/></r></p></e>
+    <e><p><l>argentum<s n="n"/><s n="nt"/></l><r>plata<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>reliquum<s n="n"/><s n="nt"/></l><r>remanente<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>cerebellum<s n="n"/><s n="nt"/></l><r>cerebelo<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>theatrum<s n="n"/><s n="nt"/></l><r>teatro<s n="n"/></r><s n="m"/></p></e>
