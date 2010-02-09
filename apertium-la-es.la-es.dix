@@ -1,0 +1,61 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<dictionary>
+  <alphabet/>
+  <sdefs>
+     <sdef n="n"/>
+     <sdef n="pr"/>
+     <sdef n="np"/>
+
+     <sdef n="vblex"/>
+     <sdef n="vaux"/>
+     <sdef n="vbmod"/>
+
+     <sdef n="top"/>
+     <sdef n="al"/>
+     <sdef n="ant"/>
+
+     <sdef n="f"/>
+     <sdef n="nt"/>
+     <sdef n="m"/>
+  </sdefs>
+  <pardefs>
+  </pardefs>
+  <section id="main" type="standard">
+    <e><p><l>aqua<s n="n"/></l><r>agua<s n="n"/></r></p></e>
+    <e><p><l>abbatia<s n="n"/></l><r>abadía<s n="n"/></r></p></e>
+    <e><p><l>absentia<s n="n"/></l><r>ausencia<s n="n"/></r></p></e>
+    <e><i>agricultura<s n="n"/></i></e>
+    <e><i>ala<s n="n"/></i></e>
+    <e><i>barba<s n="n"/></i></e>
+    <e><i>arena<s n="n"/></i></e>
+    <e><p><l>amicus<s n="n"/></l><r>amigo<s n="n"/></r></p></e>
+    <e><p><l>amicitia<s n="n"/></l><r>amistad<s n="n"/></r></p></e>
+    <e c="Paternal"><p><l>amita<s n="n"/></l><r>tía<s n="n"/></r></p></e>
+    <e c="Paternal"><p><l>amitina<s n="n"/></l><r>primo<s n="n"/></r></p></e>
+    <e><p><l>aquila<s n="n"/></l><r>águila<s n="n"/></r></p></e>
+    <e><p><l>ara<s n="n"/><s n="f"/></l><r>altar<s n="n"/></r></p></e>
+    <e><p><l>area<s n="n"/><s n="f"/></l><r>área<s n="n"/></r></p></e>
+    <e r="LR"><p><l>arula<s n="n"/><s n="f"/></l><r>altar<s n="n"/></r></p></e>
+    <e><p><l>aristocratia<s n="n"/><s n="f"/></l><r>aristocracia<s n="n"/></r></p></e>
+    <e><p><l>filius<s n="n"/></l><r>hijo<s n="n"/></r></p></e>
+
+    <e><p><l>agricola<s n="n"/><s n="m"/></l><r>labrador<s n="n"/><s n="GD"/></r></p></e>
+    <e><p><l>pirata<s n="n"/><s n="m"/></l><r>pirata<s n="n"/><s n="mf"/></r></p></e>
+    <e><p><l>nauta<s n="n"/><s n="m"/></l><r>marinero<s n="n"/><s n="GD"/></r></p></e>
+    <e><p><l>propheta<s n="n"/><s n="m"/></l><r>profeta<s n="n"/><s n="mf"/></r></p></e>
+    <e><p><l>poeta<s n="n"/><s n="m"/></l><r>poeta<s n="n"/><s n="mf"/></r></p></e>
+
+    <e><p><l>murus<s n="n"/><s n="m"/></l><r>pared<s n="n"/><s n="f"/></r></p></e>
+
+    <e><p><l>bellum<s n="n"/><s n="nt"/></l><r>guerra<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>antidotum<s n="n"/><s n="nt"/></l><r>antídoto<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>argentum<s n="n"/><s n="nt"/></l><r>plata<s n="n"/><s n="n"/></r></p></e>
+    <e><p><l>reliquum<s n="n"/><s n="nt"/></l><r>remanente<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>cerebellum<s n="n"/><s n="nt"/></l><r>cerebelo<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>theatrum<s n="n"/><s n="nt"/></l><r>teatro<s n="n"/></r><s n="m"/></p></e>
+    <e><p><l>amphitheatrum<s n="n"/><s n="nt"/></l><r>anfiteatro<s n="n"/><s n="m"/></r></p></e>
+
+    <e><p><l>Iulius<s n="np"/><s n="ant"/></l><r>Julio<s n="np"/><s n="ant"/></r></p></e>
+    <e><p><l>Brutus<s n="np"/><s n="ant"/></l><r>Bruto<s n="np"/><s n="ant"/></r></p></e>
+  </section>
+</dictionary>
