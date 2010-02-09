@@ -19,6 +19,10 @@
      <sdef n="nt"/>
      <sdef n="mf"/>
      <sdef n="GD"/>
+
+     <sdef n="cnjcoo"/>
+
+     <sdef n="vbser"/>
   </sdefs>
   <pardefs>
   </pardefs>
@@ -41,6 +45,10 @@
     <e><p><l>propter<s n="pr"/></l><r>próximo<s n="pr"/></r></p></e>
     <e><p><l>proximus<s n="pr"/></l><r>próximo<s n="pr"/></r></p></e>
 
+    <e><p><l>et<s n="cnjcoo"/></l><r>y<s n="cnjcoo"/></r></p></e>
+
+    <e><p><l>esse<s n="vbser"/></l><r>ser<s n="vbser"/></r></p></e>
+
     <e><p><l>aqua<s n="n"/></l><r>agua<s n="n"/></r></p></e>
     <e><p><l>abbatia<s n="n"/></l><r>abadía<s n="n"/></r></p></e>
     <e><p><l>absentia<s n="n"/></l><r>ausencia<s n="n"/></r></p></e>
@@ -48,15 +56,16 @@
     <e><i>ala<s n="n"/></i></e>
     <e><i>barba<s n="n"/></i></e>
     <e><i>arena<s n="n"/></i></e>
+    <e><i>provincia<s n="n"/></i></e>
     <e><p><l>amicus<s n="n"/></l><r>amigo<s n="n"/></r></p></e>
     <e><p><l>amicitia<s n="n"/></l><r>amistad<s n="n"/></r></p></e>
     <e c="Paternal"><p><l>amita<s n="n"/></l><r>tía<s n="n"/></r></p></e>
     <e c="Paternal"><p><l>amitina<s n="n"/></l><r>primo<s n="n"/></r></p></e>
     <e><p><l>aquila<s n="n"/></l><r>águila<s n="n"/></r></p></e>
-    <e><p><l>ara<s n="n"/><s n="f"/></l><r>altar<s n="n"/></r></p></e>
-    <e><p><l>area<s n="n"/><s n="f"/></l><r>área<s n="n"/></r></p></e>
-    <e r="LR"><p><l>arula<s n="n"/><s n="f"/></l><r>altar<s n="n"/></r></p></e>
-    <e><p><l>aristocratia<s n="n"/><s n="f"/></l><r>aristocracia<s n="n"/></r></p></e>
+    <e><p><l>ara<s n="n"/><s n="f"/></l><r>altar<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>area<s n="n"/></l><r>área<s n="n"/></r></p></e>
+    <e r="LR"><p><l>arula<s n="n"/><s n="f"/></l><r>altar<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>aristocratia<s n="n"/></l><r>aristocracia<s n="n"/></r></p></e>
     <e><p><l>filius<s n="n"/></l><r>hijo<s n="n"/></r></p></e>
     <e c="slr='baya D'"><p><l>baca<s n="n"/></l><r>baya<s n="n"/></r></p></e>
     <e c="slr='perla'" i="yes"><p><l>baca<s n="n"/></l><r>perla<s n="n"/></r></p></e>
@@ -68,6 +77,7 @@
     <e><p><l>poeta<s n="n"/><s n="m"/></l><r>poeta<s n="n"/><s n="mf"/></r></p></e>
     <e><p><l>scriba<s n="n"/><s n="m"/></l><r>copista<s n="n"/><s n="mf"/></r></p></e>
     <e><p><l>auriga<s n="n"/><s n="m"/></l><r>cochero<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>silva<s n="n"/><s n="f"/></l><r>bosque<s n="n"/><s n="m"/></r></p></e>
 
     <e><p><l>murus<s n="n"/><s n="m"/></l><r>muralla<s n="n"/><s n="f"/></r></p></e>
 
