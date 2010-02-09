@@ -24,8 +24,22 @@
   </pardefs>
   <section id="main" type="standard">
     <e><p><l>sine<s n="pr"/></l><r>sin<s n="pr"/></r></p></e>
-    <e><p><l>pro<s n="pr"/></l><r>para<s n="pr"/></r></p></e>
+    <e><p><l>pro<s n="pr"/></l><r>pro<s n="pr"/></r></p></e>
     <e><p><l>ad<s n="pr"/></l><r>a<s n="pr"/></r></p></e>
+    <e><p><l>ante<s n="pr"/></l><r>ante<s n="pr"/></r></p></e>
+    <e><p><l>circa<s n="pr"/></l><r>cerca<s n="pr"/></r></p></e>
+    <e><p><l>contra<s n="pr"/></l><r>contra<s n="pr"/></r></p></e>
+    <e><p><l>cum<s n="pr"/></l><r>con<s n="pr"/></r></p></e>
+    <e><p><l>in<s n="pr"/></l><r>en<s n="pr"/></r></p></e>
+    <e><p><l>inter<s n="pr"/></l><r>entre<s n="pr"/></r></p></e>
+    <e><p><l>post<s n="pr"/></l><r>pués<s n="pr"/></r></p></e>
+    <e><p><l>trans<s n="pr"/></l><r>tras<s n="pr"/></r></p></e>
+    <e><p><l>secundum<s n="pr"/></l><r>según<s n="pr"/></r></p></e>
+    <e><p><l>super<s n="pr"/></l><r>sobre<s n="pr"/></r></p></e>
+    <e><p><l>prope<s n="pr"/></l><r>próximo<s n="pr"/></r></p></e>
+    <e><p><l>propius<s n="pr"/></l><r>próximo<s n="pr"/></r></p></e>
+    <e><p><l>propter<s n="pr"/></l><r>próximo<s n="pr"/></r></p></e>
+    <e><p><l>proximus<s n="pr"/></l><r>próximo<s n="pr"/></r></p></e>
 
     <e><p><l>aqua<s n="n"/></l><r>agua<s n="n"/></r></p></e>
     <e><p><l>abbatia<s n="n"/></l><r>abadía<s n="n"/></r></p></e>
