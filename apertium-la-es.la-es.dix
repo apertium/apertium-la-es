@@ -23,6 +23,10 @@
   <pardefs>
   </pardefs>
   <section id="main" type="standard">
+    <e><p><l>sine<s n="pr"/></l><r>sin<s n="pr"/></r></p></e>
+    <e><p><l>pro<s n="pr"/></l><r>para<s n="pr"/></r></p></e>
+    <e><p><l>ad<s n="pr"/></l><r>a<s n="pr"/></r></p></e>
+
     <e><p><l>aqua<s n="n"/></l><r>agua<s n="n"/></r></p></e>
     <e><p><l>abbatia<s n="n"/></l><r>abadía<s n="n"/></r></p></e>
     <e><p><l>absentia<s n="n"/></l><r>ausencia<s n="n"/></r></p></e>
