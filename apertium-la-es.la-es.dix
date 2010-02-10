@@ -7,6 +7,9 @@
      <sdef n="np"/>
      <sdef n="adv"/>
 
+     <sdef n="det"/>
+     <sdef n="pos"/>
+
      <sdef n="vblex"/>
      <sdef n="vaux"/>
      <sdef n="vbmod"/>
@@ -24,6 +27,9 @@
      <sdef n="cnjcoo"/>
 
      <sdef n="vbser"/>
+
+     <sdef n="sent"/>
+     <sdef n="cm"/>
   </sdefs>
   <pardefs>
   </pardefs>
@@ -97,7 +103,7 @@
     <e><p><l>argentum<s n="n"/><s n="nt"/></l><r>plata<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>reliquum<s n="n"/><s n="nt"/></l><r>remanente<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>cerebellum<s n="n"/><s n="nt"/></l><r>cerebelo<s n="n"/><s n="m"/></r></p></e>
-    <e><p><l>theatrum<s n="n"/><s n="nt"/></l><r>teatro<s n="n"/></r><s n="m"/></p></e>
+    <e><p><l>theatrum<s n="n"/><s n="nt"/></l><r>teatro<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>amphitheatrum<s n="n"/><s n="nt"/></l><r>anfiteatro<s n="n"/><s n="m"/></r></p></e>
 
     <e><p><l>Iulius<s n="np"/><s n="ant"/></l><r>Julio<s n="np"/><s n="ant"/></r></p></e>
