@@ -5,6 +5,7 @@
      <sdef n="n"/>
      <sdef n="pr"/>
      <sdef n="np"/>
+     <sdef n="adv"/>
 
      <sdef n="vblex"/>
      <sdef n="vaux"/>
@@ -46,8 +47,16 @@
     <e><p><l>proximus<s n="pr"/></l><r>próximo<s n="pr"/></r></p></e>
 
     <e><p><l>et<s n="cnjcoo"/></l><r>y<s n="cnjcoo"/></r></p></e>
+    <e><p><l>sed<s n="cnjcoo"/></l><r>pero<s n="cnjcoo"/></r></p></e>
+
+    <e><p><l>ergo<s n="adv"/></l><r>luego<s n="adv"/></r></p></e>
+    <e><p><l>non<s n="adv"/></l><r>no<s n="adv"/></r></p></e>
 
     <e><p><l>esse<s n="vbser"/></l><r>ser<s n="vbser"/></r></p></e>
+
+    <e><p><l>meus<s n="det"/><s n="pos"/></l><r>mi<s n="det"/><s n="pos"/></r></p></e>
+    <e><p><l>teus<s n="det"/><s n="pos"/></l><r>tu<s n="det"/><s n="pos"/></r></p></e>
+    <e><p><l>noster<s n="det"/><s n="pos"/></l><r>nuestro<s n="det"/><s n="pos"/></r></p></e>
 
     <e><p><l>aqua<s n="n"/></l><r>agua<s n="n"/></r></p></e>
     <e><p><l>abbatia<s n="n"/></l><r>abadía<s n="n"/></r></p></e>
@@ -57,7 +66,6 @@
     <e><i>barba<s n="n"/></i></e>
     <e><i>arena<s n="n"/></i></e>
     <e><i>provincia<s n="n"/></i></e>
-    <e><p><l>amicus<s n="n"/></l><r>amigo<s n="n"/></r></p></e>
     <e><p><l>amicitia<s n="n"/></l><r>amistad<s n="n"/></r></p></e>
     <e c="Paternal"><p><l>amita<s n="n"/></l><r>tía<s n="n"/></r></p></e>
     <e c="Paternal"><p><l>amitina<s n="n"/></l><r>primo<s n="n"/></r></p></e>
@@ -66,7 +74,10 @@
     <e><p><l>area<s n="n"/></l><r>área<s n="n"/></r></p></e>
     <e r="LR"><p><l>arula<s n="n"/><s n="f"/></l><r>altar<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>aristocratia<s n="n"/></l><r>aristocracia<s n="n"/></r></p></e>
-    <e><p><l>filius<s n="n"/></l><r>hijo<s n="n"/></r></p></e>
+    <e><p><l>filius<s n="n"/><s n="m"/></l><r>hijo<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>filia<s n="n"/><s n="f"/></l><r>hijo<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>amicus<s n="n"/><s n="m"/></l><r>amigo<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>amica<s n="n"/><s n="f"/></l><r>amigo<s n="n"/><s n="f"/></r></p></e>
     <e c="slr='baya D'"><p><l>baca<s n="n"/></l><r>baya<s n="n"/></r></p></e>
     <e c="slr='perla'" i="yes"><p><l>baca<s n="n"/></l><r>perla<s n="n"/></r></p></e>
 
@@ -91,5 +102,12 @@
 
     <e><p><l>Iulius<s n="np"/><s n="ant"/></l><r>Julio<s n="np"/><s n="ant"/></r></p></e>
     <e><p><l>Brutus<s n="np"/><s n="ant"/></l><r>Bruto<s n="np"/><s n="ant"/></r></p></e>
+    <e><p><l>Lucius<s n="np"/><s n="ant"/></l><r>Lucius<s n="np"/><s n="ant"/></r></p></e>
+    <e><p><l>Marcus<s n="np"/><s n="ant"/></l><r>Marcus<s n="np"/><s n="ant"/></r></p></e>
+    <e><i>.<s n="sent"/></i></e>
+    <e><i>?<s n="sent"/></i></e>
+    <e><i>:<s n="sent"/></i></e>
+    <e><i>!<s n="sent"/></i></e>
+    <e><i>,<s n="cm"/></i></e>
   </section>
 </dictionary>
