@@ -61,6 +61,7 @@
     <e><p><l>esse<s n="vbser"/></l><r>ser<s n="vbser"/></r></p></e>
 
     <e><p><l>amare<s n="vblex"/></l><r>amar<s n="vblex"/></r></p></e>
+    <e><p><l>ire<s n="vblex"/></l><r>ir<s n="vblex"/></r></p></e>
 
     <e><p><l>meus<s n="det"/><s n="pos"/></l><r>mi<s n="det"/><s n="pos"/></r></p></e>
     <e><p><l>teus<s n="det"/><s n="pos"/></l><r>tu<s n="det"/><s n="pos"/></r></p></e>
@@ -82,6 +83,8 @@
     <e><p><l>area<s n="n"/></l><r>área<s n="n"/></r></p></e>
     <e r="LR"><p><l>arula<s n="n"/><s n="f"/></l><r>altar<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>aristocratia<s n="n"/></l><r>aristocracia<s n="n"/></r></p></e>
+    <e><p><l>Romanus<s n="n"/><s n="m"/></l><r>romano<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>domus<s n="n"/><s n="f"/></l><r>casa<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>filius<s n="n"/><s n="m"/></l><r>hijo<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>filia<s n="n"/><s n="f"/></l><r>hijo<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>amicus<s n="n"/><s n="m"/></l><r>amigo<s n="n"/><s n="m"/></r></p></e>
