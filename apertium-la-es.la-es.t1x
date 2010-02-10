@@ -193,6 +193,7 @@
       <attr-item tags="fts"/>
       <attr-item tags="imp"/>
       <attr-item tags="pmp"/>
+      <attr-item tags="ftp"/>
     </def-attr>
 
     
@@ -203,6 +204,7 @@
     <def-var n="numero"/>
     <def-var n="caseFirstWord"/>
     <def-var n="EOS" v="true"/>
+    <def-var n="temps_chunk"/>
   </section-def-vars>
   <section-def-macros>
   
@@ -245,6 +247,35 @@
               </chunk>
               <b/>
             </out>
+          </when>     	    
+     	</choose>
+     </def-macro>
+
+    <def-macro n="temps" npar="1">
+     	<choose>
+     	  <when>
+     	    <test>
+   	      <equal>
+     	        <clip pos="1" side="sl" part="temps"/>
+     	        <lit-tag v="pmp"/>
+     	      </equal>
+     	    </test>
+            <let>
+              <var n="temps_chunk"/>
+              <lit-tag v="pii"/>
+            </let>
+          </when>     	    
+     	  <when>
+     	    <test>
+   	      <equal>
+     	        <clip pos="1" side="sl" part="temps"/>
+     	        <lit-tag v="ftp"/>
+     	      </equal>
+     	    </test>
+            <let>
+              <var n="temps_chunk"/>
+              <lit-tag v="fti"/>
+            </let>
           </when>     	    
      	</choose>
      </def-macro>
@@ -410,19 +441,28 @@
         <call-macro n="firstWord">
           <with-param pos="1"/>
         </call-macro>
+        <call-macro n="temps">
+          <with-param pos="1"/>
+        </call-macro>
         <choose>
           <when>
             <test>
-              <equal>
-                <clip pos="1" side="sl" part="temps"/>
-                <lit-tag v="pmp"/>
-              </equal>
+              <or>
+                <equal>
+                  <clip pos="1" side="sl" part="temps"/>
+                  <lit-tag v="pmp"/>
+                </equal>
+                <equal>
+                  <clip pos="1" side="sl" part="temps"/>
+                  <lit-tag v="ftp"/>
+                </equal>
+              </or>
             </test>
             <out>
               <chunk name="haber_pp">
                 <tags>
                   <tag><lit-tag v="SV"/></tag>
-                  <tag><lit-tag v="pii"/></tag>
+                  <tag><var n="temps_chunk"/></tag>
                   <tag><clip pos="1" side="sl" part="pers"/></tag>
                   <tag><clip pos="1" side="sl" part="nbr"/></tag>
                 </tags>
