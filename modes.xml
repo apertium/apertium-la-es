@@ -16,8 +16,8 @@
       </program>
 <!--      <program name="apertium-interchunk">
         <file name="apertium-la-es.la-es.t2x"/>
-        <file name="la-es.t2x.bin"/> -->
-      </program>
+        <file name="la-es.t2x.bin"/>
+      </program> -->
       <program name="apertium-postchunk">
         <file name="apertium-la-es.la-es.t3x"/>
         <file name="la-es.t3x.bin"/>

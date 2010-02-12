@@ -31,10 +31,6 @@ $(PREFIX1).autopgen.bin: $(BASENAME).post-$(LANG2).dix
 	apertium-validate-dictionary $(BASENAME).post-$(LANG2).dix
 	lt-comp lr $(BASENAME).post-$(LANG2).dix $@
 
-$(PREFIX1).ordinals.t1x.bin: $(BASENAME).ordinals.t1x
-	apertium-validate-transfer $(BASENAME).ordinals.t1x
-	apertium-preprocess-transfer $(BASENAME).ordinals.t1x $@
-
 $(PREFIX1).t1x.bin: $(BASENAME).$(PREFIX1).t1x
 	apertium-validate-transfer $(BASENAME).$(PREFIX1).t1x
 	apertium-preprocess-transfer $(BASENAME).$(PREFIX1).t1x $@
@@ -52,7 +48,6 @@ EXTRA_DIST=$(BASENAME).$(LANG1).dix $(BASENAME).$(PREFIX1).dix \
 	   $(BASENAME).post-$(LANG2).dix \
            $(BASENAME).$(LANG2).dix \
            $(BASENAME).$(LANG1).tsx \
-	   $(BASENAME).ordinals.t1x \
            $(PREFIX1).prob \
            $(BASENAME).$(PREFIX1).t1x \
            $(BASENAME).$(PREFIX1).t3x \
@@ -74,9 +69,9 @@ apertium_la_es_DATA=$(PREFIX1).automorf.bin \
                     $(PREFIX1).autobil.bin \
                     $(PREFIX1).autogen.bin \
                     $(PREFIX1).autopgen.bin \
-                    $(PREFIX1).prob $(PREFIX1).ordinals.t1x.bin \
+                    $(PREFIX1).prob \
 		    $(PREFIX1).t1x.bin \
-		    $(PREFIX1).t3x.bin  $(PREFIX1).ordinals.t1x.bin\
+		    $(PREFIX1).t3x.bin \
 		    $(PREFIX1).mode	  
 
 install-data-local:
@@ -84,6 +79,5 @@ install-data-local:
 	$(INSTALL_DATA) $(PREFIX1).mode $(apertium_la_modesdir)
 	$(INSTALL_DATA) $(BASENAME).$(PREFIX1).t1x $(apertium_la_esdir)
 	$(INSTALL_DATA) $(BASENAME).$(PREFIX1).t3x $(apertium_la_esdir)
-	$(INSTALL_DATA) $(BASENAME).ordinals.t1x $(apertium_la_esdir)
 
 CLEANFILES = -r $(TARGETS) 
