@@ -31,8 +31,6 @@
      <sdef n="sent"/>
      <sdef n="cm"/>
   </sdefs>
-  <pardefs>
-  </pardefs>
   <section id="main" type="standard">
     <e><p><l>sine<s n="pr"/></l><r>sin<s n="pr"/></r></p></e>
     <e><p><l>pro<s n="pr"/></l><r>pro<s n="pr"/></r></p></e>
