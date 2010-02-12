@@ -1,5 +1,6 @@
 * text=auto !eol
 /Makefile.am -text
+/apertium-la-es.es.dix -text
 /apertium-la-es.la-es.dix -text
 /apertium-la-es.la-es.t1x -text
 /apertium-la-es.la-es.t3x -text
