@@ -118,6 +118,7 @@
     <e><i>.<s n="sent"/></i></e>
     <e><i>?<s n="sent"/></i></e>
     <e><i>:<s n="sent"/></i></e>
+    <e><i>;<s n="sent"/></i></e>
     <e><i>!<s n="sent"/></i></e>
     <e><i>,<s n="cm"/></i></e>
   </section>
