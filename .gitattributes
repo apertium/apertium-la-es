@@ -7,4 +7,5 @@
 /apertium-la-es.la.dix -text
 /autogen.sh -text
 /configure.ac -text
+/la-es.prob -text svneol=unset#unset
 /modes.xml -text
