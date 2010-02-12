@@ -8,7 +8,6 @@ BASENAME=apertium-$(PREFIX1)
 
 TARGETS_COMMON = $(PREFIX1).automorf.bin $(PREFIX1).autobil.bin $(PREFIX1).autogen.bin \
 	$(PREFIX1).autopgen.bin $(PREFIX1).t1x.bin $(PREFIX1).t3x.bin \
-#	$(PREFIX1).t2x.bin \
 	modes
 #$(PREFIX1).rlx.bin modes
      
@@ -56,7 +55,6 @@ EXTRA_DIST=$(BASENAME).$(LANG1).dix $(BASENAME).$(PREFIX1).dix \
 	   $(BASENAME).ordinals.t1x \
            $(PREFIX1).prob \
            $(BASENAME).$(PREFIX1).t1x \
-#	   $(BASENAME).$(PREFIX1).t2x \
            $(BASENAME).$(PREFIX1).t3x \
            modes.xml
            	            	            	            	            	            	  	 
@@ -78,7 +76,6 @@ apertium_la_es_DATA=$(PREFIX1).automorf.bin \
                     $(PREFIX1).autopgen.bin \
                     $(PREFIX1).prob $(PREFIX1).ordinals.t1x.bin \
 		    $(PREFIX1).t1x.bin \
-#		    $(PREFIX1).t2x.bin \
 		    $(PREFIX1).t3x.bin  $(PREFIX1).ordinals.t1x.bin\
 		    $(PREFIX1).mode	  
 
