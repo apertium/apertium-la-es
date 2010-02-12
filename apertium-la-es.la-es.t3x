@@ -79,7 +79,7 @@
         <pattern-item n="nom"/>
       </pattern>
       <action>
-        <call-macro n="clean_prn">
+        <call-macro n="clean_nom">
           <with-param pos="1"/>
         </call-macro>
         <out>

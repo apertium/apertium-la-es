@@ -251,7 +251,7 @@
      	</choose>
      </def-macro>
 
-    <def-macro n="temps" npar="1">
+    <def-macro n="tempus" npar="1">
      	<choose>
      	  <when>
      	    <test>
@@ -441,7 +441,7 @@
         <call-macro n="firstWord">
           <with-param pos="1"/>
         </call-macro>
-        <call-macro n="temps">
+        <call-macro n="tempus">
           <with-param pos="1"/>
         </call-macro>
         <choose>
