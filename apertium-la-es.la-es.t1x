@@ -54,10 +54,22 @@
       <cat-item tags="vbser.*"/>
       <cat-item tags="vbhaver.*"/>
     </def-cat>
+    <def-cat n="esse_peri">
+      <cat-item tags="vbser.pri.*"/>
+      <cat-item tags="vbser.pis.*"/>
+      <cat-item tags="vbser.prs.*"/>
+      <cat-item tags="vbser.fti.*"/>
+      <cat-item tags="vbser.pii.*"/>
+    </def-cat>
     <def-cat n="inf">
       <cat-item tags="vblex.inf"/>
       <cat-item tags="vbser.inf"/>
       <cat-item tags="vbhaver.inf"/>
+    </def-cat>
+    <def-cat n="pp">
+      <cat-item tags="vblex.pp.*"/>
+      <cat-item tags="vbser.pp.*"/>
+      <cat-item tags="vbhaver.pp.*"/>
     </def-cat>
     <def-cat n="ppmsg">
       <cat-item tags="vblex.pp.m.sg"/>
@@ -375,7 +387,7 @@
             </let>
           </otherwise>
      	</choose>
-     </def-macro>
+    </def-macro>
 
     <def-macro n="firstWord" npar="1"><!--nova versió 8-febr-08  -->
       
@@ -607,6 +619,76 @@
 		  <clip pos="1" side="tl" part="pers" link-to="3"/>
 	  	  <clip pos="1" side="tl" part="nbr" link-to="4"/>
                   <clip pos="1" side="tl" part="lemq"/>
+                </lu>
+              </chunk>
+            </out>  
+          </otherwise>
+
+        </choose>     
+
+      </action>
+    </rule>
+    <rule>  
+      <pattern>
+        <pattern-item n="pp"/>
+        <pattern-item n="esse_peri"/>
+      </pattern>
+      <action>
+        <call-macro n="firstWord">
+          <with-param pos="1"/>
+        </call-macro>
+        <choose>
+          <when>
+            <test>
+              <equal>
+                <clip pos="2" side="sl" part="temps"/>
+                <lit-tag v="pri"/>
+              </equal>
+            </test>
+            <out>
+              <chunk name="verbcj">
+                <tags>
+                  <tag><lit-tag v="SV"/></tag>
+                  <tag><lit-tag v="ifi"/></tag>
+                  <tag><clip pos="2" side="sl" part="pers"/></tag>
+                  <tag><clip pos="2" side="sl" part="nbr"/></tag>
+                </tags>
+                <lu>
+                  <clip pos="1" side="tl" part="lemh"/>
+                  <clip pos="1" side="tl" part="a_verb"/>
+                  <clip pos="2" side="tl" part="temps" link-to="2"/>
+		  <clip pos="2" side="tl" part="pers" link-to="3"/>
+	  	  <clip pos="2" side="tl" part="nbr" link-to="4"/>
+                  <clip pos="1" side="tl" part="lemq"/>
+                </lu>
+              </chunk>
+            </out>
+          </when>         
+
+          <otherwise>
+            
+    	    <out>
+              <chunk name="haber_pp">
+                <tags>
+                  <tag><lit-tag v="SV"/></tag>
+                  <tag><clip pos="2" side="tl" part="temps"/></tag>
+                  <tag><clip pos="2" side="tl" part="pers"/></tag>
+                  <tag><clip pos="2" side="tl" part="nbr"/></tag>
+                </tags>
+                <lu>
+                  <lit v="haber"/>
+                  <lit-tag v="vbhaver"/>
+                  <clip pos="2" side="tl" part="temps" link-to="2"/>
+                  <clip pos="2" side="sl" part="pers" link-to="3"/>
+                  <clip pos="2" side="sl" part="nbr" link-to="4"/>
+                </lu>
+                <b/>
+                <lu>
+                  <clip pos="1" side="tl" part="lem"/>
+                  <clip pos="1" side="sl" part="a_verb"/>
+                  <lit-tag v="pp"/>
+                  <lit-tag v="m"/>
+                  <lit-tag v="sg"/>
                 </lu>
               </chunk>
             </out>  
