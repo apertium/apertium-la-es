@@ -184,12 +184,16 @@
       <attr-item tags="ger"/>
       <attr-item tags="pp"/>
       <attr-item tags="pri"/>
+      <attr-item tags="pri.psv"/>
       <attr-item tags="ifi"/>
       <attr-item tags="pii"/>
       <attr-item tags="fti"/>
+      <attr-item tags="fti.psv"/>
       <attr-item tags="cni"/>
       <attr-item tags="prs"/>
+      <attr-item tags="prs.psv"/>
       <attr-item tags="pis"/>
+      <attr-item tags="pis.psv"/>
       <attr-item tags="fts"/>
       <attr-item tags="imp"/>
       <attr-item tags="pmp"/>
@@ -253,6 +257,54 @@
 
     <def-macro n="tempus" npar="1">
      	<choose>
+     	  <when>
+     	    <test>
+   	      <equal>
+     	        <clip pos="1" side="sl" part="temps"/>
+     	        <lit-tag v="fti.psv"/>
+     	      </equal>
+     	    </test>
+            <let>
+              <var n="temps_chunk"/>
+              <lit-tag v="fti"/>
+            </let>
+          </when>     	    
+     	  <when>
+     	    <test>
+   	      <equal>
+     	        <clip pos="1" side="sl" part="temps"/>
+     	        <lit-tag v="pri.psv"/>
+     	      </equal>
+     	    </test>
+            <let>
+              <var n="temps_chunk"/>
+              <lit-tag v="pri"/>
+            </let>
+          </when>
+     	  <when>
+     	    <test>
+   	      <equal>
+     	        <clip pos="1" side="sl" part="temps"/>
+     	        <lit-tag v="prs.psv"/>
+     	      </equal>
+     	    </test>
+            <let>
+              <var n="temps_chunk"/>
+              <lit-tag v="prs"/>
+            </let>
+          </when>     	    
+     	  <when>
+     	    <test>
+   	      <equal>
+     	        <clip pos="1" side="sl" part="temps"/>
+     	        <lit-tag v="pis.psv"/>
+     	      </equal>
+     	    </test>
+            <let>
+              <var n="temps_chunk"/>
+              <lit-tag v="pis"/>
+            </let>
+          </when>     	    
      	  <when>
      	    <test>
    	      <equal>
