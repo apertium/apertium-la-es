@@ -200,6 +200,7 @@
       <attr-item tags="pmp"/>
       <attr-item tags="ftp"/>
       <attr-item tags="pfs"/>
+      <attr-item tags="pms"/>
     </def-attr>
 
     
@@ -353,6 +354,18 @@
             <let>
               <var n="temps_chunk"/>
               <lit-tag v="prs"/>
+            </let>
+          </when>
+     	  <when>
+     	    <test>
+   	      <equal>
+     	        <clip pos="1" side="sl" part="temps"/>
+     	        <lit-tag v="pms"/>
+     	      </equal>
+     	    </test>
+            <let>
+              <var n="temps_chunk"/>
+              <lit-tag v="pis"/>
             </let>
           </when>
      	</choose>
@@ -537,6 +550,10 @@
                 <equal>
                   <clip pos="1" side="sl" part="temps"/>
                   <lit-tag v="pfs"/>
+                </equal>
+                <equal>
+                  <clip pos="1" side="sl" part="temps"/>
+                  <lit-tag v="pms"/>
                 </equal>
               </or>
             </test>
