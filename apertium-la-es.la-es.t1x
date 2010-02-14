@@ -646,20 +646,36 @@
               </equal>
             </test>
             <out>
-              <chunk name="verbcj">
+              <chunk name="haber_ser_pp">
                 <tags>
                   <tag><lit-tag v="SV"/></tag>
-                  <tag><lit-tag v="ifi"/></tag>
+                  <tag><clip pos="2" side="sl" part="temps"/></tag>
                   <tag><clip pos="2" side="sl" part="pers"/></tag>
                   <tag><clip pos="2" side="sl" part="nbr"/></tag>
+                  <tag><clip pos="1" side="sl" part="gen"/></tag>
                 </tags>
                 <lu>
-                  <clip pos="1" side="tl" part="lemh"/>
-                  <clip pos="1" side="tl" part="a_verb"/>
+                  <lit v="haber"/>
+                  <lit-tag v="vbhaver"/>
                   <clip pos="2" side="tl" part="temps" link-to="2"/>
-		  <clip pos="2" side="tl" part="pers" link-to="3"/>
-	  	  <clip pos="2" side="tl" part="nbr" link-to="4"/>
-                  <clip pos="1" side="tl" part="lemq"/>
+                  <clip pos="2" side="sl" part="pers" link-to="3"/>
+                  <clip pos="2" side="sl" part="nbr" link-to="4"/>
+                </lu>
+                <b/>
+                <lu>
+                  <lit v="ser"/>
+                  <lit-tag v="vbser"/>
+                  <lit-tag v="pp"/>
+                  <lit-tag v="m"/>
+                  <clip pos="2" side="sl" part="nbr" link-to="4"/>
+                </lu>
+                <b/>
+                <lu>
+                  <clip pos="1" side="tl" part="lem"/>
+                  <clip pos="1" side="sl" part="a_verb"/>
+                  <lit-tag v="pp"/>
+                  <clip pos="1" side="sl" part="gen" link-to="5"/>
+                  <clip pos="2" side="sl" part="nbr" link-to="4"/>
                 </lu>
               </chunk>
             </out>
