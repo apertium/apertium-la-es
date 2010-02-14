@@ -307,7 +307,7 @@
               <var n="temps_chunk"/>
               <lit-tag v="pis"/>
             </let>
-          </when>     	    
+          </when>
      	  <when>
      	    <test>
    	      <equal>
@@ -368,6 +368,12 @@
               <lit-tag v="pis"/>
             </let>
           </when>
+          <otherwise>
+            <let>
+              <var n="temps_chunk"/>
+              <clip pos="1" side="sl" part="temps"/>
+            </let>
+          </otherwise>
      	</choose>
      </def-macro>
 
@@ -590,7 +596,7 @@
               <chunk name="verbcj">
                 <tags>
                   <tag><lit-tag v="SV"/></tag>
-                  <tag><clip pos="1" side="tl" part="temps"/></tag>
+                  <tag><var n="temps_chunk"/></tag>
                   <tag><clip pos="1" side="tl" part="pers"/></tag>
                   <tag><clip pos="1" side="tl" part="nbr"/></tag>
                 </tags>
