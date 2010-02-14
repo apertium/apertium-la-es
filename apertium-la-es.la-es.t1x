@@ -600,6 +600,59 @@
                 </lu>
               </chunk>
             </out>
+          </when>
+
+          <when>
+            <test>
+              <or>
+                <equal>
+                  <clip pos="1" side="sl" part="temps"/>
+                  <lit-tag v="pri.psv"/>
+                </equal>
+                <equal>
+                  <clip pos="1" side="sl" part="temps"/>
+                  <lit-tag v="pii.psv"/>
+                </equal>
+                <equal>
+                  <clip pos="1" side="sl" part="temps"/>
+                  <lit-tag v="fti.psv"/>
+                </equal>
+                <equal>
+                  <clip pos="1" side="sl" part="temps"/>
+                  <lit-tag v="prs.psv"/>
+                </equal>
+                <equal>
+                  <clip pos="1" side="sl" part="temps"/>
+                  <lit-tag v="pis.psv"/>
+                </equal>
+              </or>
+            </test>
+            <out>
+              <chunk name="ser_pp">
+                <tags>
+                  <tag><lit-tag v="SV"/></tag>
+                  <tag><var n="temps_chunk"/></tag>
+                  <tag><clip pos="1" side="sl" part="pers"/></tag>
+                  <tag><clip pos="1" side="sl" part="nbr"/></tag>
+                  <tag><lit-tag v="m"/></tag>
+                </tags>
+                <lu>
+                  <lit v="ser"/>
+                  <lit-tag v="vbser"/>
+                  <clip pos="1" side="tl" part="temps" link-to="2"/>
+                  <clip pos="1" side="sl" part="pers" link-to="3"/>
+                  <clip pos="1" side="sl" part="nbr" link-to="4"/>
+                </lu>
+                <b/>
+                <lu>
+                  <clip pos="1" side="tl" part="lem"/>
+                  <clip pos="1" side="sl" part="a_verb"/>
+                  <lit-tag v="pp"/>
+                  <lit-tag v="5"/>
+                  <lit-tag v="sg"/>
+                </lu>
+              </chunk>
+            </out>
           </when>         
 
           <otherwise>
@@ -637,14 +690,6 @@
         <call-macro n="firstWord">
           <with-param pos="1"/>
         </call-macro>
-<!--        <choose>
-          <when>
-            <test>
-              <equal>
-                <clip pos="2" side="sl" part="temps"/>
-                <lit-tag v="pri"/>
-              </equal>
-            </test> -->
             <out>
               <chunk name="haber_ser_pp">
                 <tags>
@@ -679,39 +724,6 @@
                 </lu>
               </chunk>
             </out>
-<!--          </when>         
-
-          <otherwise>
-            
-    	    <out>
-              <chunk name="haber_pp">
-                <tags>
-                  <tag><lit-tag v="SV"/></tag>
-                  <tag><clip pos="2" side="tl" part="temps"/></tag>
-                  <tag><clip pos="2" side="tl" part="pers"/></tag>
-                  <tag><clip pos="2" side="tl" part="nbr"/></tag>
-                </tags>
-                <lu>
-                  <lit v="haber"/>
-                  <lit-tag v="vbhaver"/>
-                  <clip pos="2" side="tl" part="temps" link-to="2"/>
-                  <clip pos="2" side="sl" part="pers" link-to="3"/>
-                  <clip pos="2" side="sl" part="nbr" link-to="4"/>
-                </lu>
-                <b/>
-                <lu>
-                  <clip pos="1" side="tl" part="lem"/>
-                  <clip pos="1" side="sl" part="a_verb"/>
-                  <lit-tag v="pp"/>
-                  <lit-tag v="m"/>
-                  <lit-tag v="sg"/>
-                </lu>
-              </chunk>
-            </out>  
-          </otherwise>
-
-        </choose>     
--->
       </action>
     </rule>
 
