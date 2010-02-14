@@ -637,14 +637,14 @@
         <call-macro n="firstWord">
           <with-param pos="1"/>
         </call-macro>
-        <choose>
+<!--        <choose>
           <when>
             <test>
               <equal>
                 <clip pos="2" side="sl" part="temps"/>
                 <lit-tag v="pri"/>
               </equal>
-            </test>
+            </test> -->
             <out>
               <chunk name="haber_ser_pp">
                 <tags>
@@ -679,7 +679,7 @@
                 </lu>
               </chunk>
             </out>
-          </when>         
+<!--          </when>         
 
           <otherwise>
             
@@ -711,7 +711,7 @@
           </otherwise>
 
         </choose>     
-
+-->
       </action>
     </rule>
 
