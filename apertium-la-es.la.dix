@@ -4438,6 +4438,222 @@
           <r>are<s n="vblex"/><s n="inf"/></r>
         </p>
       </e>
+      <e>
+        <p>
+          <l>avissem</l>
+          <r>are<s n="vblex"/><s n="pms"/><s n="p1"/><s n="sg"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>avissemus</l>
+          <r>are<s n="vblex"/><s n="pms"/><s n="p1"/><s n="pl"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>avisses</l>
+          <r>are<s n="vblex"/><s n="pms"/><s n="p2"/><s n="sg"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>avissetis</l>
+          <r>are<s n="vblex"/><s n="pms"/><s n="p2"/><s n="pl"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>avisset</l>
+          <r>are<s n="vblex"/><s n="pms"/><s n="p3"/><s n="sg"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>avissent</l>
+          <r>are<s n="vblex"/><s n="pms"/><s n="p3"/><s n="pl"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>averim</l>
+          <r>are<s n="vblex"/><s n="pfs"/><s n="p1"/><s n="sg"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>averimus</l>
+          <r>are<s n="vblex"/><s n="pfs"/><s n="p1"/><s n="pl"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>averis</l>
+          <r>are<s n="vblex"/><s n="pfs"/><s n="p2"/><s n="sg"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>averitis</l>
+          <r>are<s n="vblex"/><s n="pfs"/><s n="p2"/><s n="pl"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>averit</l>
+          <r>are<s n="vblex"/><s n="pfs"/><s n="p3"/><s n="sg"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>averint</l>
+          <r>are<s n="vblex"/><s n="pfs"/><s n="p3"/><s n="pl"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>arem</l>
+          <r>are<s n="vblex"/><s n="pis"/><s n="p1"/><s n="sg"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>aremus</l>
+          <r>are<s n="vblex"/><s n="pis"/><s n="p1"/><s n="pl"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ares</l>
+          <r>are<s n="vblex"/><s n="pis"/><s n="p2"/><s n="sg"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>aretis</l>
+          <r>are<s n="vblex"/><s n="pis"/><s n="p2"/><s n="pl"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>aret</l>
+          <r>are<s n="vblex"/><s n="pis"/><s n="p3"/><s n="sg"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>arent</l>
+          <r>are<s n="vblex"/><s n="pis"/><s n="p3"/><s n="pl"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>arer</l>
+          <r>are<s n="vblex"/><s n="pis"/><s n="psv"/><s n="p1"/><s n="sg"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>aremur</l>
+          <r>are<s n="vblex"/><s n="pis"/><s n="psv"/><s n="p1"/><s n="pl"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>areris</l>
+          <r>are<s n="vblex"/><s n="pis"/><s n="psv"/><s n="p2"/><s n="sg"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>aremini</l>
+          <r>are<s n="vblex"/><s n="pis"/><s n="psv"/><s n="p2"/><s n="pl"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>aretur</l>
+          <r>are<s n="vblex"/><s n="pis"/><s n="psv"/><s n="p3"/><s n="sg"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>arentur</l>
+          <r>are<s n="vblex"/><s n="pis"/><s n="psv"/><s n="p3"/><s n="pl"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>em</l>
+          <r>are<s n="vblex"/><s n="prs"/><s n="p1"/><s n="sg"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>emus</l>
+          <r>are<s n="vblex"/><s n="prs"/><s n="p1"/><s n="pl"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>es</l>
+          <r>are<s n="vblex"/><s n="prs"/><s n="p2"/><s n="sg"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>etis</l>
+          <r>are<s n="vblex"/><s n="prs"/><s n="p2"/><s n="pl"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>et</l>
+          <r>are<s n="vblex"/><s n="prs"/><s n="p3"/><s n="sg"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ent</l>
+          <r>are<s n="vblex"/><s n="prs"/><s n="p3"/><s n="pl"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>er</l>
+          <r>are<s n="vblex"/><s n="prs"/><s n="psv"/><s n="p1"/><s n="sg"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>emur</l>
+          <r>are<s n="vblex"/><s n="prs"/><s n="psv"/><s n="p1"/><s n="pl"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>eris</l>
+          <r>are<s n="vblex"/><s n="prs"/><s n="psv"/><s n="p2"/><s n="sg"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>emini</l>
+          <r>are<s n="vblex"/><s n="prs"/><s n="psv"/><s n="p2"/><s n="pl"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>etur</l>
+          <r>are<s n="vblex"/><s n="prs"/><s n="psv"/><s n="p3"/><s n="sg"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>entur</l>
+          <r>are<s n="vblex"/><s n="prs"/><s n="psv"/><s n="p3"/><s n="pl"/></r>
+        </p>
+      </e>
     </pardef>
 
   </pardefs>
