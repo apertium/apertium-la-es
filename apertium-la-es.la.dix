@@ -84,6 +84,7 @@
     <sdef n="pp"/>
     <sdef n="act"/>
     <sdef n="psv"/>
+    <sdef n="spn"/>
 
     <sdef n="p1"/>
     <sdef n="p2"/>
@@ -4084,6 +4085,18 @@
           <r>ire<s n="vblex"/><s n="prs"/><s n="p3"/><s n="pl"/></r>
         </p>
       </e>
+      <e>
+        <p>
+          <l>iri</l>
+          <r>ire<s n="vblex"/><s n="inf"/><s n="psv"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>itum</l>
+          <r>ire<s n="vblex"/><s n="spn"/></r>
+        </p>
+      </e>
     </pardef>
     <pardef n="am/are__vblex">
       <e>
@@ -4652,6 +4665,12 @@
         <p>
           <l>entur</l>
           <r>are<s n="vblex"/><s n="prs"/><s n="psv"/><s n="p3"/><s n="pl"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>atum</l>
+          <r>are<s n="vblex"/><s n="spn"/></r>
         </p>
       </e>
     </pardef>
