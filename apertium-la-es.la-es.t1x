@@ -187,6 +187,7 @@
       <attr-item tags="pri.psv"/>
       <attr-item tags="ifi"/>
       <attr-item tags="pii"/>
+      <attr-item tags="pii.psv"/>
       <attr-item tags="fti"/>
       <attr-item tags="fti.psv"/>
       <attr-item tags="cni"/>
@@ -198,6 +199,7 @@
       <attr-item tags="imp"/>
       <attr-item tags="pmp"/>
       <attr-item tags="ftp"/>
+      <attr-item tags="pfs"/>
     </def-attr>
 
     
@@ -292,7 +294,7 @@
               <var n="temps_chunk"/>
               <lit-tag v="prs"/>
             </let>
-          </when>     	    
+          </when>
      	  <when>
      	    <test>
    	      <equal>
@@ -309,6 +311,18 @@
      	    <test>
    	      <equal>
      	        <clip pos="1" side="sl" part="temps"/>
+     	        <lit-tag v="pii.psv"/>
+     	      </equal>
+     	    </test>
+            <let>
+              <var n="temps_chunk"/>
+              <lit-tag v="pii"/>
+            </let>
+          </when>
+     	  <when>
+     	    <test>
+   	      <equal>
+     	        <clip pos="1" side="sl" part="temps"/>
      	        <lit-tag v="pmp"/>
      	      </equal>
      	    </test>
@@ -316,7 +330,7 @@
               <var n="temps_chunk"/>
               <lit-tag v="pii"/>
             </let>
-          </when>     	    
+          </when>
      	  <when>
      	    <test>
    	      <equal>
@@ -329,6 +343,18 @@
               <lit-tag v="fti"/>
             </let>
           </when>     	    
+     	  <when>
+     	    <test>
+   	      <equal>
+     	        <clip pos="1" side="sl" part="temps"/>
+     	        <lit-tag v="pfs"/>
+     	      </equal>
+     	    </test>
+            <let>
+              <var n="temps_chunk"/>
+              <lit-tag v="prs"/>
+            </let>
+          </when>
      	</choose>
      </def-macro>
 
@@ -507,6 +533,10 @@
                 <equal>
                   <clip pos="1" side="sl" part="temps"/>
                   <lit-tag v="ftp"/>
+                </equal>
+                <equal>
+                  <clip pos="1" side="sl" part="temps"/>
+                  <lit-tag v="pfs"/>
                 </equal>
               </or>
             </test>
