@@ -50,9 +50,29 @@
       <cat-item tags="prn.pro.*"/>
     </def-cat>
     <def-cat n="verb">
-      <cat-item tags="vblex.*"/>
-      <cat-item tags="vbser.*"/>
-      <cat-item tags="vbhaver.*"/>
+      <cat-item tags="vbser.pri.*"/>
+      <cat-item tags="vbser.pis.*"/>
+      <cat-item tags="vbser.prs.*"/>
+      <cat-item tags="vbser.fti.*"/>
+      <cat-item tags="vbser.pii.*"/>
+      <cat-item tags="vbser.ifi.*"/>
+      <cat-item tags="vbser.fts.*"/>
+      <cat-item tags="vblex.fts.*"/>
+      <cat-item tags="vblex.ifi.*"/>
+      <cat-item tags="vblex.pri.*"/>
+      <cat-item tags="vblex.pri.psv.*"/>
+      <cat-item tags="vblex.pis.*"/>
+      <cat-item tags="vblex.pis.psv.*"/>
+      <cat-item tags="vblex.prs.*"/>
+      <cat-item tags="vblex.prs.psv.*"/>
+      <cat-item tags="vblex.fti.*"/>
+      <cat-item tags="vblex.fti.psv.*"/>
+      <cat-item tags="vblex.pii.*"/>
+      <cat-item tags="vblex.pii.psv.*"/>
+      <cat-item tags="vblex.pmp.*"/>
+      <cat-item tags="vblex.pfs.*"/>
+      <cat-item tags="vblex.ftp.*"/>
+      <cat-item tags="vblex.pms.*"/>
     </def-cat>
     <def-cat n="esse_peri">
       <cat-item tags="vbser.pri.*"/>
@@ -761,7 +781,7 @@
                 <lu>
                   <clip pos="1" side="tl" part="lem"/>
                   <clip pos="1" side="sl" part="a_verb"/>
-                  <clip pos="1" side="sl" part="temps" link-to="2"/>
+                  <lit-tag v="2"/>
                 </lu>
               </chunk>
             </out>
