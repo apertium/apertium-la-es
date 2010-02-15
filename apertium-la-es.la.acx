@@ -23,4 +23,50 @@
   <char value="u">
     <equiv-char value="ū"/>
   </char>
+  <char value="A">
+    <equiv-char value="Ā"/>
+  </char>
+  <char value="E">
+    <equiv-char value="Ē"/>
+  </char>
+  <char value="I">
+    <equiv-char value="Ī"/>
+  </char>
+  <char value="O">
+    <equiv-char value="Ō"/>
+  </char>
+  <char value="U">
+    <equiv-char value="Ū"/>
+  </char>
+  <char value="a">
+    <equiv-char value="ă"/>
+  </char>
+  <char value="e">
+    <equiv-char value="ĕ"/>
+  </char>
+  <char value="i">
+    <equiv-char value="ĭ"/>
+  </char>
+  <char value="o">
+    <equiv-char value="ŏ"/>
+  </char>
+  <char value="u">
+    <equiv-char value="ŭ"/>
+  </char>
+  <char value="A">
+    <equiv-char value="Ă"/>
+  </char>
+  <char value="E">
+    <equiv-char value="Ĕ"/>
+  </char>
+  <char value="I">
+    <equiv-char value="Ĭ"/>
+  </char>
+  <char value="O">
+    <equiv-char value="Ŏ"/>
+  </char>
+  <char value="U">
+    <equiv-char value="Ŭ"/>
+  </char>
+
 </analysis-chars>
