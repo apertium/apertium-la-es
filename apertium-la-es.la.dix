@@ -4688,6 +4688,9 @@
     <e lm="ad"><i>ad</i><par n="ab__pr"/></e>
     <e lm="prae"><i>prae</i><par n="ab__pr"/></e>
     <e lm="praeter"><i>praeter</i><par n="ab__pr"/></e>
+    <e lm="iuntus"><i>iuntus</i><par n="ab__pr"/></e>
+    <e lm="cause"><i>cause</i><par n="ab__pr"/></e>
+    <e lm="palam"><i>palam</i><par n="ab__pr"/></e>
     <e a="agfl-lat" lm="a"><i>a</i><par n="ab__pr"/></e>
     <e a="agfl-lat" lm="abs"><i>abs</i><par n="ab__pr"/></e>
     <e a="agfl-lat" lm="adversus"><i>adversus</i><par n="ab__pr"/></e>
@@ -5509,6 +5512,7 @@
     <!-- Declension 2 m us, i -->
     <e lm="murus"><i>mur</i><par n="mur/us__n"/></e> <!-- wall -->
     <e lm="domus"><i>dom</i><par n="dom/us__n"/></e>
+    <e lm="catechismus"><i>catechism</i><par n="dom/us__n"/></e>
     <e lm="Romanus"><i>Roman</i><par n="mur/us__n"/></e>
     <e a="agfl-lat" lm="abavus"><i>abav</i><par n="mur/us__n"/></e>
     <e a="agfl-lat" lm="abortivus"><i>abortiv</i><par n="mur/us__n"/></e>
