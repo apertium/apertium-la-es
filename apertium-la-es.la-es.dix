@@ -26,6 +26,10 @@
      <sdef n="mf"/>
      <sdef n="GD"/>
 
+     <sdef n="sp"/>
+     <sdef n="pl"/>
+     <sdef n="sg"/>
+
      <sdef n="cnjcoo"/>
 
      <sdef n="vbser"/>
@@ -796,6 +800,57 @@
     <e><p><l>praecox<s n="adj"/></l><r>precoz<s n="adj"/></r></p></e>
     <e><p><l>velox<s n="adj"/></l><r>veloz<s n="adj"/></r></p></e>
     <e><p><l>loquax<s n="adj"/></l><r>locuaz<s n="adj"/></r></p></e>
+    <e><p><l>ammixtus<s n="adj"/></l><r>mixto<s n="adj"/></r></p></e>
+    <e><p><l>ammirandus<s n="adj"/></l><r>admirable<s n="adj"/><s n="mf"/></r></p></e>
+    <e><p><l>ammorsus<s n="adj"/></l><r>mordido<s n="adj"/></r></p></e>
+    <e><p><l>abdicativus<s n="adj"/></l><r>negativo<s n="adj"/></r></p></e>
+    <e><p><l>abbreviatus<s n="adj"/></l><r>abreviado<s n="adj"/></r></p></e>
+    <e><p><l>abjudicativus<s n="adj"/></l><r>negativo<s n="adj"/></r></p></e>
+    <e><p><l>ablativus<s n="adj"/></l><r>ablativo<s n="adj"/></r></p></e>
+    <e><p><l>abnegativus<s n="adj"/></l><r>negativo<s n="adj"/></r></p></e>
+    <e><p><l>abnutivus<s n="adj"/></l><r>negativo<s n="adj"/></r></p></e>
+    <e><p><l>absolutus<s n="adj"/></l><r>absoluto<s n="adj"/></r></p></e>
+    <e><p><l>academicus<s n="adj"/></l><r>académico<s n="adj"/></r></p></e>
+    <e><p><l>abstractus<s n="adj"/></l><r>abstracto<s n="adj"/></r></p></e>
+    <e><p><l>absconditus<s n="adj"/></l><r>escondido<s n="adj"/></r></p></e>
+    <e><p><l>absconsus<s n="adj"/></l><r>escondido<s n="adj"/></r></p></e>
+    <e><p><l>absortus<s n="adj"/></l><r>absorbido<s n="adj"/></r></p></e>
+    <e><p><l>acatholicus<s n="adj"/></l><r>no<b/>católico<s n="adj"/></r></p></e>
+    <e><p><l>activus<s n="adj"/></l><r>activo<s n="adj"/></r></p></e>
+    <e><p><l>acusticus<s n="adj"/></l><r>acústico<s n="adj"/></r></p></e>
+    <e><p><l>acutatus<s n="adj"/></l><r>agudizado<s n="adj"/></r></p></e>
+    <e><p><l>adaequatus<s n="adj"/></l><r>adecuado<s n="adj"/></r></p></e>
+    <e><p><l>adapertivus<s n="adj"/></l><r>apertura<s n="adj"/></r></p></e>
+    <e><p><l>adaptertus<s n="adj"/></l><r>abierto<s n="adj"/></r></p></e>
+    <e><p><l>additicius<s n="adj"/></l><r>adicional<s n="adj"/><s n="mf"/></r></p></e>
+    <e><p><l>addititius<s n="adj"/></l><r>adicional<s n="adj"/><s n="mf"/></r></p></e>
+    <e><p><l>adfectatus<s n="adj"/></l><r>afectado<s n="adj"/></r></p></e>
+    <e><p><l>adhaesivus<s n="adj"/></l><r>adhesivo<s n="adj"/></r></p></e>
+    <e><p><l>adfirmativus<s n="adj"/></l><r>afirmativo<s n="adj"/></r></p></e>
+    <e><p><l>adluvius<s n="adj"/></l><r>aluvial<s n="adj"/><s n="mf"/></r></p></e>
+    <e><p><l>admixtus<s n="adj"/></l><r>mixto<s n="adj"/></r></p></e>
+    <e><p><l>admorsus<s n="adj"/></l><r>mordido<s n="adj"/></r></p></e>
+    <e><p><l>adoptivus<s n="adj"/></l><r>adoptivo<s n="adj"/></r></p></e>
+    <e><p><l>adtonitus<s n="adj"/></l><r>atónito<s n="adj"/></r></p></e>
+    <e><p><l>adtractorius<s n="adj"/></l><r>atractivo<s n="adj"/></r></p></e>
+    <e><p><l>adventicius<s n="adj"/></l><r>extranjero<s n="adj"/></r></p></e>
+    <e><p><l>adulterus<s n="adj"/></l><r>adúltero<s n="adj"/></r></p></e>
+    <e><p><l>adventitius<s n="adj"/></l><r>extranjero<s n="adj"/></r></p></e>
+    <e><p><l>aequilatus<s n="adj"/></l><r>equilátero<s n="adj"/></r></p></e>
+    <e><p><l>aequivocus<s n="adj"/></l><r>equívoco<s n="adj"/></r></p></e>
+    <e><p><l>aequipedus<s n="adj"/></l><r>isósceles<s n="adj"/><s n="mf"/><s n="sp"/></r></p></e>
+    <e><p><l>aequidianus<s n="adj"/></l><r>equinoccial<s n="adj"/><s n="mf"/></r></p></e>
+    <e><p><l>alcoholicus<s n="adj"/></l><r>alcohólico<s n="adj"/></r></p></e>
+    <e><p><l>algidus<s n="adj"/></l><r>frío<s n="adj"/></r></p></e>
+    <e><p><l>allergicus<s n="adj"/></l><r>alérgico<s n="adj"/></r></p></e>
+    <e><p><l>aliturgicus<s n="adj"/></l><r>sin<b/>liturgia<s n="adj"/><s n="mf"/><s n="sp"/></r></p></e>
+    <e><p><l>alphabeticus<s n="adj"/></l><r>alfabético<s n="adj"/></r></p></e>
+    <e><p><l>alternatus<s n="adj"/></l><r>alterno<s n="adj"/></r></p></e>
+    <e><p><l>alternus<s n="adj"/></l><r>alterno<s n="adj"/></r></p></e>
+    <e><p><l>amorabundus<s n="adj"/></l><r>amoroso<s n="adj"/></r></p></e>
+    <e><p><l>amphibius<s n="adj"/></l><r>anfibio<s n="adj"/></r></p></e>
+    <e><p><l>amphibolus<s n="adj"/></l><r>anfibio<s n="adj"/></r></p></e>
+    <e><p><l>analogicus<s n="adj"/></l><r>análogo<s n="adj"/></r></p></e>
 
     <e><p><l>abstantia<s n="n"/><s n="f"/></l><r>distancia<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>abstemia<s n="n"/><s n="f"/></l><r>distancia<s n="n"/><s n="f"/></r></p></e>
