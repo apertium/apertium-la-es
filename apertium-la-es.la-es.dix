@@ -6,6 +6,7 @@
      <sdef n="pr"/>
      <sdef n="np"/>
      <sdef n="adv"/>
+     <sdef n="adj"/>
 
      <sdef n="det"/>
      <sdef n="dem"/>
@@ -782,6 +783,10 @@
     <e><p><l>benedictus<s n="n"/><s n="m"/></l><r>bendito<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>bibliothecarius<s n="n"/><s n="m"/></l><r>bibliotecario<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>biologus<s n="n"/><s n="m"/></l><r>biólogo<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>corpus<s n="n"/><s n="m"/></l><r>cuerpo<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>corpus<g><b/>Christi</g><s n="n"/><s n="m"/></l><r>cuerpo<g><b/>de<b/>Cristo</g><s n="n"/><s n="m"/></r></p></e>
+
+    <e><p><l>humanus<s n="adj"/></l><r>humano<s n="adj"/></r></p></e>
 
     <e><p><l>abstantia<s n="n"/><s n="f"/></l><r>distancia<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>abstemia<s n="n"/><s n="f"/></l><r>distancia<s n="n"/><s n="f"/></r></p></e>
