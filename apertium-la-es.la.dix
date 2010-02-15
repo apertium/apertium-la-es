@@ -1230,7 +1230,236 @@
         </p>
       </e>
     </pardef>
-
+    <pardef n="BASE__atrox">
+      <e>
+        <p>
+          <l>ci</l>
+          <r><s n="m"/><s n="sg"/><s n="abl"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>cis</l>
+          <r><s n="m"/><s n="sg"/><s n="gen"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ci</l>
+          <r><s n="m"/><s n="sg"/><s n="dat"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>cem</l>
+          <r><s n="m"/><s n="sg"/><s n="acc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>x</l>
+          <r><s n="m"/><s n="sg"/><s n="voc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>x</l>
+          <r><s n="m"/><s n="sg"/><s n="nom"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>cibus</l>
+          <r><s n="m"/><s n="pl"/><s n="abl"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>cium</l>
+          <r><s n="m"/><s n="pl"/><s n="gen"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>cibus</l>
+          <r><s n="m"/><s n="pl"/><s n="dat"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ces</l>
+          <r><s n="m"/><s n="pl"/><s n="acc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>cis</l>
+          <r><s n="m"/><s n="pl"/><s n="acc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ces</l>
+          <r><s n="m"/><s n="pl"/><s n="voc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ces</l>
+          <r><s n="m"/><s n="pl"/><s n="nom"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ci</l>
+          <r><s n="f"/><s n="sg"/><s n="abl"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>cis</l>
+          <r><s n="f"/><s n="sg"/><s n="gen"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ci</l>
+          <r><s n="f"/><s n="sg"/><s n="dat"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>cem</l>
+          <r><s n="f"/><s n="sg"/><s n="acc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>x</l>
+          <r><s n="f"/><s n="sg"/><s n="voc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>x</l>
+          <r><s n="f"/><s n="sg"/><s n="nom"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>cibus</l>
+          <r><s n="f"/><s n="pl"/><s n="abl"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>cium</l>
+          <r><s n="f"/><s n="pl"/><s n="gen"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>cibus</l>
+          <r><s n="f"/><s n="pl"/><s n="dat"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ces</l>
+          <r><s n="f"/><s n="pl"/><s n="acc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>cis</l>
+          <r><s n="f"/><s n="pl"/><s n="acc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ces</l>
+          <r><s n="f"/><s n="pl"/><s n="voc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ces</l>
+          <r><s n="f"/><s n="pl"/><s n="nom"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ci</l>
+          <r><s n="nt"/><s n="sg"/><s n="abl"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>cis</l>
+          <r><s n="nt"/><s n="sg"/><s n="gen"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ci</l>
+          <r><s n="nt"/><s n="sg"/><s n="dat"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>x</l>
+          <r><s n="nt"/><s n="sg"/><s n="acc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>x</l>
+          <r><s n="nt"/><s n="sg"/><s n="voc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>x</l>
+          <r><s n="nt"/><s n="sg"/><s n="nom"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>cibus</l>
+          <r><s n="nt"/><s n="pl"/><s n="abl"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>cium</l>
+          <r><s n="nt"/><s n="pl"/><s n="gen"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>cibus</l>
+          <r><s n="nt"/><s n="pl"/><s n="dat"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>cia</l>
+          <r><s n="nt"/><s n="pl"/><s n="acc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>cia</l>
+          <r><s n="nt"/><s n="pl"/><s n="voc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>cia</l>
+          <r><s n="nt"/><s n="pl"/><s n="nom"/></r>
+        </p>
+      </e>
+    </pardef>
 
     <pardef n="tot/us__prn">
       <e>
@@ -1336,6 +1565,29 @@
         <p>
           <l>errim</l>
           <r>us<s n="adj"/><s n="sup"/></r>
+        </p>
+        <par n="BASE__amatus"/>
+      </e>
+    </pardef>
+    <pardef n="atro/x__adj">
+      <e>
+        <p>
+          <l></l>
+          <r>x<s n="adj"/></r>
+        </p>
+        <par n="BASE__atrox"/>
+      </e>
+      <e>
+        <p>
+          <l>ci</l>
+          <r>x<s n="adj"/><s n="comp"/></r>
+        </p>
+        <par n="BASE__senior"/>
+      </e>
+      <e>
+        <p>
+          <l>cissim</l>
+          <r>x<s n="adj"/><s n="sup"/></r>
         </p>
         <par n="BASE__amatus"/>
       </e>
@@ -7188,6 +7440,7 @@
     <e lm="iuvenis"><i>iu</i><par n="iu/venis__adj"/></e>
     <e lm="senex"><i>sen</i><par n="sen/ex__adj"/></e>
     <e lm="vetus"><i>vet</i><par n="vet/us__adj"/></e>
+    <e lm="atrox"><i>atro</i><par n="atro/x__adj"/></e>
 
   </section>
   <section id="punt" type="inconditional">
