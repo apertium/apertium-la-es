@@ -4670,7 +4670,13 @@
       <e>
         <p>
           <l>atum</l>
-          <r>are<s n="vblex"/><s n="spn"/></r>
+          <r>are<s n="vblex"/><s n="spn"/><s n="acc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>atu</l>
+          <r>are<s n="vblex"/><s n="spn"/><s n="dat"/></r>
         </p>
       </e>
     </pardef>

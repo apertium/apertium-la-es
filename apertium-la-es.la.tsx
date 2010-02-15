@@ -28,9 +28,12 @@
   <def-label name="PP" closed="true">
     <tags-item tags="vblex.pp.*"/>
     <tags-item tags="vbser.pp.*"/>
+  </def-label>
+  <def-label name="SUPINEACC">
+    <tags-item tags="vblex.spn.acc"/>
   </def-label> 
-  <def-label name="SUPINE">
-    <tags-item tags="vblex.spn"/>
+  <def-label name="SUPINEDATABL">
+    <tags-item tags="vblex.spn.dat"/>
   </def-label> 
 
 </tagset>

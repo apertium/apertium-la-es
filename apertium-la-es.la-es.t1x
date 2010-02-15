@@ -86,10 +86,11 @@
       <cat-item tags="vbser.inf"/>
       <cat-item tags="vbhaver.inf"/>
     </def-cat>
-    <def-cat n="supine">
-      <cat-item tags="vblex.spn"/>
-      <cat-item tags="vbser.spn"/>
-      <cat-item tags="vbhaver.spn"/>
+    <def-cat n="supine_acc">
+      <cat-item tags="vblex.spn.acc"/>
+      <cat-item tags="vbser.spn.acc"/>
+      <cat-item tags="vbhaver.spn.acc"/>
+      <cat-item tags="vblex.pp.m.sg.acc"/>
     </def-cat>
     <def-cat n="iri">
       <cat-item lemma="ire" tags="vblex.inf.psv"/>
