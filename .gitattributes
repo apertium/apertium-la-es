@@ -11,6 +11,7 @@
 /apertium-la-es.la-es.t3x -text
 /apertium-la-es.la.acx -text
 /apertium-la-es.la.dix -text
+/apertium-la-es.la.tsx -text
 /apertium-la-es.post-es.dix -text
 /autogen.sh -text
 /configure.ac -text
