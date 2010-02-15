@@ -62,7 +62,7 @@
     <sdef n="pos"/>
 
     <sdef n="adj"/>
-    <sdef n="cmp"/>
+    <sdef n="comp"/>
     <sdef n="sup"/>
 
     <sdef n="vbser"/>
@@ -598,7 +598,7 @@
       <e>
         <p>
           <l>i</l>
-          <r>us<s n="adj"/><s n="cmp"/></r>
+          <r>us<s n="adj"/><s n="comp"/></r>
         </p>
         <par n="BASE__senior"/>
       </e>
