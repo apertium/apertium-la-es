@@ -757,7 +757,7 @@
     </rule>
     <rule>  
       <pattern>
-        <pattern-item n="supine"/>
+        <pattern-item n="supine_acc"/>
       </pattern>
       <action>
         <call-macro n="firstWord">
@@ -790,7 +790,7 @@
     </rule>
     <rule>  
       <pattern>
-        <pattern-item n="supine"/>
+        <pattern-item n="supine_acc"/>
         <pattern-item n="iri"/>
       </pattern>
       <action>
