@@ -7441,6 +7441,11 @@
     <e lm="senex"><i>sen</i><par n="sen/ex__adj"/></e>
     <e lm="vetus"><i>vet</i><par n="vet/us__adj"/></e>
     <e lm="atrox"><i>atro</i><par n="atro/x__adj"/></e>
+    <e lm="celox"><i>celo</i><par n="atro/x__adj"/></e>
+    <e lm="ferox"><i>fero</i><par n="atro/x__adj"/></e>
+    <e lm="praecox"><i>praeco</i><par n="atro/x__adj"/></e>
+    <e lm="velox"><i>velo</i><par n="atro/x__adj"/></e>
+    <e lm="loquax"><i>loqua</i><par n="atro/x__adj"/></e>
 
   </section>
   <section id="punt" type="inconditional">

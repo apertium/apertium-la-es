@@ -87,7 +87,7 @@
 
     <e><p><l>amare<s n="vblex"/></l><r>amar<s n="vblex"/></r></p></e>
     <e><p><l>ire<s n="vblex"/></l><r>ir<s n="vblex"/></r></p></e>
-    <e><p><l>abbreviare<s n="vblex"/></l><r>Abreviar<s n="vblex"/></r></p></e>
+    <e><p><l>abbreviare<s n="vblex"/></l><r>abreviar<s n="vblex"/></r></p></e>
     <e><p><l>abdicare<s n="vblex"/></l><r>abdicar<s n="vblex"/></r></p></e>
     <e><p><l>abitare<s n="vblex"/></l><r>habitar<s n="vblex"/></r></p></e>
     <e><p><l>accelerare<s n="vblex"/></l><r>acelerar<s n="vblex"/></r></p></e>
@@ -791,6 +791,11 @@
     <e><p><l>senex<s n="adj"/></l><r>viejo<s n="adj"/></r></p></e>
     <e><p><l>vetus<s n="adj"/></l><r>viejo<s n="adj"/></r></p></e>
     <e><p><l>atrox<s n="adj"/></l><r>atroz<s n="adj"/></r></p></e>
+    <e><p><l>celox<s n="adj"/></l><r>rápido<s n="adj"/></r></p></e>
+    <e><p><l>ferox<s n="adj"/></l><r>feroz<s n="adj"/></r></p></e>
+    <e><p><l>praecox<s n="adj"/></l><r>precoz<s n="adj"/></r></p></e>
+    <e><p><l>velox<s n="adj"/></l><r>veloz<s n="adj"/></r></p></e>
+    <e><p><l>loquax<s n="adj"/></l><r>locuaz<s n="adj"/></r></p></e>
 
     <e><p><l>abstantia<s n="n"/><s n="f"/></l><r>distancia<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>abstemia<s n="n"/><s n="f"/></l><r>distancia<s n="n"/><s n="f"/></r></p></e>
