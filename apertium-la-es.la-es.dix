@@ -32,15 +32,38 @@
      <sdef n="cm"/>
   </sdefs>
   <section id="main" type="standard">
+    <e><p><l>ab<s n="pr"/></l><r>desde<s n="pr"/></r></p></e>
+    <e><p><l>a<s n="pr"/></l><r>desde<s n="pr"/></r></p></e>
+    <e><p><l>ad<s n="pr"/></l><r>hacia<s n="pr"/></r></p></e>
+    <e><p><l>adversus<s n="pr"/></l><r>en>b/>dirección<b/>a<s n="pr"/></r></p></e>
+    <e><p><l>apud<s n="pr"/></l><r>junta<b/>a<s n="pr"/></r></p></e>
+    <e><p><l>causa<s n="pr"/></l><r>a<b/>causa<b/>de<b/>a<s n="pr"/></r></p></e>
     <e><p><l>sine<s n="pr"/></l><r>sin<s n="pr"/></r></p></e>
     <e><p><l>pro<s n="pr"/></l><r>pro<s n="pr"/></r></p></e>
     <e><p><l>ad<s n="pr"/></l><r>a<s n="pr"/></r></p></e>
     <e><p><l>ante<s n="pr"/></l><r>ante<s n="pr"/></r></p></e>
-    <e><p><l>circa<s n="pr"/></l><r>cerca<s n="pr"/></r></p></e>
-    <e><p><l>contra<s n="pr"/></l><r>contra<s n="pr"/></r></p></e>
+    <e><p><l>circa<s n="pr"/></l><r>cerca<b/>de<s n="pr"/></r></p></e>
+    <e><p><l>circiter<s n="pr"/></l><r>acerca<b/>de<s n="pr"/></r></p></e>
+    <e><p><l>circum<s n="pr"/></l><r>alrededor<b/>de<s n="pr"/></r></p></e>
+    <e><p><l>cis<s n="pr"/></l><r>de<b/>este<b/>lado<s n="pr"/></r></p></e>
+    <e><p><l>citra<s n="pr"/></l><r>de<b/>este<b/>lado<s n="pr"/></r></p></e>
+    <e><p><l>clam<s n="pr"/></l><r>a<b/>escondidas<b/>de<s n="pr"/></r></p></e>
+    <e><p><l>coram<s n="pr"/></l><r>en<b/>presencia<b/>de<s n="pr"/></r></p></e>
+    <e><p><l>contra<s n="pr"/></l><r>contra<b/>de<s n="pr"/></r></p></e>
     <e><p><l>cum<s n="pr"/></l><r>con<s n="pr"/></r></p></e>
+    <e><p><l>ergo<s n="pr"/></l><r>a<b/>causa<b/>de<s n="pr"/></r></p></e>
+    <e><p><l>ex<s n="pr"/></l><r>desde<s n="pr"/></r></p></e>
+    <e><p><l>extra<s n="pr"/></l><r>por<b/>fuera<b/>de<s n="pr"/></r></p></e>
+    <e><p><l>gratia<s n="pr"/></l><r>con<b/>objeto<b/>de<s n="pr"/></r></p></e>
     <e><p><l>in<s n="pr"/></l><r>en<s n="pr"/></r></p></e>
     <e><p><l>inter<s n="pr"/></l><r>entre<s n="pr"/></r></p></e>
+    <e><p><l>infra<s n="pr"/></l><r>por<b/>debajo<b/>de<s n="pr"/></r></p></e>
+    <e><p><l>iuntus<s n="pr"/></l><r>en<b/>el<b/>interior<b/>de<s n="pr"/></r></p></e>
+    <e><p><l>iuxta<s n="pr"/></l><r>al<b/>lado<b/>de<s n="pr"/></r></p></e>
+    <e><p><l>ob<s n="pr"/></l><r>por<b/>causa<b/>de<s n="pr"/></r></p></e>
+    <e><p><l>palam<s n="pr"/></l><r>en<b/>presencia<b/>de<s n="pr"/></r></p></e>
+    <e><p><l>penes<s n="pr"/></l><r>en<b/>poder<b/>de<s n="pr"/></r></p></e>
+    <e><p><l>per<s n="pr"/></l><r>a<b/>través<b/>de<s n="pr"/></r></p></e>
     <e><p><l>post<s n="pr"/></l><r>pués<s n="pr"/></r></p></e>
     <e><p><l>trans<s n="pr"/></l><r>tras<s n="pr"/></r></p></e>
     <e><p><l>secundum<s n="pr"/></l><r>según<s n="pr"/></r></p></e>
