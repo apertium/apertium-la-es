@@ -16,4 +16,5 @@
 /autogen.sh -text
 /configure.ac -text
 /la-es.prob -text svneol=unset#unset
+la-tagger-data/la.txt -text
 /modes.xml -text
