@@ -380,7 +380,8 @@
     <e><p><l>vomitare<s n="vblex"/></l><r>vomitar<s n="vblex"/></r></p></e>
 
     <e><p><l>meus<s n="det"/><s n="pos"/></l><r>mi<s n="det"/><s n="pos"/></r></p></e>
-    <e><p><l>teus<s n="det"/><s n="pos"/></l><r>tu<s n="det"/><s n="pos"/></r></p></e>
+    <e><p><l>tuus<s n="det"/><s n="pos"/></l><r>tu<s n="det"/><s n="pos"/></r></p></e>
+    <e><p><l>suus<s n="det"/><s n="pos"/></l><r>su<s n="det"/><s n="pos"/></r></p></e>
     <e><p><l>noster<s n="det"/><s n="pos"/></l><r>nuestro<s n="det"/><s n="pos"/></r></p></e>
 
     <e><p><l>aqua<s n="n"/></l><r>agua<s n="n"/></r></p></e>
