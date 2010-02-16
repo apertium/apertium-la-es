@@ -27,6 +27,7 @@
     <sdef n="cnjsub"/>
 
     <sdef n="adv"/>
+    <sdef n="cnjadv"/>
     <sdef n="enc"/>
 
     <sdef n="prn"/>
@@ -127,6 +128,14 @@
         <p>
           <l/>
           <r><s n="adv"/></r>
+        </p>
+      </e>
+    </pardef>
+    <pardef n="tunc__cnjadv">
+      <e>
+        <p>
+          <l/>
+          <r><s n="cnjadv"/></r>
         </p>
       </e>
     </pardef>
@@ -7385,7 +7394,7 @@
     <e a="agfl-lat" lm="tandem"><i>tandem</i><par n="quasi__adv"/></e>
     <e a="agfl-lat" lm="tardius"><i>tardius</i><par n="quasi__adv"/></e>
     <e a="agfl-lat" lm="tum"><i>tum</i><par n="quasi__adv"/></e>
-    <e a="agfl-lat" lm="tunc"><i>tunc</i><par n="quasi__adv"/></e>
+    <e lm="tunc"><i>tunc</i><par n="tunc__cnjadv"/></e>
     <e a="agfl-lat" lm="uberius"><i>uberius</i><par n="quasi__adv"/></e>
     <e a="agfl-lat" lm="uberte"><i>uberte</i><par n="quasi__adv"/></e>
     <e a="agfl-lat" lm="ubertim"><i>ubertim</i><par n="quasi__adv"/></e>

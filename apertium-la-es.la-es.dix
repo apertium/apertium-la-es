@@ -6,10 +6,12 @@
      <sdef n="pr"/>
      <sdef n="np"/>
      <sdef n="adv"/>
+     <sdef n="cnjadv"/>
      <sdef n="adj"/>
 
      <sdef n="det"/>
      <sdef n="dem"/>
+     <sdef n="ord"/>
      <sdef n="pos"/>
      <sdef n="prn"/>
      <sdef n="tn"/>
@@ -86,12 +88,28 @@
 
     <e><p><l>et<s n="cnjcoo"/></l><r>y<s n="cnjcoo"/></r></p></e>
     <e><p><l>sed<s n="cnjcoo"/></l><r>pero<s n="cnjcoo"/></r></p></e>
+    <e><p><l>ut<s n="cnjcoo"/></l><r>como<s n="cnjcoo"/></r></p></e>
 
     <e><p><l>hic<s n="det"/><s n="dem"/></l><r>este<s n="det"/><s n="dem"/></r></p></e>
     <e><p><l>idem<s n="det"/><s n="dem"/></l><r>el<b/>mismo<s n="det"/><s n="dem"/></r></p></e>
 
+    <e><p><l>primus<s n="det"/><s n="ord"/></l><r>primero<s n="det"/><s n="ord"/></r></p></e>
+    <e><p><l>secundus<s n="det"/><s n="ord"/></l><r>segundo<s n="det"/><s n="ord"/></r></p></e>
+    <e><p><l>tertius<s n="det"/><s n="ord"/></l><r>tercio<s n="det"/><s n="ord"/></r></p></e>
+    <e><p><l>quartus<s n="det"/><s n="ord"/></l><r>cuarto<s n="det"/><s n="ord"/></r></p></e>
+    <e><p><l>quintus<s n="det"/><s n="ord"/></l><r>quinto<s n="det"/><s n="ord"/></r></p></e>
+    <e><p><l>sextus<s n="det"/><s n="ord"/></l><r>sexto<s n="det"/><s n="ord"/></r></p></e>
+    <e><p><l>septimus<s n="det"/><s n="ord"/></l><r>séptimo<s n="det"/><s n="ord"/></r></p></e>
+    <e><p><l>octavus<s n="det"/><s n="ord"/></l><r>octavo<s n="det"/><s n="ord"/></r></p></e>
+    <e><p><l>nonus<s n="det"/><s n="ord"/></l><r>noveno<s n="det"/><s n="ord"/></r></p></e>
+    <e><p><l>decimus<s n="det"/><s n="ord"/></l><r>décimo<s n="det"/><s n="ord"/></r></p></e>
+    <e><p><l>undecimus<s n="det"/><s n="ord"/></l><r>undécimo<s n="det"/><s n="ord"/></r></p></e>
+    <e><p><l>duodecimus<s n="det"/><s n="ord"/></l><r>duodécimo<s n="det"/><s n="ord"/></r></p></e>
+
     <e><p><l>ergo<s n="adv"/></l><r>luego<s n="adv"/></r></p></e>
     <e><p><l>non<s n="adv"/></l><r>no<s n="adv"/></r></p></e>
+
+    <e><p><l>tunc<s n="cnjadv"/></l><r>entonces<s n="cnjadv"/></r></p></e>
 
     <e><p><l>esse<s n="vbser"/></l><r>ser<s n="vbser"/></r></p></e>
 
