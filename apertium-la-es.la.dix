@@ -32,8 +32,10 @@
     <sdef n="n"/>
     <sdef n="m"/>
     <sdef n="f"/>
+    <sdef n="mf"/>
     <sdef n="nt"/>
     <sdef n="sg"/>
+    <sdef n="sp"/>
     <sdef n="pl"/>
     <sdef n="np"/>
     <sdef n="ant"/>
@@ -56,6 +58,9 @@
 
     <sdef n="prn"/>
     <sdef n="tn"/>
+    <sdef n="pro"/>
+    <sdef n="ref"/>
+    <sdef n="itg"/>
 
     <sdef n="det"/>
     <sdef n="dem"/>
@@ -503,7 +508,7 @@
         </p>
       </e>
     </pardef>
-    <pardef n="quisque__prn">
+    <pardef n="/quisque__prn">
       <e>
         <p>
           <l>quisque</l>
@@ -685,6 +690,228 @@
         </p>
       </e>
     </pardef>
+    <pardef n="/quis__prn">
+      <e>
+        <p>
+          <l>quo</l>
+          <r>quis<s n="prn"/><s n="itg"/><s n="m"/><s n="sg"/><s n="abl"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>cuius</l>
+          <r>quis<s n="prn"/><s n="itg"/><s n="m"/><s n="sg"/><s n="gen"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>cui</l>
+          <r>quis<s n="prn"/><s n="itg"/><s n="m"/><s n="sg"/><s n="dat"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>quem</l>
+          <r>quis<s n="prn"/><s n="itg"/><s n="m"/><s n="sg"/><s n="acc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>quis</l>
+          <r>quis<s n="prn"/><s n="itg"/><s n="m"/><s n="sg"/><s n="nom"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>quibus</l>
+          <r>quis<s n="prn"/><s n="itg"/><s n="m"/><s n="pl"/><s n="abl"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>quorum</l>
+          <r>quis<s n="prn"/><s n="itg"/><s n="m"/><s n="pl"/><s n="gen"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>quibus</l>
+          <r>quis<s n="prn"/><s n="itg"/><s n="m"/><s n="pl"/><s n="dat"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>quos</l>
+          <r>quis<s n="prn"/><s n="itg"/><s n="m"/><s n="pl"/><s n="acc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>qui</l>
+          <r>quis<s n="prn"/><s n="itg"/><s n="m"/><s n="pl"/><s n="nom"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>qua</l>
+          <r>quis<s n="prn"/><s n="itg"/><s n="f"/><s n="sg"/><s n="abl"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>cuius</l>
+          <r>quis<s n="prn"/><s n="itg"/><s n="f"/><s n="sg"/><s n="gen"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>cui</l>
+          <r>quis<s n="prn"/><s n="itg"/><s n="f"/><s n="sg"/><s n="dat"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>quam</l>
+          <r>quis<s n="prn"/><s n="itg"/><s n="f"/><s n="sg"/><s n="acc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>quis</l>
+          <r>quis<s n="prn"/><s n="itg"/><s n="f"/><s n="sg"/><s n="nom"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>quibus</l>
+          <r>quis<s n="prn"/><s n="itg"/><s n="f"/><s n="pl"/><s n="abl"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>quarum</l>
+          <r>quis<s n="prn"/><s n="itg"/><s n="f"/><s n="pl"/><s n="gen"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>quibus</l>
+          <r>quis<s n="prn"/><s n="itg"/><s n="f"/><s n="pl"/><s n="dat"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>quas</l>
+          <r>quis<s n="prn"/><s n="itg"/><s n="f"/><s n="pl"/><s n="acc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>quae</l>
+          <r>quis<s n="prn"/><s n="itg"/><s n="f"/><s n="pl"/><s n="nom"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>quo</l>
+          <r>quis<s n="prn"/><s n="itg"/><s n="nt"/><s n="sg"/><s n="abl"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>cuius</l>
+          <r>quis<s n="prn"/><s n="itg"/><s n="nt"/><s n="sg"/><s n="gen"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>cui</l>
+          <r>quis<s n="prn"/><s n="itg"/><s n="nt"/><s n="sg"/><s n="dat"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>quid</l>
+          <r>quis<s n="prn"/><s n="itg"/><s n="nt"/><s n="sg"/><s n="acc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>quid</l>
+          <r>quis<s n="prn"/><s n="itg"/><s n="nt"/><s n="sg"/><s n="nom"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>quibus</l>
+          <r>quis<s n="prn"/><s n="itg"/><s n="nt"/><s n="pl"/><s n="abl"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>quorum</l>
+          <r>quis<s n="prn"/><s n="itg"/><s n="nt"/><s n="pl"/><s n="gen"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>quibus</l>
+          <r>quis<s n="prn"/><s n="itg"/><s n="nt"/><s n="pl"/><s n="dat"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>quae</l>
+          <r>quis<s n="prn"/><s n="itg"/><s n="nt"/><s n="pl"/><s n="acc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>quae</l>
+          <r>quis<s n="prn"/><s n="itg"/><s n="nt"/><s n="pl"/><s n="nom"/></r>
+        </p>
+      </e>
+    </pardef>
+
+    <pardef n="se__prn">
+      <e>
+        <p>
+          <l>se</l>
+          <r>se<s n="prn"/><s n="pro"/><s n="ref"/><s n="p3"/><s n="mf"/><s n="sp"/><s n="acc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>sese</l>
+          <r>se<s n="prn"/><s n="pro"/><s n="ref"/><s n="p3"/><s n="mf"/><s n="sp"/><s n="acc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>sui</l>
+          <r>se<s n="prn"/><s n="pro"/><s n="ref"/><s n="p3"/><s n="mf"/><s n="sp"/><s n="gen"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>sibi</l>
+          <r>se<s n="prn"/><s n="pro"/><s n="ref"/><s n="p3"/><s n="mf"/><s n="sp"/><s n="dat"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>se</l>
+          <r>se<s n="prn"/><s n="pro"/><s n="ref"/><s n="p3"/><s n="mf"/><s n="sp"/><s n="abl"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>sese</l>
+          <r>se<s n="prn"/><s n="pro"/><s n="ref"/><s n="p3"/><s n="mf"/><s n="sp"/><s n="abl"/></r>
+        </p>
+      </e>
+    </pardef>
+
     <pardef n="BASE__amatus">
       <e>
         <p>
@@ -6347,6 +6574,11 @@
     <e lm="noster"><i>nost</i><par n="nost/er__det"/></e>
     <e lm="hic"><i>h</i><par n="h/ic__det"/></e>
     <e lm="neuter"><i>neut</i><par n="neut/er__prn"/></e>
+    <e lm="se"><i></i><par n="se__prn"/></e>
+    <e lm="qui"><i></i><par n="/qui__det"/></e>
+    <e lm="qui"><i></i><par n="/qui__prn"/></e>
+    <e lm="quis"><i></i><par n="/quis__prn"/></e>
+    <e lm="quisque"><i></i><par n="/quisque__prn"/></e>
     <e lm="tuus"><i>tu</i><par n="tu/us__det"/></e>
     <e lm="suus"><i>su</i><par n="tu/us__det"/></e>
     <e lm="meus"><i>m</i><par n="m/eus__det"/></e>
