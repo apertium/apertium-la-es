@@ -109,7 +109,9 @@
 
     <e><p><l>ergo<s n="adv"/></l><r>luego<s n="adv"/></r></p></e>
     <e><p><l>non<s n="adv"/></l><r>no<s n="adv"/></r></p></e>
+    <e><p><l>haud<s n="adv"/></l><r>no<s n="adv"/></r></p></e>
     <e><p><l>a.C.n<s n="adv"/></l><r>a.<b/>C<s n="adv"/></r></p></e>
+    <e><p><l>istuc<s n="adv"/></l><r>ahí<s n="adv"/></r></p></e>
 
     <e><p><l>tunc<s n="cnjadv"/></l><r>entonces<s n="cnjadv"/></r></p></e>
 
@@ -299,6 +301,7 @@
     <e><p><l>integrare<s n="vblex"/></l><r>integrar<s n="vblex"/></r></p></e>
     <e><p><l>interpretare<s n="vblex"/></l><r>interpretar<s n="vblex"/></r></p></e>
     <e><p><l>interrogare<s n="vblex"/></l><r>interrogar<s n="vblex"/></r></p></e>
+    <e><p><l>rogare<s n="vblex"/></l><r>rogar<s n="vblex"/></r></p></e>
     <e><p><l>investigare<s n="vblex"/></l><r>investigar<s n="vblex"/></r></p></e>
     <e><p><l>invitare<s n="vblex"/></l><r>invitar<s n="vblex"/></r></p></e>
     <e><p><l>invocare<s n="vblex"/></l><r>invocar<s n="vblex"/></r></p></e>
@@ -1106,6 +1109,7 @@
     <e><p><l>corpus<s n="n"/><s n="m"/></l><r>cuerpo<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>corpus<g><b/>Christi</g><s n="n"/><s n="m"/></l><r>cuerpo<g><b/>de<b/>Cristo</g><s n="n"/><s n="m"/></r></p></e>
 
+    <e><p><l>liber<s n="adj"/></l><r>libre<s n="adj"/><s n="mf"/></r></p></e>
     <e><p><l>humanus<s n="adj"/></l><r>humano<s n="adj"/></r></p></e>
     <e><p><l>iuvenis<s n="adj"/></l><r>joven<s n="adj"/></r></p></e>
     <e><p><l>senex<s n="adj"/></l><r>viejo<s n="adj"/></r></p></e>
