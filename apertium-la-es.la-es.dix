@@ -509,7 +509,7 @@
     <e c="Check"><p><l>aedilitas<s n="n"/><s n="f"/></l><r>edilidad<s n="n"/><s n="f"/></r></p></e>
     <e c="Check"><p><l>affabilitas<s n="n"/><s n="f"/></l><r>afabilidad<s n="n"/><s n="f"/></r></p></e>
     <e c="Check"><p><l>affinitas<s n="n"/><s n="f"/></l><r>afinidad<s n="n"/><s n="f"/></r></p></e>
-    <e c="Check"><p><l>agilitas<s n="n"/><s n="f"/></l><r>agilidad<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>agilitas<s n="n"/><s n="f"/></l><r>agilidad<s n="n"/><s n="f"/></r></p></e>
     <e c="Check"><p><l>alacritas<s n="n"/><s n="f"/></l><r>alacridad<s n="n"/><s n="f"/></r></p></e>
     <e c="Check"><p><l>amabilitas<s n="n"/><s n="f"/></l><r>amabilidad<s n="n"/><s n="f"/></r></p></e>
     <e c="Check"><p><l>ambiguitas<s n="n"/><s n="f"/></l><r>ambigüedad<s n="n"/><s n="f"/></r></p></e>
@@ -520,10 +520,10 @@
     <e c="Check"><p><l>artificiositas<s n="n"/><s n="f"/></l><r>artificiosidad<s n="n"/><s n="f"/></r></p></e>
     <e c="Check"><p><l>assiduitas<s n="n"/><s n="f"/></l><r>asiduidad<s n="n"/><s n="f"/></r></p></e>
     <e c="Check"><p><l>atrocitas<s n="n"/><s n="f"/></l><r>atrocidad<s n="n"/><s n="f"/></r></p></e>
-    <e c="Check"><p><l>austeritas<s n="n"/><s n="f"/></l><r>austeridad<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>austeritas<s n="n"/><s n="f"/></l><r>austeridad<s n="n"/><s n="f"/></r></p></e>
     <e c="Check"><p><l>authenticitas<s n="n"/><s n="f"/></l><r>autenticidad<s n="n"/><s n="f"/></r></p></e>
     <e c="Check"><p><l>benignitas<s n="n"/><s n="f"/></l><r>benignidad<s n="n"/><s n="f"/></r></p></e>
-    <e c="Check"><p><l>bestialitas<s n="n"/><s n="f"/></l><r>bestialidad<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>bestialitas<s n="n"/><s n="f"/></l><r>bestialidad<s n="n"/><s n="f"/></r></p></e>
     <e c="Check"><p><l>brutalitas<s n="n"/><s n="f"/></l><r>brutalidad<s n="n"/><s n="f"/></r></p></e>
     <e c="Check"><p><l>caducitas<s n="n"/><s n="f"/></l><r>caducidad<s n="n"/><s n="f"/></r></p></e>
     <e c="Check"><p><l>calamitas<s n="n"/><s n="f"/></l><r>calamidad<s n="n"/><s n="f"/></r></p></e>
@@ -534,13 +534,11 @@
     <e c="Check"><p><l>catholicitas<s n="n"/><s n="f"/></l><r>catolicidad<s n="n"/><s n="f"/></r></p></e>
     <e c="Check"><p><l>causalitas<s n="n"/><s n="f"/></l><r>causalidad<s n="n"/><s n="f"/></r></p></e>
     <e c="Check"><p><l>celebritas<s n="n"/><s n="f"/></l><r>celebridad<s n="n"/><s n="f"/></r></p></e>
-    <e c="Check"><p><l>celebritas<s n="n"/><s n="f"/></l><r>celebridad<s n="n"/><s n="f"/></r></p></e>
     <e c="Check"><p><l>celeritas<s n="n"/><s n="f"/></l><r>celeridad<s n="n"/><s n="f"/></r></p></e>
-    <e c="Check"><p><l>charitas<s n="n"/><s n="f"/></l><r>caridad<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>charitas<s n="n"/><s n="f"/></l><r>caridad<s n="n"/><s n="f"/></r></p></e>
     <e c="Check"><p><l>civilitas<s n="n"/><s n="f"/></l><r>civilidad<s n="n"/><s n="f"/></r></p></e>
     <e c="Check"><p><l>combustibilitas<s n="n"/><s n="f"/></l><r>combustibilidad<s n="n"/><s n="f"/></r></p></e>
     <e c="Check"><p><l>commensurabilitas<s n="n"/><s n="f"/></l><r>conmensurabilidad<s n="n"/><s n="f"/></r></p></e>
-    <e c="Check"><p><l>commoditas<s n="n"/><s n="f"/></l><r>comodidad<s n="n"/><s n="f"/></r></p></e>
     <e c="Check"><p><l>commoditas<s n="n"/><s n="f"/></l><r>comodidad<s n="n"/><s n="f"/></r></p></e>
     <e c="Check"><p><l>communicabilitas<s n="n"/><s n="f"/></l><r>comunicabilidad<s n="n"/><s n="f"/></r></p></e>
     <e c="Check"><p><l>compaternitas<s n="n"/><s n="f"/></l><r>compaternidad<s n="n"/><s n="f"/></r></p></e>
