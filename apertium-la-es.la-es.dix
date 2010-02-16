@@ -11,6 +11,8 @@
      <sdef n="det"/>
      <sdef n="dem"/>
      <sdef n="pos"/>
+     <sdef n="prn"/>
+     <sdef n="tn"/>
 
      <sdef n="vblex"/>
      <sdef n="vaux"/>
@@ -86,6 +88,7 @@
     <e><p><l>sed<s n="cnjcoo"/></l><r>pero<s n="cnjcoo"/></r></p></e>
 
     <e><p><l>hic<s n="det"/><s n="dem"/></l><r>este<s n="det"/><s n="dem"/></r></p></e>
+    <e><p><l>idem<s n="det"/><s n="dem"/></l><r>el<b/>mismo<s n="det"/><s n="dem"/></r></p></e>
 
     <e><p><l>ergo<s n="adv"/></l><r>luego<s n="adv"/></r></p></e>
     <e><p><l>non<s n="adv"/></l><r>no<s n="adv"/></r></p></e>

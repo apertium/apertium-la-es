@@ -866,6 +866,188 @@
         </p>
       </e>
     </pardef>
+    <pardef n="/idem__det">
+      <e>
+        <p>
+          <l>eodem</l>
+          <r>idem<s n="det"/><s n="dem"/><s n="m"/><s n="sg"/><s n="abl"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>eiusdem</l>
+          <r>idem<s n="det"/><s n="dem"/><s n="m"/><s n="sg"/><s n="gen"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>eidem</l>
+          <r>idem<s n="det"/><s n="dem"/><s n="m"/><s n="sg"/><s n="dat"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>eundem</l>
+          <r>idem<s n="det"/><s n="dem"/><s n="m"/><s n="sg"/><s n="acc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>idem</l>
+          <r>idem<s n="det"/><s n="dem"/><s n="m"/><s n="sg"/><s n="nom"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>eisdem</l>
+          <r>idem<s n="det"/><s n="dem"/><s n="m"/><s n="pl"/><s n="abl"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>eorundem</l>
+          <r>idem<s n="det"/><s n="dem"/><s n="m"/><s n="pl"/><s n="gen"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>eisdem</l>
+          <r>idem<s n="det"/><s n="dem"/><s n="m"/><s n="pl"/><s n="dat"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>eosdem</l>
+          <r>idem<s n="det"/><s n="dem"/><s n="m"/><s n="pl"/><s n="acc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>eidem</l>
+          <r>idem<s n="det"/><s n="dem"/><s n="m"/><s n="pl"/><s n="nom"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>eadem</l>
+          <r>idem<s n="det"/><s n="dem"/><s n="f"/><s n="sg"/><s n="abl"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>eiusdem</l>
+          <r>idem<s n="det"/><s n="dem"/><s n="f"/><s n="sg"/><s n="gen"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>eidem</l>
+          <r>idem<s n="det"/><s n="dem"/><s n="f"/><s n="sg"/><s n="dat"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>eandem</l>
+          <r>idem<s n="det"/><s n="dem"/><s n="f"/><s n="sg"/><s n="acc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>eadem</l>
+          <r>idem<s n="det"/><s n="dem"/><s n="f"/><s n="sg"/><s n="nom"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>eisdem</l>
+          <r>idem<s n="det"/><s n="dem"/><s n="f"/><s n="pl"/><s n="abl"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>earundem</l>
+          <r>idem<s n="det"/><s n="dem"/><s n="f"/><s n="pl"/><s n="gen"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>eisdem</l>
+          <r>idem<s n="det"/><s n="dem"/><s n="f"/><s n="pl"/><s n="dat"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>easdem</l>
+          <r>idem<s n="det"/><s n="dem"/><s n="f"/><s n="pl"/><s n="acc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>eaedem</l>
+          <r>idem<s n="det"/><s n="dem"/><s n="f"/><s n="pl"/><s n="nom"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>eodem</l>
+          <r>idem<s n="det"/><s n="dem"/><s n="nt"/><s n="sg"/><s n="abl"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>eiusdem</l>
+          <r>idem<s n="det"/><s n="dem"/><s n="nt"/><s n="sg"/><s n="gen"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>eidem</l>
+          <r>idem<s n="det"/><s n="dem"/><s n="nt"/><s n="sg"/><s n="dat"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>idem</l>
+          <r>idem<s n="det"/><s n="dem"/><s n="nt"/><s n="sg"/><s n="acc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>idem</l>
+          <r>idem<s n="det"/><s n="dem"/><s n="nt"/><s n="sg"/><s n="nom"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>eisdem</l>
+          <r>idem<s n="det"/><s n="dem"/><s n="nt"/><s n="pl"/><s n="abl"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>eorundem</l>
+          <r>idem<s n="det"/><s n="dem"/><s n="nt"/><s n="pl"/><s n="gen"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>eisdem</l>
+          <r>idem<s n="det"/><s n="dem"/><s n="nt"/><s n="pl"/><s n="dat"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>eadem</l>
+          <r>idem<s n="det"/><s n="dem"/><s n="nt"/><s n="pl"/><s n="acc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>eadem</l>
+          <r>idem<s n="det"/><s n="dem"/><s n="nt"/><s n="pl"/><s n="nom"/></r>
+        </p>
+      </e>
+    </pardef>
 
     <pardef n="se__prn">
       <e>
@@ -6731,6 +6913,7 @@
     <e lm="qui"><i></i><par n="/qui__det"/></e>
     <e lm="qui"><i></i><par n="/qui__prn"/></e>
     <e lm="quis"><i></i><par n="/quis__prn"/></e>
+    <e lm="idem"><i></i><par n="/idem__det"/></e>
     <e lm="quisque"><i></i><par n="/quisque__prn"/></e>
     <e lm="tuus"><i>tu</i><par n="tu/us__det"/></e>
     <e lm="suus"><i>su</i><par n="tu/us__det"/></e>
