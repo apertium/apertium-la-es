@@ -7438,6 +7438,7 @@
     <e a="agfl-lat" lm="itane"><i>itane</i><par n="quasi__adv"/></e>
     <e a="agfl-lat" lm="sursum"><i>sursum</i><par n="quasi__adv"/></e>
     <e a="agfl-lat" lm="retro"><i>retro</i><par n="quasi__adv"/></e>
+    <e lm="a.C.n"><i>a.C.n</i><par n="quasi__adv"/></e>
     
     <!-- Declension 1 f a, ae -->
     <e lm="aqua"><i>aqu</i><par n="aqu/a__n"/></e> <!-- water -->
@@ -7586,6 +7587,7 @@
     <e a="afgl-lat" lm="littera"><i>litter</i><par n="aqu/a__n"/></e>
     <e a="afgl-lat" lm="litteratura"><i>litteratur</i><par n="aqu/a__n"/></e>
     <e a="afgl-lat" lm="luna"><i>lun</i><par n="aqu/a__n"/></e>
+    <e lm="aera"><i>aer</i><par n="aqu/a__n"/></e>
     <e a="afgl-lat" lm="luxuria"><i>luxuri</i><par n="aqu/a__n"/></e>
     <e a="afgl-lat" lm="maestitia"><i>maestiti</i><par n="aqu/a__n"/></e>
     <e a="afgl-lat" lm="malitia"><i>maliti</i><par n="aqu/a__n"/></e>
@@ -7851,6 +7853,7 @@
     <e lm="thermae"><i>therm</i><par n="bracc/ae__n"/></e>
     <!-- Declension 1 m a, ae -->
     <e lm="agricola"><i>agricol</i><par n="agricol/a__n"/></e> <!-- farmer -->
+    <e lm="astronauta"><i>astronaut</i><par n="agricol/a__n"/></e>
     <e lm="auriga"><i>aurig</i><par n="agricol/a__n"/></e> <!-- charioteer -->
     <e lm="incola"><i>incol</i><par n="agricol/a__n"/></e>
     <e lm="nauta"><i>naut</i><par n="agricol/a__n"/></e> <!-- sailor -->
@@ -8027,6 +8030,12 @@
     <e lm="Brutus"><i>Brut</i><par n="Iuli/us__np"/></e> <!-- Brutus -->
     <e lm="Marcus"><i>Marc</i><par n="Iuli/us__np"/></e>
     <e lm="Lucius"><i>Luci</i><par n="Iuli/us__np"/></e>
+    <e lm="Isaacus"><i>Isaac</i><par n="Iuli/us__np"/></e>
+    <e lm="Iesus"><i>Ies</i><par n="Iuli/us__np"/></e>
+    <e lm="Galilaeus"><i>Galilae</i><par n="Iuli/us__np"/></e>
+    <e lm="Galilaeus Galilaei"><i>Galilae</i><par n="Iuli/us__np"/><p><l><b/>Galilaei</l><r><g><b/>Galilaei</g></r></p></e>
+    <e lm="Albertus Einstein"><i>Albert</i><par n="Iuli/us__np"/><p><l><b/>Einstein</l><r><g><b/>Einstein</g></r></p></e>
+
     <e lm="puer"><i>puer</i><par n="puer__n"/></e>
     <e lm="arx"><i>ar</i><par n="ar/x__n"/></e>
     <e lm="res"><i>re</i><par n="re/s__n"/></e>

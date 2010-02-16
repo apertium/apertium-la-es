@@ -85,6 +85,7 @@
     <e><p><l>propius<s n="pr"/></l><r>próximo<s n="pr"/></r></p></e>
     <e><p><l>propter<s n="pr"/></l><r>próximo<s n="pr"/></r></p></e>
     <e><p><l>proximus<s n="pr"/></l><r>próximo<s n="pr"/></r></p></e>
+    <e><p><l>de<s n="pr"/></l><r>de<s n="pr"/></r></p></e>
 
     <e><p><l>et<s n="cnjcoo"/></l><r>y<s n="cnjcoo"/></r></p></e>
     <e><p><l>sed<s n="cnjcoo"/></l><r>pero<s n="cnjcoo"/></r></p></e>
@@ -108,6 +109,7 @@
 
     <e><p><l>ergo<s n="adv"/></l><r>luego<s n="adv"/></r></p></e>
     <e><p><l>non<s n="adv"/></l><r>no<s n="adv"/></r></p></e>
+    <e><p><l>a.C.n<s n="adv"/></l><r>a.<b/>C<s n="adv"/></r></p></e>
 
     <e><p><l>tunc<s n="cnjadv"/></l><r>entonces<s n="cnjadv"/></r></p></e>
 
@@ -714,11 +716,13 @@
     <e c="slr='baya D'"><p><l>baca<s n="n"/></l><r>baya<s n="n"/></r></p></e>
     <e c="slr='perla'" i="yes"><p><l>baca<s n="n"/></l><r>perla<s n="n"/></r></p></e>
     <e><p><l>luna<s n="n"/><s n="f"/></l><r>luna<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>stella<s n="n"/><s n="f"/></l><r>estrella<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>memoria<s n="n"/><s n="f"/></l><r>memoria<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>forma<s n="n"/><s n="f"/></l><r>forma<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>astronomia<s n="n"/><s n="f"/></l><r>astronomía<s n="n"/><s n="f"/></r></p></e>
 
     <e><p><l>agricola<s n="n"/><s n="m"/></l><r>labrador<s n="n"/><s n="GD"/></r></p></e>
+    <e><p><l>astronauta<s n="n"/><s n="m"/></l><r>astronauta<s n="n"/><s n="mf"/></r></p></e>
     <e><p><l>pirata<s n="n"/><s n="m"/></l><r>pirata<s n="n"/><s n="mf"/></r></p></e>
     <e><p><l>nauta<s n="n"/><s n="m"/></l><r>marinero<s n="n"/><s n="GD"/></r></p></e>
     <e><p><l>propheta<s n="n"/><s n="m"/></l><r>profeta<s n="n"/><s n="mf"/></r></p></e>
@@ -727,10 +731,12 @@
     <e><p><l>auriga<s n="n"/><s n="m"/></l><r>cochero<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>catechismus<s n="n"/><s n="m"/></l><r>catecismo<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>silva<s n="n"/><s n="f"/></l><r>bosque<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>aera<s n="n"/><s n="f"/></l><r>era<s n="n"/><s n="f"/></r></p></e>
 
     <e><p><l>murus<s n="n"/><s n="m"/></l><r>muralla<s n="n"/><s n="f"/></r></p></e>
 
     <e><p><l>bellum<s n="n"/><s n="nt"/></l><r>guerra<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>saeculum<s n="n"/><s n="nt"/></l><r>siglo<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>antidotum<s n="n"/><s n="nt"/></l><r>antídoto<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>argentum<s n="n"/><s n="nt"/></l><r>plata<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>reliquum<s n="n"/><s n="nt"/></l><r>remanente<s n="n"/><s n="m"/></r></p></e>
@@ -1385,6 +1391,10 @@
     <e><p><l>Brutus<s n="np"/><s n="ant"/></l><r>Bruto<s n="np"/><s n="ant"/></r></p></e>
     <e><p><l>Lucius<s n="np"/><s n="ant"/></l><r>Lucius<s n="np"/><s n="ant"/></r></p></e>
     <e><p><l>Marcus<s n="np"/><s n="ant"/></l><r>Marcus<s n="np"/><s n="ant"/></r></p></e>
+    <e><p><l>Isaacus<s n="np"/><s n="ant"/></l><r>Isaac<s n="np"/><s n="ant"/></r></p></e>
+    <e><p><l>Galilaeus<s n="np"/><s n="ant"/></l><r>Galileo<s n="np"/><s n="ant"/></r></p></e>
+    <e><p><l>Galilaeus<g><b/>Galilaei</g><s n="np"/><s n="ant"/></l><r>Galileo<b/>Galilei<s n="np"/><s n="ant"/></r></p></e>
+    <e><p><l>Albertus<g><b/>Einstein</g><s n="np"/><s n="ant"/></l><r>Albert<b/>Einstein<s n="np"/><s n="ant"/></r></p></e>
     <e><i>.<s n="sent"/></i></e>
     <e><i>?<s n="sent"/></i></e>
     <e><i>:<s n="sent"/></i></e>
