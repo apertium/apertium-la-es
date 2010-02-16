@@ -36,11 +36,14 @@
 
      <sdef n="sent"/>
      <sdef n="cm"/>
+     <sdef n="lpar"/>
+     <sdef n="rpar"/>
+     <sdef n="num"/>
   </sdefs>
   <section id="main" type="standard">
     <e><p><l>ab<s n="pr"/></l><r>desde<s n="pr"/></r></p></e>
     <e><p><l>a<s n="pr"/></l><r>desde<s n="pr"/></r></p></e>
-    <e><p><l>ad<s n="pr"/></l><r>hacia<s n="pr"/></r></p></e>
+    <e i="yes"><p><l>ad<s n="pr"/></l><r>hacia<s n="pr"/></r></p></e>
     <e><p><l>adversus<s n="pr"/></l><r>en>b/>dirección<b/>a<s n="pr"/></r></p></e>
     <e><p><l>apud<s n="pr"/></l><r>junta<b/>a<s n="pr"/></r></p></e>
     <e><p><l>causa<s n="pr"/></l><r>a<b/>causa<b/>de<b/>a<s n="pr"/></r></p></e>
@@ -689,6 +692,10 @@
     <e><p><l>amica<s n="n"/><s n="f"/></l><r>amigo<s n="n"/><s n="f"/></r></p></e>
     <e c="slr='baya D'"><p><l>baca<s n="n"/></l><r>baya<s n="n"/></r></p></e>
     <e c="slr='perla'" i="yes"><p><l>baca<s n="n"/></l><r>perla<s n="n"/></r></p></e>
+    <e><p><l>luna<s n="n"/><s n="f"/></l><r>luna<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>memoria<s n="n"/><s n="f"/></l><r>memoria<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>forma<s n="n"/><s n="f"/></l><r>forma<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>astronomia<s n="n"/><s n="f"/></l><r>astronomía<s n="n"/><s n="f"/></r></p></e>
 
     <e><p><l>agricola<s n="n"/><s n="m"/></l><r>labrador<s n="n"/><s n="GD"/></r></p></e>
     <e><p><l>pirata<s n="n"/><s n="m"/></l><r>pirata<s n="n"/><s n="mf"/></r></p></e>
@@ -1363,5 +1370,10 @@
     <e><i>;<s n="sent"/></i></e>
     <e><i>!<s n="sent"/></i></e>
     <e><i>,<s n="cm"/></i></e>
+    <e><i>(<s n="lpar"/></i></e>
+    <e><i>[<s n="lpar"/></i></e>
+    <e><i>)<s n="rpar"/></i></e>
+    <e><i>]<s n="rpar"/></i></e>
+    <e><re>[0-9]+([.,][0-9]+)?</re><i><s n="num"/></i></e>
   </section>
 </dictionary>

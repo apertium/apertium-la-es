@@ -83,6 +83,8 @@
     <sdef n="lquot"/>
     <sdef n="rquot"/>
     <sdef n="elip"/>
+    <sdef n="quot"/>
+    <sdef n="apos"/>
   </sdefs>
   <pardefs>
     <pardef n="numeros">
@@ -7525,6 +7527,7 @@
     <e lm="apstinentia"><i>apstinenti</i><par n="aqu/a__n"/></e>
     <e lm="arangia"><i>arangi</i><par n="aqu/a__n"/></e>
     <e lm="arantia"><i>aranti</i><par n="aqu/a__n"/></e>
+    <e lm="astronomia"><i>astronomi</i><par n="aqu/a__n"/></e>
     <e lm="astrophysica"><i>astrophysic</i><par n="aqu/a__n"/></e>
     <e lm="athletica"><i>athletic</i><par n="aqu/a__n"/></e>
     <e lm="atmosphaera"><i>atmosphaer</i><par n="aqu/a__n"/></e>
@@ -8800,5 +8803,7 @@
     <e lm="]"><p><l>]</l><r>]<s n="rpar"/></r></p></e>
     <e lm="[...]"><p><l>[...]</l><r>[...]<s n="elip"/></r></p></e>
     <e lm="..."><p><l>...</l><r>...<s n="elip"/></r></p></e>
+    <e lm="&quot;"><p><l>&quot;</l><r>&quot;<s n="quot"/></r></p></e>
+    <e lm="&apos;"><p><l>&apos;</l><r>&apos;<s n="apos"/></r></p></e>
   </section>
 </dictionary>
