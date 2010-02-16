@@ -404,6 +404,8 @@
     <e><p><l>domus<s n="n"/><s n="f"/></l><r>casa<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>filius<s n="n"/><s n="m"/></l><r>hijo<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>filia<s n="n"/><s n="f"/></l><r>hijo<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>fides<s n="n"/><s n="f"/></l><r>fe<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>fidelitas<s n="n"/><s n="f"/></l><r>fidelidad<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>amicus<s n="n"/><s n="m"/></l><r>amigo<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>amica<s n="n"/><s n="f"/></l><r>amigo<s n="n"/><s n="f"/></r></p></e>
     <e c="slr='baya D'"><p><l>baca<s n="n"/></l><r>baya<s n="n"/></r></p></e>
@@ -803,6 +805,7 @@
     <e><p><l>loquax<s n="adj"/></l><r>locuaz<s n="adj"/></r></p></e>
     <e><p><l>aeternus<s n="adj"/></l><r>eterno<s n="adj"/></r></p></e>
     <e><p><l>fidus<s n="adj"/></l><r>fido<s n="adj"/></r></p></e>
+    <e><p><l>Christianus<s n="adj"/></l><r>cristiano<s n="adj"/></r></p></e>
     <e><p><l>ammixtus<s n="adj"/></l><r>mixto<s n="adj"/></r></p></e>
     <e><p><l>ammirandus<s n="adj"/></l><r>admirable<s n="adj"/><s n="mf"/></r></p></e>
     <e><p><l>ammorsus<s n="adj"/></l><r>mordido<s n="adj"/></r></p></e>
