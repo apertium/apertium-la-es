@@ -65,6 +65,7 @@
     <sdef n="det"/>
     <sdef n="dem"/>
     <sdef n="pos"/>
+    <sdef n="ord"/>
 
     <sdef n="adj"/>
     <sdef n="comp"/>
@@ -2364,6 +2365,17 @@
         <par n="BASE__amatus"/>
       </e>
     </pardef>
+
+    <pardef n="prim/us__det">
+      <e>
+        <p>
+          <l></l>
+          <r>us<s n="det"/><s n="ord"/></r>
+        </p>
+        <par n="BASE__amatus"/>
+      </e>
+    </pardef>
+
     <pardef n="neut/er__prn">
       <e>
         <p>
@@ -6582,6 +6594,19 @@
     <e lm="tuus"><i>tu</i><par n="tu/us__det"/></e>
     <e lm="suus"><i>su</i><par n="tu/us__det"/></e>
     <e lm="meus"><i>m</i><par n="m/eus__det"/></e>
+
+    <e lm="primus"><i>prim</i><par n="prim/us__det"/></e>
+    <e lm="secundus"><i>secund</i><par n="prim/us__det"/></e>
+    <e lm="tertius"><i>terti</i><par n="prim/us__det"/></e>
+    <e lm="quartus"><i>quart</i><par n="prim/us__det"/></e>
+    <e lm="quintus"><i>quint</i><par n="prim/us__det"/></e>
+    <e lm="sextus"><i>sext</i><par n="prim/us__det"/></e>
+    <e lm="septimus"><i>septim</i><par n="prim/us__det"/></e>
+    <e lm="octavus"><i>octav</i><par n="prim/us__det"/></e>
+    <e lm="nonus"><i>non</i><par n="prim/us__det"/></e>
+    <e lm="decimus"><i>decim</i><par n="prim/us__det"/></e>
+    <e lm="undecimus"><i>undecim</i><par n="prim/us__det"/></e>
+    <e lm="duodecimus"><i>duodecim</i><par n="prim/us__det"/></e>
 
     <e lm="esse"><i></i><par n="/esse__vbser"/></e>
     <e lm="ire"><i></i><par n="/ire__vblex"/></e>
