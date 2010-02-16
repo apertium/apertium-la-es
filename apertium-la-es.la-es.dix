@@ -91,6 +91,8 @@
     <e><p><l>sed<s n="cnjcoo"/></l><r>pero<s n="cnjcoo"/></r></p></e>
     <e><p><l>ut<s n="cnjcoo"/></l><r>como<s n="cnjcoo"/></r></p></e>
 
+    <e><p><l>nemo<s n="prn"/><s n="tn"/><s n="mf"/></l><r>nadie<s n="prn"/><s n="tn"/><s n="mf"/></r></p></e>
+
     <e><p><l>hic<s n="det"/><s n="dem"/></l><r>este<s n="det"/><s n="dem"/></r></p></e>
     <e><p><l>idem<s n="det"/><s n="dem"/></l><r>el<b/>mismo<s n="det"/><s n="dem"/></r></p></e>
 
@@ -1108,6 +1110,10 @@
     <e><p><l>biologus<s n="n"/><s n="m"/></l><r>biólogo<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>corpus<s n="n"/><s n="m"/></l><r>cuerpo<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>corpus<g><b/>Christi</g><s n="n"/><s n="m"/></l><r>cuerpo<g><b/>de<b/>Cristo</g><s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>nox<s n="n"/><s n="f"/></l><r>noche<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>nomen<s n="n"/><s n="nt"/></l><r>nombre<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>homo<s n="n"/><s n="m"/></l><r>hombre<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>vulnus<s n="n"/><s n="nt"/></l><r>herida<s n="n"/><s n="f"/></r></p></e>
 
     <e><p><l>liber<s n="adj"/></l><r>libre<s n="adj"/><s n="mf"/></r></p></e>
     <e><p><l>humanus<s n="adj"/></l><r>humano<s n="adj"/></r></p></e>
