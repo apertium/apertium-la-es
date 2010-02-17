@@ -126,6 +126,27 @@
     <e><p><l>idem<s n="det"/><s n="dem"/></l><r>el<b/>mismo<s n="det"/><s n="dem"/></r></p></e>
     <e><p><l>alius<s n="det"/><s n="ind"/></l><r>otro<s n="det"/><s n="ind"/></r></p></e>
 
+    <e><p><l>unus<s n="num"/></l><r>uno<s n="num"/></r></p></e>
+    <e><p><l>duo<s n="num"/></l><r>dos<s n="num"/><s n="mf"/><s n="sp"/></r></p></e>
+    <e><p><l>tres<s n="num"/></l><r>tres<s n="num"/><s n="mf"/><s n="sp"/></r></p></e>
+    <e><p><l>quattuor<s n="num"/><s n="mf"/><s n="sp"/></l><r>cuatro<s n="num"/><s n="mf"/><s n="sp"/></r></p></e>
+    <e><p><l>quinque<s n="num"/><s n="mf"/><s n="sp"/></l><r>cinco<s n="num"/><s n="mf"/><s n="sp"/></r></p></e>
+    <e><p><l>sex<s n="num"/><s n="mf"/><s n="sp"/></l><r>seis<s n="num"/><s n="mf"/><s n="sp"/></r></p></e>
+    <e><p><l>septem<s n="num"/><s n="mf"/><s n="sp"/></l><r>siete<s n="num"/><s n="mf"/><s n="sp"/></r></p></e>
+    <e><p><l>octo<s n="num"/><s n="mf"/><s n="sp"/></l><r>ocho<s n="num"/><s n="mf"/><s n="sp"/></r></p></e>
+    <e><p><l>novem<s n="num"/><s n="mf"/><s n="sp"/></l><r>nueve<s n="num"/><s n="mf"/><s n="sp"/></r></p></e>
+    <e><p><l>decem<s n="num"/><s n="mf"/><s n="sp"/></l><r>diez<s n="num"/><s n="mf"/><s n="sp"/></r></p></e>
+    <e><p><l>undecim<s n="num"/><s n="mf"/><s n="sp"/></l><r>once<s n="num"/><s n="mf"/><s n="sp"/></r></p></e>
+    <e><p><l>duodecim<s n="num"/><s n="mf"/><s n="sp"/></l><r>doce<s n="num"/><s n="mf"/><s n="sp"/></r></p></e>
+    <e><p><l>tredecim<s n="num"/><s n="mf"/><s n="sp"/></l><r>trece<s n="num"/><s n="mf"/><s n="sp"/></r></p></e>
+    <e><p><l>quattuordecim<s n="num"/><s n="mf"/><s n="sp"/></l><r>catorce<s n="num"/><s n="mf"/><s n="sp"/></r></p></e>
+    <e><p><l>quindecim<s n="num"/><s n="mf"/><s n="sp"/></l><r>quince<s n="num"/><s n="mf"/><s n="sp"/></r></p></e>
+    <e><p><l>sedecim<s n="num"/><s n="mf"/><s n="sp"/></l><r>dieciséis<s n="num"/><s n="mf"/><s n="sp"/></r></p></e>
+    <e><p><l>septendecim<s n="num"/><s n="mf"/><s n="sp"/></l><r>diecisiete<s n="num"/><s n="mf"/><s n="sp"/></r></p></e>
+    <e><p><l>duodeviginti<s n="num"/><s n="mf"/><s n="sp"/></l><r>dieciocho<s n="num"/><s n="mf"/><s n="sp"/></r></p></e>
+    <e><p><l>undeviginti<s n="num"/><s n="mf"/><s n="sp"/></l><r>diecinueve<s n="num"/><s n="mf"/><s n="sp"/></r></p></e>
+    <e><p><l>viginti<s n="num"/><s n="mf"/><s n="sp"/></l><r>veinte<s n="num"/><s n="mf"/><s n="sp"/></r></p></e>
+
     <e><p><l>primus<s n="det"/><s n="ord"/></l><r>primero<s n="det"/><s n="ord"/></r></p></e>
     <e><p><l>secundus<s n="det"/><s n="ord"/></l><r>segundo<s n="det"/><s n="ord"/></r></p></e>
     <e><p><l>tertius<s n="det"/><s n="ord"/></l><r>tercio<s n="det"/><s n="ord"/></r></p></e>
