@@ -118,6 +118,7 @@
     <e><p><l>a.C.n<s n="adv"/></l><r>a.<b/>C<s n="adv"/></r></p></e>
     <e><p><l>istuc<s n="adv"/></l><r>ahí<s n="adv"/></r></p></e>
     <e><p><l>longe<s n="adv"/></l><r>lejos<s n="adv"/></r></p></e>
+    <e><p><l>mathematice<s n="adv"/></l><r>matemáticamente<s n="adv"/></r></p></e>
 
     <e><p><l>tunc<s n="cnjadv"/></l><r>entonces<s n="cnjadv"/></r></p></e>
 
@@ -1131,9 +1132,12 @@
     <e><p><l>processorium<s n="n"/><s n="nt"/></l><r>procesador<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>coprocessorium<s n="n"/><s n="nt"/></l><r>coprocesador<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>fungus<s n="n"/><s n="m"/></l><r>hungo<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>planeta<s n="n"/><s n="f"/></l><r>planeta<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>mathematica<s n="n"/><s n="f"/></l><r>matemática<s n="n"/><s n="f"/></r></p></e>
 
     <e><p><l>liber<s n="adj"/></l><r>libre<s n="adj"/><s n="mf"/></r></p></e>
     <e><p><l>humanus<s n="adj"/></l><r>humano<s n="adj"/></r></p></e>
+    <e><p><l>mathematicus<s n="adj"/></l><r>matemático<s n="adj"/></r></p></e>
     <e><p><l>physicus<s n="adj"/></l><r>físico<s n="adj"/></r></p></e>
     <e><p><l>novus<s n="adj"/></l><r>nuevo<s n="adj"/></r></p></e>
     <e><p><l>annexus<s n="adj"/></l><r>anejo<s n="adj"/></r></p></e>

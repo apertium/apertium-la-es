@@ -10082,9 +10082,12 @@
     <e a="agfl-lat" lm="sursum"><i>sursum</i><par n="quasi__adv"/></e>
     <e a="agfl-lat" lm="retro"><i>retro</i><par n="quasi__adv"/></e>
     <e lm="a.C.n"><i>a.C.n</i><par n="quasi__adv"/></e>
+    <e lm="mathematice"><i>mathematice</i><par n="quasi__adv"/></e>
     
     <!-- Declension 1 f a, ae -->
     <e lm="aqua"><i>aqu</i><par n="aqu/a__n"/></e> <!-- water -->
+    <e lm="planeta"><i>planet</i><par n="aqu/a__n"/></e>
+    <e lm="mathematica"><i>mathematic</i><par n="aqu/a__n"/></e>
     <e lm="abbatia"><i>abbati</i><par n="aqu/a__n"/></e> <!-- abbey -->
     <e lm="absentia"><i>absenti</i><par n="aqu/a__n"/></e> <!-- absence -->
     <e lm="acta"><i>act</i><par n="aqu/a__n"/></e> <!-- holiday -->
@@ -11525,6 +11528,7 @@
 
     <e lm="liber"><i>liber</i><par n="liber__adj"/></e>
     <e lm="humanus"><i>human</i><par n="human/us__adj"/></e>
+    <e lm="mathematicus"><i>mathematic</i><par n="human/us__adj"/></e>
     <e lm="annixus"><i>annix</i><par n="human/us__adj"/></e>
     <e lm="adnixus"><i>adnix</i><par n="human/us__adj"/></e>
     <e lm="annexus"><i>annex</i><par n="human/us__adj"/></e>
