@@ -1116,6 +1116,8 @@
     <e><p><l>corpus<s n="n"/><s n="nt"/></l><r>cuerpo<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>corpus<g><b/>Christi</g><s n="n"/><s n="nt"/></l><r>cuerpo<g><b/>de<b/>Cristo</g><s n="n"/><s n="m"/></r></p></e>
     <e><p><l>finis<s n="n"/><s n="m"/></l><r>fin<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>motus<s n="n"/><s n="m"/></l><r>movimiento<s n="n"/><s n="m"/></r></p></e>
+    <e c="sometimes"><p><l>calendarium<s n="n"/><s n="nt"/></l><r>calendario<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>nox<s n="n"/><s n="f"/></l><r>noche<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>nomen<s n="n"/><s n="nt"/></l><r>nombre<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>homo<s n="n"/><s n="m"/></l><r>hombre<s n="n"/><s n="m"/></r></p></e>
@@ -1132,6 +1134,7 @@
 
     <e><p><l>liber<s n="adj"/></l><r>libre<s n="adj"/><s n="mf"/></r></p></e>
     <e><p><l>humanus<s n="adj"/></l><r>humano<s n="adj"/></r></p></e>
+    <e><p><l>physicus<s n="adj"/></l><r>físico<s n="adj"/></r></p></e>
     <e><p><l>novus<s n="adj"/></l><r>nuevo<s n="adj"/></r></p></e>
     <e><p><l>annexus<s n="adj"/></l><r>anejo<s n="adj"/></r></p></e>
     <e><p><l>adnixus<s n="adj"/></l><r>vehemente<s n="adj"/><s n="mf"/></r></p></e>
