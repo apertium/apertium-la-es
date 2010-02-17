@@ -11,6 +11,7 @@
 
      <sdef n="det"/>
      <sdef n="dem"/>
+     <sdef n="ind"/>
      <sdef n="ord"/>
      <sdef n="pos"/>
      <sdef n="prn"/>
@@ -95,6 +96,7 @@
 
     <e><p><l>hic<s n="det"/><s n="dem"/></l><r>este<s n="det"/><s n="dem"/></r></p></e>
     <e><p><l>idem<s n="det"/><s n="dem"/></l><r>el<b/>mismo<s n="det"/><s n="dem"/></r></p></e>
+    <e><p><l>alius<s n="det"/><s n="ind"/></l><r>otro<s n="det"/><s n="ind"/></r></p></e>
 
     <e><p><l>primus<s n="det"/><s n="ord"/></l><r>primero<s n="det"/><s n="ord"/></r></p></e>
     <e><p><l>secundus<s n="det"/><s n="ord"/></l><r>segundo<s n="det"/><s n="ord"/></r></p></e>
@@ -122,6 +124,7 @@
 
     <e><p><l>amare<s n="vblex"/></l><r>amar<s n="vblex"/></r></p></e>
     <e><p><l>ire<s n="vblex"/></l><r>ir<s n="vblex"/></r></p></e>
+    <e><p><l>abuti<s n="vblex"/></l><r>abusar<s n="vblex"/></r></p></e>
     <e><p><l>abbreviare<s n="vblex"/></l><r>abreviar<s n="vblex"/></r></p></e>
     <e><p><l>abdicare<s n="vblex"/></l><r>abdicar<s n="vblex"/></r></p></e>
     <e><p><l>abitare<s n="vblex"/></l><r>habitar<s n="vblex"/></r></p></e>
