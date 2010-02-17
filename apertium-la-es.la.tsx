@@ -10,6 +10,27 @@
   <def-label name="CNJSUB" closed="true">
     <tags-item tags="cnjsub"/>
   </def-label> 
+  <def-label name="QUOT" closed="true">
+    <tags-item tags="quot"/>
+  </def-label> 
+  <def-label name="APOS" closed="true">
+    <tags-item tags="apos"/>
+  </def-label> 
+  <def-label name="ELIP" closed="true">
+    <tags-item tags="elip"/>
+  </def-label> 
+  <def-label name="LQUOT" closed="true">
+    <tags-item tags="lquot"/>
+  </def-label> 
+  <def-label name="RQUOT" closed="true">
+    <tags-item tags="rquot"/>
+  </def-label> 
+  <def-label name="LPAR" closed="true">
+    <tags-item tags="lpar"/>
+  </def-label> 
+  <def-label name="RPAR" closed="true">
+    <tags-item tags="rpar"/>
+  </def-label> 
   <def-label name="IJ">
     <tags-item tags="ij"/>
   </def-label> 
@@ -90,11 +111,27 @@
     <tags-item tags="vblex.pp.*"/>
     <tags-item tags="vbser.pp.*"/>
   </def-label>
+  <def-label name="NUMINDECL">
+    <tags-item tags="num"/>
+    <tags-item tags="num.mf.sp"/>
+  </def-label> 
   <def-label name="SUPINEACC">
     <tags-item tags="vblex.spn.acc"/>
   </def-label> 
   <def-label name="SUPINEDATABL">
     <tags-item tags="vblex.spn.dat"/>
+  </def-label> 
+  <def-label name="SIBI" closed="true">
+    <tags-item tags="prn.pro.ref.p3.mf.sp.dat"/>
+  </def-label> 
+  <def-label name="SUI" closed="true">
+    <tags-item tags="prn.pro.ref.p3.mf.sp.gen"/>
+  </def-label> 
+  <def-label name="SEACC" closed="true">
+    <tags-item tags="prn.pro.ref.p3.mf.sp.acc"/>
+  </def-label> 
+  <def-label name="SEABL" closed="true">
+    <tags-item tags="prn.pro.ref.p3.mf.sp.abl"/>
   </def-label> 
   <def-label name="NOMNOM">
     <tags-item tags="n.m.sg.nom"/>
