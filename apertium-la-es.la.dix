@@ -7005,6 +7005,167 @@
         </p>
       </e>
     </pardef>
+    <pardef n="fin/is__n">
+      <e>
+        <p>
+          <l>i</l>
+          <r>is<s n="n"/><s n="m"/><s n="sg"/><s n="abl"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>e</l>
+          <r>is<s n="n"/><s n="m"/><s n="sg"/><s n="abl"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>is</l>
+          <r>is<s n="n"/><s n="m"/><s n="sg"/><s n="gen"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>i</l>
+          <r>is<s n="n"/><s n="m"/><s n="sg"/><s n="dat"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>em</l>
+          <r>is<s n="n"/><s n="m"/><s n="sg"/><s n="acc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>is</l>
+          <r>is<s n="n"/><s n="m"/><s n="sg"/><s n="voc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>is</l>
+          <r>is<s n="n"/><s n="m"/><s n="sg"/><s n="nom"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ibus</l>
+          <r>is<s n="n"/><s n="m"/><s n="pl"/><s n="abl"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ium</l>
+          <r>is<s n="n"/><s n="m"/><s n="pl"/><s n="gen"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ibus</l>
+          <r>is<s n="n"/><s n="m"/><s n="pl"/><s n="dat"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>is</l>
+          <r>is<s n="n"/><s n="m"/><s n="pl"/><s n="acc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>es</l>
+          <r>is<s n="n"/><s n="m"/><s n="pl"/><s n="acc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>es</l>
+          <r>is<s n="n"/><s n="m"/><s n="pl"/><s n="voc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>es</l>
+          <r>is<s n="n"/><s n="m"/><s n="pl"/><s n="nom"/></r>
+        </p>
+      </e>
+    </pardef>
+    <pardef n="corp/us__n">
+      <e>
+        <p>
+          <l>ore</l>
+          <r>us<s n="n"/><s n="nt"/><s n="sg"/><s n="abl"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>oris</l>
+          <r>us<s n="n"/><s n="nt"/><s n="sg"/><s n="gen"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ori</l>
+          <r>us<s n="n"/><s n="nt"/><s n="sg"/><s n="dat"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>us</l>
+          <r>us<s n="n"/><s n="nt"/><s n="sg"/><s n="acc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>us</l>
+          <r>us<s n="n"/><s n="nt"/><s n="sg"/><s n="voc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>us</l>
+          <r>us<s n="n"/><s n="nt"/><s n="sg"/><s n="nom"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>oribus</l>
+          <r>us<s n="n"/><s n="nt"/><s n="pl"/><s n="abl"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>orum</l>
+          <r>us<s n="n"/><s n="nt"/><s n="pl"/><s n="gen"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>oribus</l>
+          <r>us<s n="n"/><s n="nt"/><s n="pl"/><s n="dat"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ora</l>
+          <r>us<s n="n"/><s n="nt"/><s n="pl"/><s n="acc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ora</l>
+          <r>us<s n="n"/><s n="nt"/><s n="pl"/><s n="voc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ora</l>
+          <r>us<s n="n"/><s n="nt"/><s n="pl"/><s n="nom"/></r>
+        </p>
+      </e>
+    </pardef>
+
 
     <pardef n="/esse__vbser">
       <e>
@@ -10359,8 +10520,9 @@
     <e lm="benedictus"><i>benedict</i><par n="mur/us__n"/></e>
     <e lm="bibliothecarius"><i>bibliothecari</i><par n="mur/us__n"/></e>
     <e lm="biologus"><i>biolog</i><par n="mur/us__n"/></e>
-    <e lm="corpus"><i>corp</i><par n="mur/us__n"/></e>
-    <e lm="corpus Christi"><i>corp</i><par n="mur/us__n"/><p><l><b/>Christi</l><r><g><b/>Christi</g></r></p></e>
+    <e lm="corpus"><i>corp</i><par n="corp/us__n"/></e>
+    <e lm="corpus Christi"><i>corp</i><par n="corp/us__n"/><p><l><b/>Christi</l><r><g><b/>Christi</g></r></p></e>
+    <e lm="finis"><i>fin</i><par n="fin/is__n"/></e>
     <!-- Irregular -->
     <e lm="domus"><i>vult</i><par n="dom/us__n"/></e>
     
@@ -11214,6 +11376,7 @@
     <e lm="novus"><i>nov</i><par n="human/us__adj"/></e>
     <e lm="electronicus"><i>electronic</i><par n="human/us__adj"/></e>
     <e lm="theoricus"><i>theoric</i><par n="human/us__adj"/></e>
+    <e lm="scientificus"><i>scientific</i><par n="human/us__adj"/></e>
     <e lm="gregorianus"><i>gregorian</i><par n="human/us__adj"/></e>
     <e lm="Britannicus"><i>Britannic</i><par n="human/us__adj"/></e>
     <e lm="Christianus"><i>Christian</i><par n="human/us__adj"/></e>
