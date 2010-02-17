@@ -10049,11 +10049,11 @@
     <!-- Adverbs -->
     <e lm="istuc"><i>istuc</i><par n="quasi__adv"/></e>
     <e lm="longe"><i>long</i><par n="long/e__adv"/></e>
+    <e lm="adsidue"><i>adsidu</i><par n="long/e__adv"/></e>
     <e a="agfl-lat" lm="abhinc"><i>abhinc</i><par n="quasi__adv"/></e>
     <e a="agfl-lat" lm="adfatim"><i>adfatim</i><par n="quasi__adv"/></e>
     <e a="agfl-lat" lm="adhuc"><i>adhuc</i><par n="quasi__adv"/></e>
     <e a="agfl-lat" lm="admodum"><i>admodum</i><par n="quasi__adv"/></e>
-    <e a="agfl-lat" lm="adsidue"><i>adsidue</i><par n="quasi__adv"/></e>
     <e a="agfl-lat" lm="alibi"><i>alibi</i><par n="quasi__adv"/></e>
     <e a="agfl-lat" lm="alioqui"><i>alioqui</i><par n="quasi__adv"/></e>
     <e a="agfl-lat" lm="alioquin"><i>alioquin</i><par n="quasi__adv"/></e>

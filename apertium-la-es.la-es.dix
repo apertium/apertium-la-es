@@ -143,6 +143,8 @@
     <e><p><l>a.C.n<s n="adv"/></l><r>a.<b/>C<s n="adv"/></r></p></e>
     <e><p><l>istuc<s n="adv"/></l><r>ahí<s n="adv"/></r></p></e>
     <e><p><l>longe<s n="adv"/></l><r>lejos<s n="adv"/></r></p></e>
+    <e><p><l>adfatim<s n="adv"/></l><r>suficientemente<s n="adv"/></r></p></e>
+    <e><p><l>adsidue<s n="adv"/></l><r>continuamente<s n="adv"/></r></p></e>
     <e><p><l>mathematice<s n="adv"/></l><r>matemáticamente<s n="adv"/></r></p></e>
     <e><p><l>abhinc<s n="adv"/></l><r>atrás<s n="adv"/></r></p></e>
     <e><p><l>usque<s n="adv"/></l><r>sin<b/>interrupción<s n="adv"/></r></p></e>
@@ -451,6 +453,10 @@
     <e><p><l>aqua<s n="n"/></l><r>agua<s n="n"/></r></p></e>
     <e><p><l>abavus<s n="n"/></l><r>tatarabuelo<s n="n"/></r></p></e>
     <e><p><l>abortivus<s n="n"/></l><r>aborto<s n="n"/></r></p></e>
+    <e><p><l>diabolus<s n="n"/></l><r>diablo<s n="n"/></r></p></e>
+    <e><p><l>digitus<s n="n"/></l><r>dedo<s n="n"/></r></p></e>
+    <e><p><l>discipulus<s n="n"/></l><r>discípulo<s n="n"/></r></p></e>
+    <e><p><l>discordia<s n="n"/></l><r>discordia<s n="n"/></r></p></e>
     <e><p><l>abyssus<s n="n"/></l><r>abismo<s n="n"/></r></p></e>
     <e><p><l>acta<s n="n"/></l><r>acta<s n="n"/></r></p></e>
     <e><p><l>adversarius<s n="n"/></l><r>adversario<s n="n"/></r></p></e>
