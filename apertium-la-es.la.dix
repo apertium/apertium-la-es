@@ -131,6 +131,26 @@
         </p>
       </e>
     </pardef>
+    <pardef n="long/e__adv">
+      <e>
+        <p>
+          <l>e</l>
+          <r>e<s n="adv"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ius</l>
+          <r>e<s n="adv"/><s n="comp"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>issime</l>
+          <r>e<s n="adv"/><s n="sup"/></r>
+        </p>
+      </e>
+    </pardef>
     <pardef n="tunc__cnjadv">
       <e>
         <p>
@@ -7902,6 +7922,7 @@
 
     <!-- Adverbs -->
     <e lm="istuc"><i>istuc</i><par n="quasi__adv"/></e>
+    <e lm="longe"><i>long</i><par n="long/e__adv"/></e>
     <e a="agfl-lat" lm="abhinc"><i>abhinc</i><par n="quasi__adv"/></e>
     <e a="agfl-lat" lm="adfatim"><i>adfatim</i><par n="quasi__adv"/></e>
     <e a="agfl-lat" lm="adhuc"><i>adhuc</i><par n="quasi__adv"/></e>
@@ -9523,6 +9544,10 @@
 
     <e lm="liber"><i>liber</i><par n="liber__adj"/></e>
     <e lm="humanus"><i>human</i><par n="human/us__adj"/></e>
+    <e lm="annixus"><i>annix</i><par n="human/us__adj"/></e>
+    <e lm="adnixus"><i>adnix</i><par n="human/us__adj"/></e>
+    <e lm="annexus"><i>annex</i><par n="human/us__adj"/></e>
+    <e lm="novus"><i>nov</i><par n="human/us__adj"/></e>
     <e lm="electronicus"><i>electronic</i><par n="human/us__adj"/></e>
     <e lm="theoricus"><i>theoric</i><par n="human/us__adj"/></e>
     <e lm="gregorianus"><i>gregorian</i><par n="human/us__adj"/></e>

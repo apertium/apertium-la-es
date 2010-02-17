@@ -114,6 +114,7 @@
     <e><p><l>haud<s n="adv"/></l><r>no<s n="adv"/></r></p></e>
     <e><p><l>a.C.n<s n="adv"/></l><r>a.<b/>C<s n="adv"/></r></p></e>
     <e><p><l>istuc<s n="adv"/></l><r>ahí<s n="adv"/></r></p></e>
+    <e><p><l>longe<s n="adv"/></l><r>lejos<s n="adv"/></r></p></e>
 
     <e><p><l>tunc<s n="cnjadv"/></l><r>entonces<s n="cnjadv"/></r></p></e>
 
@@ -1126,6 +1127,10 @@
 
     <e><p><l>liber<s n="adj"/></l><r>libre<s n="adj"/><s n="mf"/></r></p></e>
     <e><p><l>humanus<s n="adj"/></l><r>humano<s n="adj"/></r></p></e>
+    <e><p><l>novus<s n="adj"/></l><r>nuevo<s n="adj"/></r></p></e>
+    <e><p><l>annexus<s n="adj"/></l><r>anejo<s n="adj"/></r></p></e>
+    <e><p><l>adnixus<s n="adj"/></l><r>vehemente<s n="adj"/><s n="mf"/></r></p></e>
+    <e><p><l>annixus<s n="adj"/></l><r>vehemente<s n="adj"/><s n="mf"/></r></p></e>
     <e><p><l>electronicus<s n="adj"/></l><r>electrónico<s n="adj"/></r></p></e>
     <e><p><l>oeconomicus<s n="adj"/></l><r>económico<s n="adj"/></r></p></e>
     <e><p><l>gregorianus<s n="adj"/></l><r>gregoriano<s n="adj"/></r></p></e>
