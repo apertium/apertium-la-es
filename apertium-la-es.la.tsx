@@ -25,12 +25,6 @@
   <def-label name="RQUOT" closed="true">
     <tags-item tags="rquot"/>
   </def-label> 
-  <def-label name="LPAR" closed="true">
-    <tags-item tags="lpar"/>
-  </def-label> 
-  <def-label name="RPAR" closed="true">
-    <tags-item tags="rpar"/>
-  </def-label> 
   <def-label name="IJ">
     <tags-item tags="ij"/>
   </def-label> 
