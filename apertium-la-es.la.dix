@@ -7319,6 +7319,80 @@
         </p>
       </e>
     </pardef>
+    <pardef n="amor__n">
+      <e>
+        <p>
+          <l>e</l>
+          <r><s n="n"/><s n="m"/><s n="sg"/><s n="abl"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>is</l>
+          <r><s n="n"/><s n="m"/><s n="sg"/><s n="gen"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>i</l>
+          <r><s n="n"/><s n="m"/><s n="sg"/><s n="dat"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>em</l>
+          <r><s n="n"/><s n="m"/><s n="sg"/><s n="acc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l></l>
+          <r><s n="n"/><s n="m"/><s n="sg"/><s n="voc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l></l>
+          <r><s n="n"/><s n="m"/><s n="sg"/><s n="nom"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ibus</l>
+          <r><s n="n"/><s n="m"/><s n="pl"/><s n="abl"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>um</l>
+          <r><s n="n"/><s n="m"/><s n="pl"/><s n="gen"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ibus</l>
+          <r><s n="n"/><s n="m"/><s n="pl"/><s n="dat"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>es</l>
+          <r><s n="n"/><s n="m"/><s n="pl"/><s n="acc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>es</l>
+          <r><s n="n"/><s n="m"/><s n="pl"/><s n="voc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>es</l>
+          <r><s n="n"/><s n="m"/><s n="pl"/><s n="nom"/></r>
+        </p>
+      </e>
+    </pardef>
 
     <pardef n="/esse__vbser">
       <e>
@@ -10122,6 +10196,7 @@
     <e lm="nomen"><i>nom</i><par n="nom/en__n"/></e>
     <e lm="vulnus"><i>vuln</i><par n="vuln/us__n"/></e>
     <e lm="homo"><i>hom</i><par n="hom/o__n"/></e>
+    <e lm="amor"><i>amor</i><par n="amor__n"/></e>
     <e lm="electronica"><i>electronic</i><par n="aqu/a__n"/></e>
     <e a="afgl-lat" lm="Cornelia"><i>Corneli</i><par n="Corneli/a__np"/></e>
     <e a="afgl-lat" lm="abstinentia"><i>abstinenti</i><par n="aqu/a__n"/></e>
@@ -10681,6 +10756,7 @@
     <e lm="finis"><i>fin</i><par n="fin/is__n"/></e>
     <e lm="motus"><i>mot</i><par n="mot/us__n"/></e>
     <e lm="calendarium"><i>calendari</i><par n="calendari/um__n"/></e>
+    <e lm="medium"><i>medi</i><par n="calendari/um__n"/></e>
     <!-- Irregular -->
     <e lm="domus"><i>vult</i><par n="dom/us__n"/></e>
     
@@ -11528,6 +11604,7 @@
 
     <e lm="liber"><i>liber</i><par n="liber__adj"/></e>
     <e lm="humanus"><i>human</i><par n="human/us__adj"/></e>
+    <e lm="medius"><i>medi</i><par n="human/us__adj"/></e>
     <e lm="mathematicus"><i>mathematic</i><par n="human/us__adj"/></e>
     <e lm="annixus"><i>annix</i><par n="human/us__adj"/></e>
     <e lm="adnixus"><i>adnix</i><par n="human/us__adj"/></e>

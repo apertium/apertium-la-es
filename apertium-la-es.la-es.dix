@@ -422,6 +422,7 @@
     <e><p><l>noster<s n="det"/><s n="pos"/></l><r>nuestro<s n="det"/><s n="pos"/></r></p></e>
 
     <e><p><l>aqua<s n="n"/></l><r>agua<s n="n"/></r></p></e>
+    <e><p><l>amor<s n="n"/></l><r>amor<s n="n"/></r></p></e>
     <e><p><l>abbatia<s n="n"/></l><r>abadía<s n="n"/></r></p></e>
     <e><p><l>absentia<s n="n"/></l><r>ausencia<s n="n"/></r></p></e>
     <e><i>agricultura<s n="n"/></i></e>
@@ -1119,6 +1120,7 @@
     <e><p><l>finis<s n="n"/><s n="m"/></l><r>fin<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>motus<s n="n"/><s n="m"/></l><r>movimiento<s n="n"/><s n="m"/></r></p></e>
     <e c="sometimes"><p><l>calendarium<s n="n"/><s n="nt"/></l><r>calendario<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>medium<s n="n"/><s n="nt"/></l><r>medio<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>nox<s n="n"/><s n="f"/></l><r>noche<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>nomen<s n="n"/><s n="nt"/></l><r>nombre<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>homo<s n="n"/><s n="m"/></l><r>hombre<s n="n"/><s n="m"/></r></p></e>
@@ -1267,6 +1269,7 @@
     <e><p><l>citrinus<s n="adj"/></l><r>cítrico<s n="adj"/></r></p></e>
     <e><p><l>climaticus<s n="adj"/></l><r>climático<s n="adj"/></r></p></e>
     <e><p><l>clinatus<s n="adj"/></l><r>inclinando<s n="adj"/></r></p></e>
+    <e><p><l>medius<s n="adj"/></l><r>medio<s n="adj"/></r></p></e>
     <e><p><l>coactus<s n="adj"/></l><r>coactivo<s n="adj"/></r></p></e>
     <e><p><l>coelicus<s n="adj"/></l><r>celestial<s n="adj"/><s n="mf"/></r></p></e>
 
