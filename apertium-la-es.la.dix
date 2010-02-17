@@ -10754,6 +10754,7 @@
     <e lm="corpus"><i>corp</i><par n="corp/us__n"/></e>
     <e lm="corpus Christi"><i>corp</i><par n="corp/us__n"/><p><l><b/>Christi</l><r><g><b/>Christi</g></r></p></e>
     <e lm="finis"><i>fin</i><par n="fin/is__n"/></e>
+    <e lm="immortalis"><i>immortal</i><par n="fin/is__n"/></e>
     <e lm="motus"><i>mot</i><par n="mot/us__n"/></e>
     <e lm="calendarium"><i>calendari</i><par n="calendari/um__n"/></e>
     <e lm="medium"><i>medi</i><par n="calendari/um__n"/></e>

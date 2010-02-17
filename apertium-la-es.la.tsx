@@ -96,6 +96,203 @@
   <def-label name="SUPINEDATABL">
     <tags-item tags="vblex.spn.dat"/>
   </def-label> 
+  <def-label name="NOMNOM">
+    <tags-item tags="n.m.sg.nom"/>
+    <tags-item tags="n.f.sg.nom"/>
+    <tags-item tags="n.nt.sg.nom"/>
+    <tags-item tags="n.m.pl.nom"/>
+    <tags-item tags="n.f.pl.nom"/>
+    <tags-item tags="n.nt.pl.nom"/>
+  </def-label> 
+  <def-label name="NOMGEN">
+    <tags-item tags="n.m.sg.gen"/>
+    <tags-item tags="n.f.sg.gen"/>
+    <tags-item tags="n.nt.sg.gen"/>
+    <tags-item tags="n.m.pl.gen"/>
+    <tags-item tags="n.f.pl.gen"/>
+    <tags-item tags="n.nt.pl.gen"/>
+  </def-label> 
+  <def-label name="NOMDAT">
+    <tags-item tags="n.m.sg.dat"/>
+    <tags-item tags="n.f.sg.dat"/>
+    <tags-item tags="n.nt.sg.dat"/>
+    <tags-item tags="n.m.pl.dat"/>
+    <tags-item tags="n.f.pl.dat"/>
+    <tags-item tags="n.nt.pl.dat"/>
+  </def-label> 
+  <def-label name="NOMACC">
+    <tags-item tags="n.m.sg.acc"/>
+    <tags-item tags="n.f.sg.acc"/>
+    <tags-item tags="n.nt.sg.acc"/>
+    <tags-item tags="n.m.pl.acc"/>
+    <tags-item tags="n.f.pl.acc"/>
+    <tags-item tags="n.nt.pl.acc"/>
+  </def-label>
+  <def-label name="NOMABL">
+    <tags-item tags="n.m.sg.abl"/>
+    <tags-item tags="n.f.sg.abl"/>
+    <tags-item tags="n.nt.sg.abl"/>
+    <tags-item tags="n.m.pl.abl"/>
+    <tags-item tags="n.f.pl.abl"/>
+    <tags-item tags="n.nt.pl.abl"/>
+  </def-label> 
+  <def-label name="NOMVOC">
+    <tags-item tags="n.m.sg.voc"/>
+    <tags-item tags="n.f.sg.voc"/>
+    <tags-item tags="n.nt.sg.voc"/>
+    <tags-item tags="n.m.pl.voc"/>
+    <tags-item tags="n.f.pl.voc"/>
+    <tags-item tags="n.nt.pl.voc"/>
+  </def-label> 
+  <def-label name="NOMLOC">
+    <tags-item tags="n.m.sg.loc"/>
+    <tags-item tags="n.f.sg.loc"/>
+    <tags-item tags="n.nt.sg.loc"/>
+    <tags-item tags="n.m.pl.loc"/>
+    <tags-item tags="n.f.pl.loc"/>
+    <tags-item tags="n.nt.pl.loc"/>
+  </def-label> 
+
+  <def-label name="ADJADJ">
+    <tags-item tags="adj.m.sg.nom"/>
+    <tags-item tags="adj.f.sg.nom"/>
+    <tags-item tags="adj.nt.sg.nom"/>
+    <tags-item tags="adj.m.pl.nom"/>
+    <tags-item tags="adj.f.pl.nom"/>
+    <tags-item tags="adj.nt.pl.nom"/>
+    <tags-item tags="adj.comp.m.sg.nom"/>
+    <tags-item tags="adj.comp.f.sg.nom"/>
+    <tags-item tags="adj.comp.nt.sg.nom"/>
+    <tags-item tags="adj.comp.m.pl.nom"/>
+    <tags-item tags="adj.comp.f.pl.nom"/>
+    <tags-item tags="adj.comp.nt.pl.nom"/>
+    <tags-item tags="adj.sup.m.sg.nom"/>
+    <tags-item tags="adj.sup.f.sg.nom"/>
+    <tags-item tags="adj.sup.nt.sg.nom"/>
+    <tags-item tags="adj.sup.m.pl.nom"/>
+    <tags-item tags="adj.sup.f.pl.nom"/>
+    <tags-item tags="adj.sup.nt.pl.nom"/>
+  </def-label> 
+  <def-label name="ADJGEN">
+    <tags-item tags="adj.m.sg.gen"/>
+    <tags-item tags="adj.f.sg.gen"/>
+    <tags-item tags="adj.nt.sg.gen"/>
+    <tags-item tags="adj.m.pl.gen"/>
+    <tags-item tags="adj.f.pl.gen"/>
+    <tags-item tags="adj.nt.pl.gen"/>
+    <tags-item tags="adj.comp.m.sg.gen"/>
+    <tags-item tags="adj.comp.f.sg.gen"/>
+    <tags-item tags="adj.comp.nt.sg.gen"/>
+    <tags-item tags="adj.comp.m.pl.gen"/>
+    <tags-item tags="adj.comp.f.pl.gen"/>
+    <tags-item tags="adj.comp.nt.pl.gen"/>
+    <tags-item tags="adj.sup.m.sg.gen"/>
+    <tags-item tags="adj.sup.f.sg.gen"/>
+    <tags-item tags="adj.sup.nt.sg.gen"/>
+    <tags-item tags="adj.sup.m.pl.gen"/>
+    <tags-item tags="adj.sup.f.pl.gen"/>
+    <tags-item tags="adj.sup.nt.pl.gen"/>
+  </def-label> 
+  <def-label name="ADJDAT">
+    <tags-item tags="adj.m.sg.dat"/>
+    <tags-item tags="adj.f.sg.dat"/>
+    <tags-item tags="adj.nt.sg.dat"/>
+    <tags-item tags="adj.m.pl.dat"/>
+    <tags-item tags="adj.f.pl.dat"/>
+    <tags-item tags="adj.nt.pl.dat"/>
+    <tags-item tags="adj.comp.m.sg.dat"/>
+    <tags-item tags="adj.comp.f.sg.dat"/>
+    <tags-item tags="adj.comp.nt.sg.dat"/>
+    <tags-item tags="adj.comp.m.pl.dat"/>
+    <tags-item tags="adj.comp.f.pl.dat"/>
+    <tags-item tags="adj.comp.nt.pl.dat"/>
+    <tags-item tags="adj.sup.m.sg.dat"/>
+    <tags-item tags="adj.sup.f.sg.dat"/>
+    <tags-item tags="adj.sup.nt.sg.dat"/>
+    <tags-item tags="adj.sup.m.pl.dat"/>
+    <tags-item tags="adj.sup.f.pl.dat"/>
+    <tags-item tags="adj.sup.nt.pl.dat"/>
+  </def-label> 
+  <def-label name="ADJACC">
+    <tags-item tags="adj.m.sg.acc"/>
+    <tags-item tags="adj.f.sg.acc"/>
+    <tags-item tags="adj.nt.sg.acc"/>
+    <tags-item tags="adj.m.pl.acc"/>
+    <tags-item tags="adj.f.pl.acc"/>
+    <tags-item tags="adj.nt.pl.acc"/>
+    <tags-item tags="adj.comp.m.sg.acc"/>
+    <tags-item tags="adj.comp.f.sg.acc"/>
+    <tags-item tags="adj.comp.nt.sg.acc"/>
+    <tags-item tags="adj.comp.m.pl.acc"/>
+    <tags-item tags="adj.comp.f.pl.acc"/>
+    <tags-item tags="adj.comp.nt.pl.acc"/>
+    <tags-item tags="adj.sup.m.sg.acc"/>
+    <tags-item tags="adj.sup.f.sg.acc"/>
+    <tags-item tags="adj.sup.nt.sg.acc"/>
+    <tags-item tags="adj.sup.m.pl.acc"/>
+    <tags-item tags="adj.sup.f.pl.acc"/>
+    <tags-item tags="adj.sup.nt.pl.acc"/>
+  </def-label>
+  <def-label name="ADJABL">
+    <tags-item tags="adj.m.sg.abl"/>
+    <tags-item tags="adj.f.sg.abl"/>
+    <tags-item tags="adj.nt.sg.abl"/>
+    <tags-item tags="adj.m.pl.abl"/>
+    <tags-item tags="adj.f.pl.abl"/>
+    <tags-item tags="adj.nt.pl.abl"/>
+    <tags-item tags="adj.comp.m.sg.abl"/>
+    <tags-item tags="adj.comp.f.sg.abl"/>
+    <tags-item tags="adj.comp.nt.sg.abl"/>
+    <tags-item tags="adj.comp.m.pl.abl"/>
+    <tags-item tags="adj.comp.f.pl.abl"/>
+    <tags-item tags="adj.comp.nt.pl.abl"/>
+    <tags-item tags="adj.sup.m.sg.abl"/>
+    <tags-item tags="adj.sup.f.sg.abl"/>
+    <tags-item tags="adj.sup.nt.sg.abl"/>
+    <tags-item tags="adj.sup.m.pl.abl"/>
+    <tags-item tags="adj.sup.f.pl.abl"/>
+    <tags-item tags="adj.sup.nt.pl.abl"/>
+  </def-label> 
+  <def-label name="ADJVOC">
+    <tags-item tags="adj.m.sg.voc"/>
+    <tags-item tags="adj.f.sg.voc"/>
+    <tags-item tags="adj.nt.sg.voc"/>
+    <tags-item tags="adj.m.pl.voc"/>
+    <tags-item tags="adj.f.pl.voc"/>
+    <tags-item tags="adj.nt.pl.voc"/>
+    <tags-item tags="adj.comp.m.sg.voc"/>
+    <tags-item tags="adj.comp.f.sg.voc"/>
+    <tags-item tags="adj.comp.nt.sg.voc"/>
+    <tags-item tags="adj.comp.m.pl.voc"/>
+    <tags-item tags="adj.comp.f.pl.voc"/>
+    <tags-item tags="adj.comp.nt.pl.voc"/>
+    <tags-item tags="adj.sup.m.sg.voc"/>
+    <tags-item tags="adj.sup.f.sg.voc"/>
+    <tags-item tags="adj.sup.nt.sg.voc"/>
+    <tags-item tags="adj.sup.m.pl.voc"/>
+    <tags-item tags="adj.sup.f.pl.voc"/>
+    <tags-item tags="adj.sup.nt.pl.voc"/>
+  </def-label> 
+  <def-label name="ADJLOC">
+    <tags-item tags="adj.m.sg.loc"/>
+    <tags-item tags="adj.f.sg.loc"/>
+    <tags-item tags="adj.nt.sg.loc"/>
+    <tags-item tags="adj.m.pl.loc"/>
+    <tags-item tags="adj.f.pl.loc"/>
+    <tags-item tags="adj.nt.pl.loc"/>
+    <tags-item tags="adj.comp.m.sg.loc"/>
+    <tags-item tags="adj.comp.f.sg.loc"/>
+    <tags-item tags="adj.comp.nt.sg.loc"/>
+    <tags-item tags="adj.comp.m.pl.loc"/>
+    <tags-item tags="adj.comp.f.pl.loc"/>
+    <tags-item tags="adj.comp.nt.pl.loc"/>
+    <tags-item tags="adj.sup.m.sg.loc"/>
+    <tags-item tags="adj.sup.f.sg.loc"/>
+    <tags-item tags="adj.sup.nt.sg.loc"/>
+    <tags-item tags="adj.sup.m.pl.loc"/>
+    <tags-item tags="adj.sup.f.pl.loc"/>
+    <tags-item tags="adj.sup.nt.pl.loc"/>
+  </def-label> 
 
 </tagset>
 
@@ -103,6 +300,18 @@
   <label-sequence>
     <label-item label="PP"/>
     <label-item label="IRI"/>
+  </label-sequence>
+  <label-sequence>
+    <label-item label="PRABL"/>
+    <label-item label="NOMACC"/>
+  </label-sequence>
+  <label-sequence>
+    <label-item label="PRACC"/>
+    <label-item label="NOMABL"/>
+  </label-sequence>
+  <label-sequence>
+    <label-item label="PRACC"/>
+    <label-item label="NOMNOM"/>
   </label-sequence>
 </forbid>
 
