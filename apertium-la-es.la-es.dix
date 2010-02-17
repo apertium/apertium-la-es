@@ -64,6 +64,7 @@
   </sdefs>
   <section id="main" type="standard">
     <e><p><l>ab<s n="pr"/></l><r>desde<s n="pr"/></r></p></e>
+    <e><p><l>abs<s n="pr"/></l><r>desde<s n="pr"/></r></p></e>
     <e><p><l>a<s n="pr"/></l><r>desde<s n="pr"/></r></p></e>
     <e i="yes"><p><l>ad<s n="pr"/></l><r>hacia<s n="pr"/></r></p></e>
     <e><p><l>adversus<s n="pr"/></l><r>en<b/>dirección<b/>a<s n="pr"/></r></p></e>
@@ -143,6 +144,7 @@
     <e><p><l>istuc<s n="adv"/></l><r>ahí<s n="adv"/></r></p></e>
     <e><p><l>longe<s n="adv"/></l><r>lejos<s n="adv"/></r></p></e>
     <e><p><l>mathematice<s n="adv"/></l><r>matemáticamente<s n="adv"/></r></p></e>
+    <e><p><l>abhinc<s n="adv"/></l><r>atrás<s n="adv"/></r></p></e>
 
     <e><p><l>tunc<s n="cnjadv"/></l><r>entonces<s n="cnjadv"/></r></p></e>
 
@@ -446,6 +448,10 @@
     <e><p><l>noster<s n="det"/><s n="pos"/></l><r>nuestro<s n="det"/><s n="pos"/></r></p></e>
 
     <e><p><l>aqua<s n="n"/></l><r>agua<s n="n"/></r></p></e>
+    <e><p><l>abavus<s n="n"/></l><r>tatarabuelo<s n="n"/></r></p></e>
+    <e><p><l>abortivus<s n="n"/></l><r>aborto<s n="n"/></r></p></e>
+    <e><p><l>abyssus<s n="n"/></l><r>abismo<s n="n"/></r></p></e>
+    <e><p><l>acta<s n="n"/></l><r>acta<s n="n"/></r></p></e>
     <e><p><l>amor<s n="n"/></l><r>amor<s n="n"/></r></p></e>
     <e><p><l>abbatia<s n="n"/></l><r>abadía<s n="n"/></r></p></e>
     <e><p><l>absentia<s n="n"/></l><r>ausencia<s n="n"/></r></p></e>
