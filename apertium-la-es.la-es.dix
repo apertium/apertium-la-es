@@ -48,6 +48,10 @@
      <sdef n="cm"/>
      <sdef n="lpar"/>
      <sdef n="rpar"/>
+     <sdef n="lquot"/>
+     <sdef n="rquot"/>
+     <sdef n="quot"/>
+     <sdef n="elip"/>
      <sdef n="num"/>
 
      <sdef n="nom"/>
@@ -1800,5 +1804,11 @@
     <e><i>)<s n="rpar"/></i></e>
     <e><i>]<s n="rpar"/></i></e>
     <e><re>[0-9]+([.,][0-9]+)?</re><i><s n="num"/></i></e>
+    <e><i>«<s n="lquot"/></i></e>
+    <e><i>»<s n="rquot"/></i></e>
+    <e><i>&quot;<s n="quot"/></i></e>
+    <e><i>...<s n="elip"/></i></e>
+    <e><i>[...]<s n="elip"/></i></e>
+
   </section>
 </dictionary>
