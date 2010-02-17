@@ -1114,9 +1114,23 @@
     <e><p><l>nomen<s n="n"/><s n="nt"/></l><r>nombre<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>homo<s n="n"/><s n="m"/></l><r>hombre<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>vulnus<s n="n"/><s n="nt"/></l><r>herida<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>electronica<s n="n"/><s n="f"/></l><r>electrónica<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>disciplina<s n="n"/><s n="f"/></l><r>disciplina<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>physica<s n="n"/><s n="f"/></l><r>física<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>geophysica<s n="n"/><s n="f"/></l><r>geofísica<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>oeconomia<s n="n"/><s n="f"/></l><r>economía<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>theoria<s n="n"/><s n="f"/></l><r>teoría<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>processorium<s n="n"/><s n="nt"/></l><r>procesador<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>coprocessorium<s n="n"/><s n="nt"/></l><r>coprocesador<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>fungus<s n="n"/><s n="m"/></l><r>hungo<s n="n"/><s n="m"/></r></p></e>
 
     <e><p><l>liber<s n="adj"/></l><r>libre<s n="adj"/><s n="mf"/></r></p></e>
     <e><p><l>humanus<s n="adj"/></l><r>humano<s n="adj"/></r></p></e>
+    <e><p><l>electronicus<s n="adj"/></l><r>electrónico<s n="adj"/></r></p></e>
+    <e><p><l>oeconomicus<s n="adj"/></l><r>económico<s n="adj"/></r></p></e>
+    <e><p><l>gregorianus<s n="adj"/></l><r>gregoriano<s n="adj"/></r></p></e>
+    <e><p><l>Britannicus<s n="adj"/></l><r>británico<s n="adj"/></r></p></e>
+    <e><p><l>archaeologicus<s n="adj"/></l><r>arqueológico<s n="adj"/></r></p></e>
     <e><p><l>iuvenis<s n="adj"/></l><r>joven<s n="adj"/></r></p></e>
     <e><p><l>senex<s n="adj"/></l><r>viejo<s n="adj"/></r></p></e>
     <e><p><l>vetus<s n="adj"/></l><r>viejo<s n="adj"/></r></p></e>
