@@ -490,6 +490,8 @@
     <e><p><l>amor<s n="n"/></l><r>amor<s n="n"/></r></p></e>
     <e><p><l>abbatia<s n="n"/></l><r>abadía<s n="n"/></r></p></e>
     <e><p><l>absentia<s n="n"/></l><r>ausencia<s n="n"/></r></p></e>
+    <e><p><l>equus<s n="n"/></l><r>caballo<s n="n"/></r></p></e>
+    <e><p><l>epistula<s n="n"/></l><r>carta<s n="n"/></r></p></e>
     <e><i>agricultura<s n="n"/></i></e>
     <e><i>ala<s n="n"/></i></e>
     <e><i>barba<s n="n"/></i></e>
@@ -506,6 +508,12 @@
     <e><p><l>aristocratia<s n="n"/></l><r>aristocracia<s n="n"/></r></p></e>
     <e><p><l>Romanus<s n="n"/><s n="m"/></l><r>romano<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>domus<s n="n"/><s n="f"/></l><r>casa<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>vestigium<s n="n"/><s n="nt"/></l><r>vestigio<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>vesica<s n="n"/><s n="f"/></l><r>vesícula<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>via<s n="n"/><s n="f"/></l><r>vía<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>villa<s n="n"/><s n="f"/></l><r>villa<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>victoria<s n="n"/><s n="f"/></l><r>victoria<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>testamentum<s n="n"/><s n="nt"/></l><r>testamento<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>filius<s n="n"/><s n="m"/></l><r>hijo<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>filia<s n="n"/><s n="f"/></l><r>hijo<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>fides<s n="n"/><s n="f"/></l><r>fe<s n="n"/><s n="f"/></r></p></e>
