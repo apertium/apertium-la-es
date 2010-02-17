@@ -9613,6 +9613,7 @@
   <section id="main" type="standard">
     <!-- Prepositions -->
     <e lm="ab"><i>ab</i><par n="ab__pr"/></e>
+    <e lm="absque"><i>absque</i><par n="ab__pr"/></e>
     <e lm="ad"><i>ad</i><par n="ab__pr"/></e>
     <e lm="prae"><i>prae</i><par n="ab__pr"/></e>
     <e lm="praeter"><i>praeter</i><par n="ab__pr"/></e>
