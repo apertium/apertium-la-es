@@ -145,6 +145,7 @@
     <e><p><l>longe<s n="adv"/></l><r>lejos<s n="adv"/></r></p></e>
     <e><p><l>mathematice<s n="adv"/></l><r>matemáticamente<s n="adv"/></r></p></e>
     <e><p><l>abhinc<s n="adv"/></l><r>atrás<s n="adv"/></r></p></e>
+    <e><p><l>usque<s n="adv"/></l><r>sin<b/>interrupción<s n="adv"/></r></p></e>
 
     <e><p><l>tunc<s n="cnjadv"/></l><r>entonces<s n="cnjadv"/></r></p></e>
 
@@ -452,6 +453,11 @@
     <e><p><l>abortivus<s n="n"/></l><r>aborto<s n="n"/></r></p></e>
     <e><p><l>abyssus<s n="n"/></l><r>abismo<s n="n"/></r></p></e>
     <e><p><l>acta<s n="n"/></l><r>acta<s n="n"/></r></p></e>
+    <e><p><l>adversarius<s n="n"/></l><r>adversario<s n="n"/></r></p></e>
+    <e><p><l>acervus<s n="n"/></l><r>montón<s n="n"/></r></p></e>
+    <e><p><l>res<s n="n"/></l><r>cosa<s n="n"/></r></p></e>
+    <e><p><l>vigilia<s n="n"/></l><r>vigilia<s n="n"/></r></p></e>
+    <e><p><l>uterus<s n="n"/></l><r>útero<s n="n"/></r></p></e>
     <e><p><l>amor<s n="n"/></l><r>amor<s n="n"/></r></p></e>
     <e><p><l>abbatia<s n="n"/></l><r>abadía<s n="n"/></r></p></e>
     <e><p><l>absentia<s n="n"/></l><r>ausencia<s n="n"/></r></p></e>
@@ -465,6 +471,7 @@
     <e c="Paternal"><p><l>amitina<s n="n"/></l><r>primo<s n="n"/></r></p></e>
     <e><p><l>aquila<s n="n"/></l><r>águila<s n="n"/></r></p></e>
     <e><p><l>ara<s n="n"/><s n="f"/></l><r>altar<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>vallum<s n="n"/><s n="nt"/></l><r>empalizada<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>area<s n="n"/></l><r>área<s n="n"/></r></p></e>
     <e r="LR"><p><l>arula<s n="n"/><s n="f"/></l><r>altar<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>aristocratia<s n="n"/></l><r>aristocracia<s n="n"/></r></p></e>
