@@ -109,7 +109,10 @@
     <e><p><l>de<s n="pr"/></l><r>de<s n="pr"/></r></p></e>
 
     <e><p><l>et<s n="cnjcoo"/></l><r>y<s n="cnjcoo"/></r></p></e>
+    <e><p><l>atque<s n="cnjcoo"/></l><r>y<s n="cnjcoo"/></r></p></e>
     <e><p><l>sed<s n="cnjcoo"/></l><r>pero<s n="cnjcoo"/></r></p></e>
+    <e><p><l>atqui<s n="cnjcoo"/></l><r>pero<s n="cnjcoo"/></r></p></e>
+    <e><p><l>atquin<s n="cnjcoo"/></l><r>pero<s n="cnjcoo"/></r></p></e>
     <e><p><l>ut<s n="cnjcoo"/></l><r>como<s n="cnjcoo"/></r></p></e>
 
     <e><p><l>ego<s n="prn"/><s n="tn"/><s n="p1"/><s n="mf"/><s n="sg"/><s n="nom"/></l><r>yo<s n="prn"/><s n="tn"/><s n="p1"/><s n="mf"/><s n="sg"/></r></p></e>
@@ -171,6 +174,8 @@
     <e><p><l>mathematice<s n="adv"/></l><r>matemáticamente<s n="adv"/></r></p></e>
     <e><p><l>abhinc<s n="adv"/></l><r>atrás<s n="adv"/></r></p></e>
     <e><p><l>usque<s n="adv"/></l><r>sin<b/>interrupción<s n="adv"/></r></p></e>
+    <e><p><l>atqui<s n="adv"/></l><r>aun<b/>así<s n="adv"/></r></p></e>
+    <e><p><l>atquin<s n="adv"/></l><r>aun<b/>así<s n="adv"/></r></p></e>
 
     <e><p><l>tunc<s n="cnjadv"/></l><r>entonces<s n="cnjadv"/></r></p></e>
 
@@ -507,6 +512,7 @@
     <e r="LR"><p><l>arula<s n="n"/><s n="f"/></l><r>altar<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>aristocratia<s n="n"/></l><r>aristocracia<s n="n"/></r></p></e>
     <e><p><l>Romanus<s n="n"/><s n="m"/></l><r>romano<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>animus<s n="n"/><s n="m"/></l><r>ánimo<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>domus<s n="n"/><s n="f"/></l><r>casa<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>vestigium<s n="n"/><s n="nt"/></l><r>vestigio<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>vesica<s n="n"/><s n="f"/></l><r>vesícula<s n="n"/><s n="f"/></r></p></e>
