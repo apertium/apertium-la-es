@@ -10238,6 +10238,7 @@
     
     <!-- Declension 1 f a, ae -->
     <e lm="aqua"><i>aqu</i><par n="aqu/a__n"/></e> <!-- water -->
+    <e lm="artilleria"><i>artilleri</i><par n="aqu/a__n"/></e>
     <e lm="planeta"><i>planet</i><par n="aqu/a__n"/></e>
     <e lm="mathematica"><i>mathematic</i><par n="aqu/a__n"/></e>
     <e lm="abbatia"><i>abbati</i><par n="aqu/a__n"/></e> <!-- abbey -->

@@ -176,6 +176,8 @@
     <e><p><l>usque<s n="adv"/></l><r>sin<b/>interrupción<s n="adv"/></r></p></e>
     <e><p><l>atqui<s n="adv"/></l><r>aun<b/>así<s n="adv"/></r></p></e>
     <e><p><l>atquin<s n="adv"/></l><r>aun<b/>así<s n="adv"/></r></p></e>
+    <e><p><l>ymo<s n="adv"/></l><r>de<b/>hecho<s n="adv"/></r></p></e>
+    <e><p><l>immo<s n="adv"/></l><r>de<b/>hecho<s n="adv"/></r></p></e>
 
     <e><p><l>tunc<s n="cnjadv"/></l><r>entonces<s n="cnjadv"/></r></p></e>
 
@@ -1546,6 +1548,7 @@
     <e><p><l>fungus<s n="n"/><s n="m"/></l><r>hungo<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>articulus<s n="n"/><s n="m"/></l><r>artículo<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>planeta<s n="n"/><s n="f"/></l><r>planeta<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>artilleria<s n="n"/><s n="f"/></l><r>artillería<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>mathematica<s n="n"/><s n="f"/></l><r>matemática<s n="n"/><s n="f"/></r></p></e>
 
     <e><p><l>liber<s n="adj"/></l><r>libre<s n="adj"/><s n="mf"/></r></p></e>
