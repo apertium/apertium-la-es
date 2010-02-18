@@ -494,6 +494,9 @@
     <e><p><l>suaviloquentia<s n="n"/></l><r>suavilocuencia<s n="n"/></r></p></e>
     <e><p><l>abavus<s n="n"/></l><r>tatarabuelo<s n="n"/></r></p></e>
     <e><p><l>abortivus<s n="n"/></l><r>aborto<s n="n"/></r></p></e>
+    <e><p><l>adolescentia<s n="n"/></l><r>adolescencia<s n="n"/></r></p></e>
+    <e><p><l>adulescentia<s n="n"/></l><r>adolescencia<s n="n"/></r></p></e>
+    <e><p><l>aenigma<s n="n"/></l><r>enigma<s n="n"/></r></p></e>
     <e><p><l>diabolus<s n="n"/></l><r>diablo<s n="n"/></r></p></e>
     <e><p><l>digitus<s n="n"/></l><r>dedo<s n="n"/></r></p></e>
     <e><p><l>discipulus<s n="n"/></l><r>discípulo<s n="n"/></r></p></e>
@@ -522,7 +525,10 @@
     <e><p><l>ara<s n="n"/><s n="f"/></l><r>altar<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>vallum<s n="n"/><s n="nt"/></l><r>empalizada<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>tormentum<s n="n"/><s n="nt"/></l><r>tormento<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>aedificium<s n="n"/><s n="nt"/></l><r>edificio<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>area<s n="n"/></l><r>área<s n="n"/></r></p></e>
+    <e><p><l>ambrosia<s n="n"/></l><r>ambrosía<s n="n"/></r></p></e>
+    <e><p><l>amphora<s n="n"/></l><r>ánfora<s n="n"/></r></p></e>
     <e r="LR"><p><l>arula<s n="n"/><s n="f"/></l><r>altar<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>aristocratia<s n="n"/></l><r>aristocracia<s n="n"/></r></p></e>
     <e><p><l>Romanus<s n="n"/><s n="m"/></l><r>romano<s n="n"/><s n="m"/></r></p></e>

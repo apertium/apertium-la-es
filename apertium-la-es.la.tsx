@@ -94,6 +94,7 @@
   <def-label name="PRABLACC" closed="true">
     <tags-item lemma="sub" tags="pr"/> <!-- Can be either, same translation -->
     <tags-item lemma="subter" tags="pr"/> <!-- Can be either, same translation -->
+    <tags-item lemma="usque" tags="pr"/> <!-- Can be either, same translation -->
   </def-label> 
   <def-label name="PRACCGEN" closed="true">
     <tags-item lemma="tenus" tags="pr"/> <!-- Can be either, same translation -->
