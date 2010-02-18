@@ -553,8 +553,8 @@
     <e><p><l>villa<s n="n"/><s n="f"/></l><r>villa<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>victoria<s n="n"/><s n="f"/></l><r>victoria<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>testamentum<s n="n"/><s n="nt"/></l><r>testamento<s n="n"/><s n="m"/></r></p></e>
-    <e><p><l>filius<s n="n"/><s n="m"/></l><r>hijo<s n="n"/><s n="m"/></r></p></e>
-    <e><p><l>filia<s n="n"/><s n="f"/></l><r>hijo<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>filius<s n="n"/></l><r>hijo<s n="n"/></r></p></e>
+    <e><p><l>deus<s n="n"/></l><r>dios<s n="n"/></r></p></e>
     <e><p><l>fides<s n="n"/><s n="f"/></l><r>fe<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>fidelitas<s n="n"/><s n="f"/></l><r>fidelidad<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>accessibilitas<s n="n"/><s n="f"/></l><r>accesibilidad<s n="n"/><s n="f"/></r></p></e>
