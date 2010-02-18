@@ -9533,6 +9533,24 @@
       </e>
       <e>
         <p>
+          <l>avisse</l>
+          <r>are<s n="vblex"/><s n="infp"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>aturus</l>
+          <r>are<s n="vblex"/><s n="inf"/><s n="fut"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ari</l>
+          <r>are<s n="vblex"/><s n="inf"/><s n="psv"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
           <l>avissem</l>
           <r>are<s n="vblex"/><s n="pms"/><s n="p1"/><s n="sg"/></r>
         </p>
@@ -10777,6 +10795,8 @@
     <e a="afgl-lat" lm="domina"><i>domin</i><par n="aqu/a__n"/></e>
     <e a="afgl-lat" lm="duritia"><i>duriti</i><par n="aqu/a__n"/></e>
     <e a="afgl-lat" lm="ecclesia"><i>ecclesi</i><par n="aqu/a__n"/></e>
+    <e lm="aecclesia"><i>aecclesi</i><par n="aqu/a__n"/></e>
+    <e lm="aeclesia"><i>aeclesi</i><par n="aqu/a__n"/></e>
     <e a="afgl-lat" lm="eloquentia"><i>eloquenti</i><par n="aqu/a__n"/></e>
     <e a="afgl-lat" lm="enigma"><i>enigm</i><par n="aqu/a__n"/></e>
     <e a="afgl-lat" lm="epistula"><i>epistul</i><par n="aqu/a__n"/></e>
