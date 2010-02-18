@@ -9791,6 +9791,18 @@
       </e>
       <e>
         <p>
+          <l>are</l>
+          <r>are<s n="vblex"/><s n="imp"/><s n="psv"/><s n="p2"/><s n="sg"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>amini</l>
+          <r>are<s n="vblex"/><s n="imp"/><s n="psv"/><s n="p2"/><s n="pl"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
           <l>ato</l>
           <r>are<s n="vblex"/><s n="imp"/><s n="fut"/><s n="p2"/><s n="sg"/></r>
         </p>
@@ -9803,6 +9815,12 @@
       </e>
       <e>
         <p>
+          <l>or</l>
+          <r>are<s n="vblex"/><s n="imp"/><s n="fut"/><s n="psv"/><s n="p2"/><s n="sg"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
           <l>ato</l>
           <r>are<s n="vblex"/><s n="imp"/><s n="fut"/><s n="p3"/><s n="sg"/></r>
         </p>
@@ -9811,6 +9829,18 @@
         <p>
           <l>anto</l>
           <r>are<s n="vblex"/><s n="imp"/><s n="fut"/><s n="p3"/><s n="pl"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>or</l>
+          <r>are<s n="vblex"/><s n="imp"/><s n="fut"/><s n="psv"/><s n="p3"/><s n="sg"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>antor</l>
+          <r>are<s n="vblex"/><s n="imp"/><s n="fut"/><s n="psv"/><s n="p3"/><s n="pl"/></r>
         </p>
       </e>
     </pardef>
