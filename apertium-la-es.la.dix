@@ -12144,6 +12144,38 @@
     <e lm="velox"><i>velo</i><par n="atro/x__adj"/></e>
     <e lm="loquax"><i>loqua</i><par n="atro/x__adj"/></e>
 
+    <e lm="dura lex, sed lex"><i>dura<b/>lex,<b/>sed<b/>lex</i><par n="quasi__adv"/></e>
+    <e lm="ecce homo"><i>ecce<b/>homo</i><par n="quasi__adv"/></e>
+    <e lm="dies irae"><i>dies<b/>irae</i><par n="quasi__adv"/></e>
+    <e lm="Deo gratias"><i>Deo<b/>gratias</i><par n="quasi__adv"/></e>
+    <e lm="credo quia absurdum"><i>credo<b/>quia<b/>absurdum</i><par n="quasi__adv"/></e>
+    <e lm="alea iacta est"><i>alea<b/>iacta<b/>est</i><par n="quasi__adv"/></e>
+    <e lm="ab aeterno"><i>ab<b/>aeterno</i><par n="quasi__adv"/></e>
+    <e lm="ab absurdum"><i>ab<b/>absurdum</i><par n="quasi__adv"/></e>
+    <e lm="ad infinitum"><i>ad<b/>infinitum</i><par n="quasi__adv"/></e>
+    <e lm="ad interim"><i>ad<b/>interim</i><par n="quasi__adv"/></e>
+    <e lm="ad libitum"><i>ad<b/>libitum</i><par n="quasi__adv"/></e>
+    <e lm="ad litteram"><i>ad<b/>litteram</i><par n="quasi__adv"/></e>
+    <e lm="ad nauseam"><i>ad<b/>nauseam</i><par n="quasi__adv"/></e>
+    <e lm="ad nutum"><i>ad<b/>nutum</i><par n="quasi__adv"/></e>
+    <e lm="Anno Domini"><i>Anno<b/>Domini</i><par n="quasi__adv"/></e>
+    <e lm="ante meridiem"><i>ante<b/>meridiem</i><par n="quasi__adv"/></e>
+    <e lm="ante tempus"><i>ante<b/>tempus</i><par n="quasi__adv"/></e>
+    <e lm="aperto libro"><i>aperto<b/>libro</i><par n="quasi__adv"/></e>
+    <e lm="aurea mediocritas"><i>aurea<b/>mediocritas</i><par n="quasi__adv"/></e>
+    <e lm="coram populo"><i>coram<b/>populo</i><par n="quasi__adv"/></e>
+    <e lm="coram Deo"><i>coram<b/>Deo</i><par n="quasi__adv"/></e>
+    <e lm="et alia"><i>et<b/>alia</i><par n="quasi__adv"/></e>
+    <e lm="et alii"><i>et<b/>alii</i><par n="quasi__adv"/></e>
+    <e lm="ex aequo"><i>ex<b/>aequo</i><par n="quasi__adv"/></e>
+    <e lm="ex novo"><i>ex<b/>novo</i><par n="quasi__adv"/></e>
+    <e lm="exempli gratia"><i>exempli<b/>gratia</i><par n="quasi__adv"/></e>
+    <e lm="in albis"><i>in<b/>albis</i><par n="quasi__adv"/></e>
+    <e lm="in aeternum"><i>in<b/>aeternum</i><par n="quasi__adv"/></e>
+    <e lm="in fine"><i>in<b/>fine</i><par n="quasi__adv"/></e>
+    <e lm="Iesus Nazarenus Rex Iudaeorum"><i>Iesus<b/>Nazarenus<b/>Rex<b/>Iudaeorum</i><par n="quasi__adv"/></e>
+    <e lm="Senatus Populus Que Romanus"><i>Senatus<b/>Populus<b/>Que<b/>Romanus</i><par n="quasi__adv"/></e>
+    <e lm="requiescat in pace"><i>requiescat<b/>in<b/>pace</i><par n="quasi__adv"/></e>
   </section>
   <section id="punt" type="inconditional">
     <e><par n="numeros"/></e>

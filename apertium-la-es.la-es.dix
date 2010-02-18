@@ -1863,6 +1863,40 @@
     <e><p><l>Galilaeus<s n="np"/><s n="ant"/></l><r>Galileo<s n="np"/><s n="ant"/></r></p></e>
     <e><p><l>Galilaeus<g><b/>Galilaei</g><s n="np"/><s n="ant"/></l><r>Galileo<b/>Galilei<s n="np"/><s n="ant"/></r></p></e>
     <e><p><l>Albertus<g><b/>Einstein</g><s n="np"/><s n="ant"/></l><r>Albert<b/>Einstein<s n="np"/><s n="ant"/></r></p></e>
+
+    <e><p><l>dura<b/>lex,<b/>sed<b/>lex<s n="adv"/></l><r>la<b/>ley<b/>es<b/>dura,<b/>pero<b/>es<b/>la<b/>ley<s n="adv"/></r></p></e>
+    <e><p><l>ecce<b/>homo<s n="adv"/></l><r>he<b/>aquí<b/>el<b/>hombre<s n="adv"/></r></p></e>
+    <e><p><l>dies<b/>irae<s n="adv"/></l><r>día<b/>de<b/>la<b/>ira<s n="adv"/></r></p></e>
+    <e><p><l>Deo<b/>gratias<s n="adv"/></l><r>gracias<b/>a<b/>Dios<s n="adv"/></r></p></e>
+    <e><p><l>credo<b/>quia<b/>absurdum<s n="adv"/></l><r>creo<b/>porque<b/>es<b/>absurdo<s n="adv"/></r></p></e>
+    <e><p><l>alea<b/>iacta<b/>est<s n="adv"/></l><r>la<b/>suerte<b/>está<b/>echada<s n="adv"/></r></p></e>
+    <e><p><l>ab<b/>aeterno<s n="adv"/></l><r>desde<b/>siempre<s n="adv"/></r></p></e>
+    <e><p><l>ab<b/>absurdum<s n="adv"/></l><r>desde<b/>lo<b/>absurdo<s n="adv"/></r></p></e>
+    <e><p><l>ad<b/>infinitum<s n="adv"/></l><r>hasta<b/>el<b/>infinito<s n="adv"/></r></p></e>
+    <e><p><l>ad<b/>interim<s n="adv"/></l><r>interinamente<s n="adv"/></r></p></e>
+    <e><p><l>ad<b/>libitum<s n="adv"/></l><r>por<b/>el<b/>deseo<s n="adv"/></r></p></e>
+    <e><p><l>ad<b/>litteram<s n="adv"/></l><r>a<b/>la<b/>letra<s n="adv"/></r></p></e>
+    <e><p><l>ad<b/>nauseam<s n="adv"/></l><r>hasta<b/>el<b/>hastío<s n="adv"/></r></p></e>
+    <e><p><l>ad<b/>nutum<s n="adv"/></l><r>a<b/>voluntad<s n="adv"/></r></p></e>
+    <e><p><l>Anno<b/>Domini<s n="adv"/></l><r>en<b/>el<b/>año<b/>del<b/>Señor<s n="adv"/></r></p></e>
+    <e><p><l>ante<b/>meridiem<s n="adv"/></l><r>antes<b/>del<b/>mediodía<s n="adv"/></r></p></e>
+    <e><p><l>ante<b/>tempus<s n="adv"/></l><r>antes<b/>de<b/>tiempo<s n="adv"/></r></p></e>
+    <e><p><l>aperto<b/>libro<s n="adv"/></l><r>a<b/>libro<b/>abierto<s n="adv"/></r></p></e>
+    <e><p><l>aurea<b/>mediocritas<s n="adv"/></l><r>dorada<b/>mediocridad<s n="adv"/></r></p></e>
+    <e><p><l>coram<b/>populo<s n="adv"/></l><r>públicamente<s n="adv"/></r></p></e>
+    <e><p><l>coram<b/>Deo<s n="adv"/></l><r>en<b/>privado<s n="adv"/></r></p></e>
+    <e><p><l>et<b/>alia<s n="adv"/></l><r>y<b/>otros<s n="adv"/></r></p></e>
+    <e><p><l>et<b/>alii<s n="adv"/></l><r>y<b/>otros<s n="adv"/></r></p></e>
+    <e><p><l>ex<b/>aequo<s n="adv"/></l><r>en<b/>igualdad<s n="adv"/></r></p></e>
+    <e><p><l>ex<b/>novo<s n="adv"/></l><r>de<b/>nuevo<s n="adv"/></r></p></e>
+    <e><p><l>exempli<b/>gratia<s n="adv"/></l><r>por<b/>ejemplo<s n="adv"/></r></p></e>
+    <e><p><l>in<b/>albis<s n="adv"/></l><r>en<b/>blanco<s n="adv"/></r></p></e>
+    <e><p><l>in<b/>aeternum<s n="adv"/></l><r>para<b/>siempre<s n="adv"/></r></p></e>
+    <e><p><l>in<b/>fine<s n="adv"/></l><r>al<b/>final<s n="adv"/></r></p></e>
+    <e><p><l>Iesus<b/>Nazarenus<b/>Rex<b/>Iudaeorum<s n="adv"/></l><r>Jesús<b/>nazareno,<b/>rey<b/>de<b/>los<b/>judíos<s n="adv"/></r></p></e>
+    <e><p><l>Senatus<b/>Populus<b/>Que<b/>Romanus<s n="adv"/></l><r>el<b/>Senado<b/>y<b/>el<b/>pueblo<b/>de<b/>Roma<s n="adv"/></r></p></e>
+    <e><p><l>requiescat<b/>in<b/>pace<s n="adv"/></l><r>que<b/>descanse<b/>en<b/>paz<s n="adv"/></r></p></e>
+
     <e><i>.<s n="sent"/></i></e>
     <e><i>?<s n="sent"/></i></e>
     <e><i>:<s n="sent"/></i></e>
