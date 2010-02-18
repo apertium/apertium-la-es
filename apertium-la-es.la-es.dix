@@ -181,6 +181,8 @@
     <e><p><l>immo<s n="adv"/></l><r>de<b/>hecho<s n="adv"/></r></p></e>
     <e><p><l>usquequaque<s n="adv"/></l><r>completamente<s n="adv"/></r></p></e>
     <e><p><l>audaciter<s n="adv"/></l><r>audazmente<s n="adv"/></r></p></e>
+    <e><p><l>certo<s n="adv"/></l><r>ciertamente<s n="adv"/></r></p></e>
+    <e><p><l>cito<s n="adv"/></l><r>rápidamente<s n="adv"/></r></p></e>
 
     <e><p><l>tunc<s n="cnjadv"/></l><r>entonces<s n="cnjadv"/></r></p></e>
 
@@ -489,6 +491,8 @@
     <e><p><l>arca<s n="n"/></l><r>arca<s n="n"/></r></p></e>
     <e><p><l>arista<s n="n"/></l><r>arista<s n="n"/></r></p></e>
     <e><p><l>aroma<s n="n"/></l><r>aroma<s n="n"/></r></p></e>
+    <e><p><l>benevolentia<s n="n"/></l><r>benevolencia<s n="n"/></r></p></e>
+    <e><p><l>benivolentia<s n="n"/></l><r>benevolencia<s n="n"/></r></p></e>
     <e><p><l>statua<s n="n"/></l><r>estatua<s n="n"/></r></p></e>
     <e><p><l>taberna<s n="n"/></l><r>taberna<s n="n"/></r></p></e>
     <e><p><l>substantia<s n="n"/></l><r>substancia<s n="n"/></r></p></e>
@@ -497,6 +501,9 @@
     <e><p><l>abortivus<s n="n"/></l><r>aborto<s n="n"/></r></p></e>
     <e><p><l>adolescentia<s n="n"/></l><r>adolescencia<s n="n"/></r></p></e>
     <e><p><l>adulescentia<s n="n"/></l><r>adolescencia<s n="n"/></r></p></e>
+    <e><p><l>capella<s n="n"/></l><r>capilla<s n="n"/></r></p></e>
+    <e><p><l>campana<s n="n"/></l><r>campana<s n="n"/></r></p></e>
+    <e><p><l>Christianus<s n="n"/></l><r>cristiano<s n="n"/></r></p></e>
     <e><p><l>aenigma<s n="n"/></l><r>enigma<s n="n"/></r></p></e>
     <e><p><l>diabolus<s n="n"/></l><r>diablo<s n="n"/></r></p></e>
     <e><p><l>digitus<s n="n"/></l><r>dedo<s n="n"/></r></p></e>
@@ -527,6 +534,7 @@
     <e><p><l>vallum<s n="n"/><s n="nt"/></l><r>empalizada<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>tormentum<s n="n"/><s n="nt"/></l><r>tormento<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>aedificium<s n="n"/><s n="nt"/></l><r>edificio<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>castellum<s n="n"/><s n="nt"/></l><r>castillo<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>area<s n="n"/></l><r>área<s n="n"/></r></p></e>
     <e><p><l>ambrosia<s n="n"/></l><r>ambrosía<s n="n"/></r></p></e>
     <e><p><l>amphora<s n="n"/></l><r>ánfora<s n="n"/></r></p></e>

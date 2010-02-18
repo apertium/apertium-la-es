@@ -173,6 +173,26 @@
         </p>
       </e>
     </pardef>
+    <pardef n="cert/o__adv">
+      <e>
+        <p>
+          <l>o</l>
+          <r>o<s n="adv"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ius</l>
+          <r>o<s n="adv"/><s n="comp"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>issime</l>
+          <r>o<s n="adv"/><s n="sup"/></r>
+        </p>
+      </e>
+    </pardef>
     <pardef n="tunc__cnjadv">
       <e>
         <p>
@@ -10075,6 +10095,8 @@
     <e lm="longe"><i>long</i><par n="long/e__adv"/></e>
     <e lm="adsidue"><i>adsidu</i><par n="long/e__adv"/></e>
     <e lm="audaciter"><i>audac</i><par n="audac/iter__adv"/></e>
+    <e lm="certo"><i>cert</i><par n="cert/o__adv"/></e>
+    <e lm="cito"><i>cit</i><par n="cert/o__adv"/></e>
     <e lm="audacter"><p><l>audacter</l><r>audaciter</r></p><par n="quasi__adv"/></e>
     <e a="agfl-lat" lm="abhinc"><i>abhinc</i><par n="quasi__adv"/></e>
     <e a="agfl-lat" lm="adfatim"><i>adfatim</i><par n="quasi__adv"/></e>
@@ -10106,7 +10128,6 @@
     <e a="agfl-lat" lm="catervatim"><i>catervatim</i><par n="quasi__adv"/></e>
     <e a="agfl-lat" lm="celeriter"><i>celeriter</i><par n="quasi__adv"/></e>
     <e a="agfl-lat" lm="certatim"><i>certatim</i><par n="quasi__adv"/></e>
-    <e a="agfl-lat" lm="cito"><i>cito</i><par n="quasi__adv"/></e>
     <e a="agfl-lat" lm="clementer"><i>clementer</i><par n="quasi__adv"/></e>
     <e a="agfl-lat" lm="confestim"><i>confestim</i><par n="quasi__adv"/></e>
     <e a="agfl-lat" lm="cotidie"><i>cotidie</i><par n="quasi__adv"/></e>
@@ -10200,7 +10221,6 @@
     <e a="agfl-lat" lm="tot"><i>tot</i><par n="quasi__adv"/></e>
     <e a="agfl-lat" lm="numquid"><i>numquid</i><par n="quasi__adv"/></e>
     <e a="agfl-lat" lm="merito"><i>merito</i><par n="quasi__adv"/></e>
-    <e a="agfl-lat" lm="certo"><i>certo</i><par n="quasi__adv"/></e>
     <e a="agfl-lat" lm="postremo"><i>postremo</i><par n="quasi__adv"/></e>
     <e a="agfl-lat" lm="falso"><i>falso</i><par n="quasi__adv"/></e>
     <e a="agfl-lat" lm="sero"><i>sero</i><par n="quasi__adv"/></e>
