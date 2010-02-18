@@ -153,6 +153,26 @@
         </p>
       </e>
     </pardef>
+    <pardef n="audac/iter__adv">
+      <e>
+        <p>
+          <l>iter</l>
+          <r>iter<s n="adv"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ius</l>
+          <r>iter<s n="adv"/><s n="comp"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>issime</l>
+          <r>iter<s n="adv"/><s n="sup"/></r>
+        </p>
+      </e>
+    </pardef>
     <pardef n="tunc__cnjadv">
       <e>
         <p>
@@ -10054,6 +10074,8 @@
     <e lm="istuc"><i>istuc</i><par n="quasi__adv"/></e>
     <e lm="longe"><i>long</i><par n="long/e__adv"/></e>
     <e lm="adsidue"><i>adsidu</i><par n="long/e__adv"/></e>
+    <e lm="audaciter"><i>audac</i><par n="audac/iter__adv"/></e>
+    <e lm="audacter"><p><l>audacter</l><r>audaciter</r></p><par n="quasi__adv"/></e>
     <e a="agfl-lat" lm="abhinc"><i>abhinc</i><par n="quasi__adv"/></e>
     <e a="agfl-lat" lm="adfatim"><i>adfatim</i><par n="quasi__adv"/></e>
     <e a="agfl-lat" lm="adhuc"><i>adhuc</i><par n="quasi__adv"/></e>
@@ -10077,8 +10099,6 @@
     <e a="agfl-lat" lm="assidue"><i>assidue</i><par n="quasi__adv"/></e>
     <e a="agfl-lat" lm="atqui"><i>atqui</i><par n="quasi__adv"/></e>
     <e lm="atquin"><i>atquin</i><par n="quasi__adv"/></e>
-    <e a="agfl-lat" lm="audaciter"><i>audaciter</i><par n="quasi__adv"/></e>
-    <e a="agfl-lat" lm="audacter"><i>audacter</i><par n="quasi__adv"/></e>
     <e a="agfl-lat" lm="autem"><i>autem</i><par n="quasi__adv"/></e>
     <e a="agfl-lat" lm="bene"><i>bene</i><par n="quasi__adv"/></e>
     <e a="agfl-lat" lm="bis"><i>bis</i><par n="quasi__adv"/></e>

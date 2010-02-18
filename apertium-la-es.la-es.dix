@@ -180,6 +180,7 @@
     <e><p><l>ymo<s n="adv"/></l><r>de<b/>hecho<s n="adv"/></r></p></e>
     <e><p><l>immo<s n="adv"/></l><r>de<b/>hecho<s n="adv"/></r></p></e>
     <e><p><l>usquequaque<s n="adv"/></l><r>completamente<s n="adv"/></r></p></e>
+    <e><p><l>audaciter<s n="adv"/></l><r>audazmente<s n="adv"/></r></p></e>
 
     <e><p><l>tunc<s n="cnjadv"/></l><r>entonces<s n="cnjadv"/></r></p></e>
 
@@ -530,6 +531,9 @@
     <e><p><l>ambrosia<s n="n"/></l><r>ambrosía<s n="n"/></r></p></e>
     <e><p><l>amphora<s n="n"/></l><r>ánfora<s n="n"/></r></p></e>
     <e><p><l>amiculus<s n="n"/></l><r>amigito<s n="n"/></r></p></e>
+    <e><p><l>appetitus<s n="n"/></l><r>apetito<s n="n"/></r></p></e>
+    <e><p><l>vita<s n="n"/></l><r>vida<s n="n"/></r></p></e>
+    <e><p><l>audacia<s n="n"/></l><r>audacia<s n="n"/></r></p></e>
     <e r="LR"><p><l>arula<s n="n"/><s n="f"/></l><r>altar<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>aristocratia<s n="n"/></l><r>aristocracia<s n="n"/></r></p></e>
     <e><p><l>Romanus<s n="n"/><s n="m"/></l><r>romano<s n="n"/><s n="m"/></r></p></e>
