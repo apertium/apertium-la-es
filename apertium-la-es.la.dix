@@ -3410,6 +3410,29 @@
         <par n="BASE__amatus"/>
       </e>
     </pardef>
+    <pardef n="ma/gnus__adj">
+      <e>
+        <p>
+          <l>gn</l>
+          <r>gnus<s n="adj"/></r>
+        </p>
+        <par n="BASE__amatus"/>
+      </e>
+      <e>
+        <p>
+          <l>j</l>
+          <r>gnus<s n="adj"/><s n="comp"/></r>
+        </p>
+        <par n="BASE__senior"/>
+      </e>
+      <e>
+        <p>
+          <l>xim</l>
+          <r>gnus<s n="adj"/><s n="sup"/></r>
+        </p>
+        <par n="BASE__amatus"/>
+      </e>
+    </pardef>
 
     <pardef n="prim/us__det">
       <e>
@@ -11452,6 +11475,7 @@
     <e a="agfl-lat" lm="colonus"><i>colon</i><par n="mur/us__n"/></e>
     <e a="agfl-lat" lm="daemonus"><i>daemon</i><par n="mur/us__n"/></e>
     <e lm="deus"><i>de</i><par n="fili/us__n"/></e>
+    <e lm="catechismus"><i>catechism</i><par n="mur/us__n"/></e>
     <e a="agfl-lat" lm="diabolus"><i>diabol</i><par n="mur/us__n"/></e>
     <e a="agfl-lat" lm="digitus"><i>digit</i><par n="mur/us__n"/></e>
     <e a="agfl-lat" lm="discipulus"><i>discipul</i><par n="mur/us__n"/></e>
@@ -12410,6 +12434,7 @@
     <e lm="voracitas"><i>voracita</i><par n="fidelita/s__n"/></e>
 
     <e lm="liber"><i>liber</i><par n="liber__adj"/></e>
+    <e lm="magnus"><i>ma</i><par n="ma/gnus__adj"/></e>
     <e lm="humanus"><i>human</i><par n="human/us__adj"/></e>
     <e lm="medius"><i>medi</i><par n="human/us__adj"/></e>
     <e lm="mathematicus"><i>mathematic</i><par n="human/us__adj"/></e>

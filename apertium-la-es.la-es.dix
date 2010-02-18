@@ -7,7 +7,10 @@
      <sdef n="np"/>
      <sdef n="adv"/>
      <sdef n="cnjadv"/>
+
      <sdef n="adj"/>
+     <sdef n="comp"/>
+     <sdef n="sup"/>
 
      <sdef n="det"/>
      <sdef n="dem"/>
@@ -506,6 +509,7 @@
     <e><p><l>Christianus<s n="n"/></l><r>cristiano<s n="n"/></r></p></e>
     <e><p><l>aenigma<s n="n"/></l><r>enigma<s n="n"/></r></p></e>
     <e><p><l>diabolus<s n="n"/></l><r>diablo<s n="n"/></r></p></e>
+    <e><p><l>catechismus<s n="n"/></l><r>catecismo<s n="n"/></r></p></e>
     <e><p><l>digitus<s n="n"/></l><r>dedo<s n="n"/></r></p></e>
     <e><p><l>discipulus<s n="n"/></l><r>discípulo<s n="n"/></r></p></e>
     <e><p><l>discordia<s n="n"/></l><r>discordia<s n="n"/></r></p></e>
@@ -1581,6 +1585,10 @@
     <e><p><l>planeta<s n="n"/><s n="f"/></l><r>planeta<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>artilleria<s n="n"/><s n="f"/></l><r>artillería<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>mathematica<s n="n"/><s n="f"/></l><r>matemática<s n="n"/><s n="f"/></r></p></e>
+
+    <e><p><l>magnus<s n="adj"/></l><r>grande<s n="adj"/><s n="mf"/></r></p></e>
+    <e><p><l>magnus<s n="adj"/><s n="comp"/></l><r>mayor<s n="adj"/><s n="mf"/></r></p></e>
+    <e><p><l>magnus<s n="adj"/><s n="sup"/></l><r>grande<s n="adj"/><s n="sup"/></r></p></e>
 
     <e><p><l>liber<s n="adj"/></l><r>libre<s n="adj"/><s n="mf"/></r></p></e>
     <e><p><l>humanus<s n="adj"/></l><r>humano<s n="adj"/></r></p></e>

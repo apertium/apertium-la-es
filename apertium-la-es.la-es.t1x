@@ -3,6 +3,7 @@
   <section-def-cats>
     <def-cat n="nom">
       <cat-item tags="n.*"/>
+      <cat-item tags="np.ant.*"/>
     </def-cat>
     <def-cat n="nomp">
       <cat-item tags="np.ant"/>
