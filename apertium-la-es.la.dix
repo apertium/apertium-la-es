@@ -9662,6 +9662,7 @@
     <e a="agfl-lat" lm="supra"><i>supra</i><par n="ab__pr"/></e>
     <e a="agfl-lat" lm="trans"><i>trans</i><par n="ab__pr"/></e>
     <e a="agfl-lat" lm="ultra"><i>ultra</i><par n="ab__pr"/></e>
+    <e lm="usque"><i>usque</i><par n="ab__pr"/></e>
 
     <e lm="et"><i>et</i><par n="et__cnjcoo"/></e>
     <e a="agfl-lat" lm="ac"><i>ac</i><par n="et__cnjcoo"/></e>
@@ -10198,7 +10199,6 @@
     <e a="agfl-lat" lm="unciatim"><i>unciatim</i><par n="quasi__adv"/></e>
     <e a="agfl-lat" lm="undique"><i>undique</i><par n="quasi__adv"/></e>
     <e a="agfl-lat" lm="universe"><i>universe</i><par n="quasi__adv"/></e>
-    <e a="agfl-lat" lm="usque"><i>usque</i><par n="quasi__adv"/></e>
     <e a="agfl-lat" lm="usquequaque"><i>usquequaque</i><par n="quasi__adv"/></e>
     <e a="agfl-lat" lm="utcumque"><i>utcumque</i><par n="quasi__adv"/></e>
     <e a="agfl-lat" lm="utique"><i>utique</i><par n="quasi__adv"/></e>
