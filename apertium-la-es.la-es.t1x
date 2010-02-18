@@ -522,6 +522,129 @@
         </out>
       </action>
     </rule>
+    <rule>
+      <pattern>
+        <pattern-item n="nom"/>
+        <pattern-item n="nom"/>
+      </pattern>
+      <action>
+        <call-macro n="firstWord">
+          <with-param pos="1"/>
+        </call-macro>
+        <call-macro n="locative">
+          <with-param pos="1"/>
+        </call-macro>
+        <choose>
+          <when>
+            <test>
+              <and>
+                <equal>
+                  <clip pos="1" side="sl" part="cas"/>
+                  <clip pos="2" side="sl" part="cas"/>
+                </equal>
+                <equal>
+                  <clip pos="1" side="sl" part="nbr"/>
+                  <clip pos="2" side="sl" part="nbr"/>
+                </equal>
+              </and>
+            </test>
+            <out>
+              <chunk name="nom_nom">
+                <tags>
+                  <tag><lit-tag v="SN"/></tag>
+                  <tag><clip pos="2" side="tl" part="gen"/></tag>
+                  <tag><clip pos="2" side="tl" part="nbr"/></tag>
+                  <tag><clip pos="2" side="tl" part="cas"/></tag>
+                </tags>
+                <lu>
+                  <clip pos="1" side="tl" part="lem"/>
+                  <clip pos="1" side="tl" part="a_nom"/>
+                  <clip pos="1" side="tl" part="gen"/>
+                  <clip pos="1" side="tl" part="nbr"/>
+                </lu>
+                <b pos="1"/>
+                <lu>
+                  <clip pos="2" side="tl" part="lem"/>
+                  <clip pos="2" side="tl" part="a_nom"/>
+                  <clip pos="2" side="tl" part="gen" link-to="2"/>
+                  <clip pos="2" side="tl" part="nbr" link-to="3"/>
+                </lu>
+              </chunk>
+            </out>
+          </when>
+
+          <when>
+            <test>
+              <equal>
+                <clip pos="2" side="sl" part="cas"/>
+                <lit-tag v="gen"/>
+              </equal>
+            </test>
+            <out>
+              <chunk name="nom_de_nom">
+                <tags>
+                  <tag><lit-tag v="SN"/></tag>
+                  <tag><clip pos="1" side="tl" part="gen"/></tag>
+                  <tag><clip pos="1" side="tl" part="nbr"/></tag>
+                  <tag><clip pos="1" side="tl" part="cas"/></tag>
+                </tags>
+                <lu>
+                  <clip pos="1" side="tl" part="lem"/>
+                  <clip pos="1" side="tl" part="a_nom"/>
+                  <clip pos="1" side="tl" part="gen"/>
+                  <clip pos="1" side="tl" part="nbr"/>
+                </lu>
+                <b pos="1"/>
+                <lu>
+                  <lit v="de"/>
+                  <lit-tag v="pr"/>
+                </lu>
+                <b/>
+                <lu>
+                  <clip pos="2" side="tl" part="lem"/>
+                  <clip pos="2" side="tl" part="a_nom"/>
+                  <clip pos="2" side="tl" part="gen"/>
+                  <clip pos="2" side="tl" part="nbr"/>
+                </lu>
+              </chunk>
+            </out>
+          </when>
+          <otherwise>
+            <out>
+              <chunk name="nom" case="caseFirstWord">
+                <tags>
+                  <tag><lit-tag v="SN"/></tag>
+                  <tag><clip pos="1" side="tl" part="gen"/></tag>
+                  <tag><clip pos="1" side="tl" part="nbr"/></tag>
+                  <tag><clip pos="1" side="tl" part="cas"/></tag>
+                </tags>
+                <lu>
+                  <clip pos="1" side="tl" part="lem"/>
+                  <clip pos="1" side="tl" part="a_nom"/>
+                  <clip pos="1" side="tl" part="gen" link-to="2"/>
+                  <clip pos="1" side="tl" part="nbr" link-to="3"/>
+                </lu>
+              </chunk>
+              <b pos="1"/>
+              <chunk name="nom" case="caseFirstWord">
+                <tags>
+                  <tag><lit-tag v="SN"/></tag>
+                  <tag><clip pos="2" side="tl" part="gen"/></tag>
+                  <tag><clip pos="2" side="tl" part="nbr"/></tag>
+                  <tag><clip pos="2" side="tl" part="cas"/></tag>
+                </tags>
+                <lu>
+                  <clip pos="2" side="tl" part="lem"/>
+                  <clip pos="2" side="tl" part="a_nom"/>
+                  <clip pos="2" side="tl" part="gen" link-to="2"/>
+                  <clip pos="2" side="tl" part="nbr" link-to="3"/>
+                </lu>
+              </chunk>
+            </out>
+          </otherwise>
+        </choose>
+      </action>
+    </rule>
 
     <rule>
       <pattern>
