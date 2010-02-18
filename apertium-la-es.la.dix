@@ -9843,6 +9843,36 @@
           <r>are<s n="vblex"/><s n="imp"/><s n="fut"/><s n="psv"/><s n="p3"/><s n="pl"/></r>
         </p>
       </e>
+      <e>
+        <p>
+          <l>andi</l>
+          <r>are<s n="vblex"/><s n="ger"/><s n="gen"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ando</l>
+          <r>are<s n="vblex"/><s n="ger"/><s n="dat"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>andum</l>
+          <r>are<s n="vblex"/><s n="ger"/><s n="acc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ando</l>
+          <r>are<s n="vblex"/><s n="ger"/><s n="abl"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ando</l>
+          <r>are<s n="vblex"/><s n="ger"/><s n="loc"/></r>
+        </p>
+      </e>
     </pardef>
     <pardef n="abu/ti__vblex">
       <e>
