@@ -12144,6 +12144,702 @@
         </p>
       </e>
     </pardef>
+    <pardef n="vi/dere__vblex">
+      <e>
+        <p>
+          <l>debo</l>
+          <r>dere<s n="vblex"/><s n="fti"/><s n="p1"/><s n="sg"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>debimus</l>
+          <r>dere<s n="vblex"/><s n="fti"/><s n="p1"/><s n="pl"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>debis</l>
+          <r>dere<s n="vblex"/><s n="fti"/><s n="p2"/><s n="sg"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>debitis</l>
+          <r>dere<s n="vblex"/><s n="fti"/><s n="p2"/><s n="pl"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>debit</l>
+          <r>dere<s n="vblex"/><s n="fti"/><s n="p3"/><s n="sg"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>debunt</l>
+          <r>dere<s n="vblex"/><s n="fti"/><s n="p3"/><s n="pl"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>debor</l>
+          <r>dere<s n="vblex"/><s n="fti"/><s n="psv"/><s n="p1"/><s n="sg"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>debimur</l>
+          <r>dere<s n="vblex"/><s n="fti"/><s n="psv"/><s n="p1"/><s n="pl"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>deberis</l>
+          <r>dere<s n="vblex"/><s n="fti"/><s n="psv"/><s n="p2"/><s n="sg"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>debimini</l>
+          <r>dere<s n="vblex"/><s n="fti"/><s n="psv"/><s n="p2"/><s n="pl"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>debitur</l>
+          <r>dere<s n="vblex"/><s n="fti"/><s n="psv"/><s n="p3"/><s n="sg"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>debuntur</l>
+          <r>dere<s n="vblex"/><s n="fti"/><s n="psv"/><s n="p3"/><s n="pl"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>dero</l>
+          <r>dere<s n="vblex"/><s n="ftp"/><s n="p1"/><s n="sg"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>derimus</l>
+          <r>dere<s n="vblex"/><s n="ftp"/><s n="p1"/><s n="pl"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>deris</l>
+          <r>dere<s n="vblex"/><s n="ftp"/><s n="p2"/><s n="sg"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>deritis</l>
+          <r>dere<s n="vblex"/><s n="ftp"/><s n="p2"/><s n="pl"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>derit</l>
+          <r>dere<s n="vblex"/><s n="ftp"/><s n="p3"/><s n="sg"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>derint</l>
+          <r>dere<s n="vblex"/><s n="ftp"/><s n="p3"/><s n="pl"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>dendo</l>
+          <r>dere<s n="vblex"/><s n="ger"/><s n="abl"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>dendi</l>
+          <r>dere<s n="vblex"/><s n="ger"/><s n="gen"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>dendo</l>
+          <r>dere<s n="vblex"/><s n="ger"/><s n="dat"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>dendum</l>
+          <r>dere<s n="vblex"/><s n="ger"/><s n="acc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>dendo</l>
+          <r>dere<s n="vblex"/><s n="ger"/><s n="loc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>deto</l>
+          <r>dere<s n="vblex"/><s n="imp"/><s n="fut"/><s n="p2"/><s n="sg"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>detote</l>
+          <r>dere<s n="vblex"/><s n="imp"/><s n="fut"/><s n="p2"/><s n="pl"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>deto</l>
+          <r>dere<s n="vblex"/><s n="imp"/><s n="fut"/><s n="p3"/><s n="sg"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>dento</l>
+          <r>dere<s n="vblex"/><s n="imp"/><s n="fut"/><s n="p3"/><s n="pl"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>detor</l>
+          <r>dere<s n="vblex"/><s n="imp"/><s n="fut"/><s n="psv"/><s n="p2"/><s n="sg"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>detor</l>
+          <r>dere<s n="vblex"/><s n="imp"/><s n="fut"/><s n="psv"/><s n="p3"/><s n="sg"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>dentor</l>
+          <r>dere<s n="vblex"/><s n="imp"/><s n="fut"/><s n="psv"/><s n="p3"/><s n="pl"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>de</l>
+          <r>dere<s n="vblex"/><s n="imp"/><s n="p2"/><s n="sg"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>dete</l>
+          <r>dere<s n="vblex"/><s n="imp"/><s n="p2"/><s n="pl"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>dere</l>
+          <r>dere<s n="vblex"/><s n="imp"/><s n="psv"/><s n="p2"/><s n="sg"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>demini</l>
+          <r>dere<s n="vblex"/><s n="imp"/><s n="psv"/><s n="p2"/><s n="pl"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>di</l>
+          <r>dere<s n="vblex"/><s n="ifi"/><s n="p1"/><s n="sg"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>dimus</l>
+          <r>dere<s n="vblex"/><s n="ifi"/><s n="p1"/><s n="pl"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>disti</l>
+          <r>dere<s n="vblex"/><s n="ifi"/><s n="p2"/><s n="sg"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>distis</l>
+          <r>dere<s n="vblex"/><s n="ifi"/><s n="p2"/><s n="pl"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>dit</l>
+          <r>dere<s n="vblex"/><s n="ifi"/><s n="p3"/><s n="sg"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>derunt</l>
+          <r>dere<s n="vblex"/><s n="ifi"/><s n="p3"/><s n="pl"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>dere</l>
+          <r>dere<s n="vblex"/><s n="inf"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>deri</l>
+          <r>dere<s n="vblex"/><s n="inf"/><s n="psv"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>disse</l>
+          <r>dere<s n="vblex"/><s n="infp"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>deram</l>
+          <r>dere<s n="vblex"/><s n="pmp"/><s n="p1"/><s n="sg"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>deramus</l>
+          <r>dere<s n="vblex"/><s n="pmp"/><s n="p1"/><s n="pl"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>deras</l>
+          <r>dere<s n="vblex"/><s n="pmp"/><s n="p2"/><s n="sg"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>deratis</l>
+          <r>dere<s n="vblex"/><s n="pmp"/><s n="p2"/><s n="pl"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>derat</l>
+          <r>dere<s n="vblex"/><s n="pmp"/><s n="p3"/><s n="sg"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>derant</l>
+          <r>dere<s n="vblex"/><s n="pmp"/><s n="p3"/><s n="pl"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>dissem</l>
+          <r>dere<s n="vblex"/><s n="pms"/><s n="p1"/><s n="sg"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>dissemus</l>
+          <r>dere<s n="vblex"/><s n="pms"/><s n="p1"/><s n="pl"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>disses</l>
+          <r>dere<s n="vblex"/><s n="pms"/><s n="p2"/><s n="sg"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>dissetis</l>
+          <r>dere<s n="vblex"/><s n="pms"/><s n="p2"/><s n="pl"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>disset</l>
+          <r>dere<s n="vblex"/><s n="pms"/><s n="p3"/><s n="sg"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>dissent</l>
+          <r>dere<s n="vblex"/><s n="pms"/><s n="p3"/><s n="pl"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>derim</l>
+          <r>dere<s n="vblex"/><s n="pfs"/><s n="p1"/><s n="sg"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>derimus</l>
+          <r>dere<s n="vblex"/><s n="pfs"/><s n="p1"/><s n="pl"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>deris</l>
+          <r>dere<s n="vblex"/><s n="pfs"/><s n="p2"/><s n="sg"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>deritis</l>
+          <r>dere<s n="vblex"/><s n="pfs"/><s n="p2"/><s n="pl"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>derit</l>
+          <r>dere<s n="vblex"/><s n="pfs"/><s n="p3"/><s n="sg"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>derint</l>
+          <r>dere<s n="vblex"/><s n="pfs"/><s n="p3"/><s n="pl"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>sur</l>
+          <r>dere<s n="vblex"/><s n="pfut"/></r>
+        </p>
+        <par n="BASE__amatus"/>
+      </e>
+      <e>
+        <p>
+          <l>dend</l>
+          <r>dere<s n="vblex"/><s n="pfut"/><s n="psv"/></r>
+        </p>
+        <par n="BASE__amatus"/>
+      </e>
+      <e>
+        <p>
+          <l>debam</l>
+          <r>dere<s n="vblex"/><s n="pii"/><s n="p1"/><s n="sg"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>debamus</l>
+          <r>dere<s n="vblex"/><s n="pii"/><s n="p1"/><s n="pl"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>debas</l>
+          <r>dere<s n="vblex"/><s n="pii"/><s n="p2"/><s n="sg"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>debatis</l>
+          <r>dere<s n="vblex"/><s n="pii"/><s n="p2"/><s n="pl"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>debat</l>
+          <r>dere<s n="vblex"/><s n="pii"/><s n="p3"/><s n="sg"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>debant</l>
+          <r>dere<s n="vblex"/><s n="pii"/><s n="p3"/><s n="pl"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>debar</l>
+          <r>dere<s n="vblex"/><s n="pii"/><s n="psv"/><s n="p1"/><s n="sg"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>debamur</l>
+          <r>dere<s n="vblex"/><s n="pii"/><s n="psv"/><s n="p1"/><s n="pl"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>debaris</l>
+          <r>dere<s n="vblex"/><s n="pii"/><s n="psv"/><s n="p2"/><s n="sg"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>debamini</l>
+          <r>dere<s n="vblex"/><s n="pii"/><s n="psv"/><s n="p2"/><s n="pl"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>debatur</l>
+          <r>dere<s n="vblex"/><s n="pii"/><s n="psv"/><s n="p3"/><s n="sg"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>debantur</l>
+          <r>dere<s n="vblex"/><s n="pii"/><s n="psv"/><s n="p3"/><s n="pl"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>derem</l>
+          <r>dere<s n="vblex"/><s n="pis"/><s n="p1"/><s n="sg"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>deremus</l>
+          <r>dere<s n="vblex"/><s n="pis"/><s n="p1"/><s n="pl"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>deres</l>
+          <r>dere<s n="vblex"/><s n="pis"/><s n="p2"/><s n="sg"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>deretis</l>
+          <r>dere<s n="vblex"/><s n="pis"/><s n="p2"/><s n="pl"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>deret</l>
+          <r>dere<s n="vblex"/><s n="pis"/><s n="p3"/><s n="sg"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>derent</l>
+          <r>dere<s n="vblex"/><s n="pis"/><s n="p3"/><s n="pl"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>derer</l>
+          <r>dere<s n="vblex"/><s n="pis"/><s n="psv"/><s n="p1"/><s n="sg"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>deremur</l>
+          <r>dere<s n="vblex"/><s n="pis"/><s n="psv"/><s n="p1"/><s n="pl"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>dereris</l>
+          <r>dere<s n="vblex"/><s n="pis"/><s n="psv"/><s n="p2"/><s n="sg"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>deremini</l>
+          <r>dere<s n="vblex"/><s n="pis"/><s n="psv"/><s n="p2"/><s n="pl"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>deretur</l>
+          <r>dere<s n="vblex"/><s n="pis"/><s n="psv"/><s n="p3"/><s n="sg"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>derentur</l>
+          <r>dere<s n="vblex"/><s n="pis"/><s n="psv"/><s n="p3"/><s n="pl"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>s</l>
+          <r>dere<s n="vblex"/><s n="pp"/></r>
+        </p>
+        <par n="BASE__amatus"/>
+      </e>
+      <e>
+        <p>
+          <l>den</l>
+          <r>dere<s n="vblex"/><s n="pprs"/></r>
+        </p>
+        <par n="BASE__amans"/>
+      </e>
+      <e>
+        <p>
+          <l>deo</l>
+          <r>dere<s n="vblex"/><s n="pri"/><s n="p1"/><s n="sg"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>demus</l>
+          <r>dere<s n="vblex"/><s n="pri"/><s n="p1"/><s n="pl"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>des</l>
+          <r>dere<s n="vblex"/><s n="pri"/><s n="p2"/><s n="sg"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>detis</l>
+          <r>dere<s n="vblex"/><s n="pri"/><s n="p2"/><s n="pl"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>det</l>
+          <r>dere<s n="vblex"/><s n="pri"/><s n="p3"/><s n="sg"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>dent</l>
+          <r>dere<s n="vblex"/><s n="pri"/><s n="p3"/><s n="pl"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>deor</l>
+          <r>dere<s n="vblex"/><s n="pri"/><s n="psv"/><s n="p1"/><s n="sg"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>demur</l>
+          <r>dere<s n="vblex"/><s n="pri"/><s n="psv"/><s n="p1"/><s n="pl"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>deris</l>
+          <r>dere<s n="vblex"/><s n="pri"/><s n="psv"/><s n="p2"/><s n="sg"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>demini</l>
+          <r>dere<s n="vblex"/><s n="pri"/><s n="psv"/><s n="p2"/><s n="pl"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>detur</l>
+          <r>dere<s n="vblex"/><s n="pri"/><s n="psv"/><s n="p3"/><s n="sg"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>dentur</l>
+          <r>dere<s n="vblex"/><s n="pri"/><s n="psv"/><s n="p3"/><s n="pl"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>deam</l>
+          <r>dere<s n="vblex"/><s n="prs"/><s n="p1"/><s n="sg"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>deamus</l>
+          <r>dere<s n="vblex"/><s n="prs"/><s n="p1"/><s n="pl"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>deas</l>
+          <r>dere<s n="vblex"/><s n="prs"/><s n="p2"/><s n="sg"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>deatis</l>
+          <r>dere<s n="vblex"/><s n="prs"/><s n="p2"/><s n="pl"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>deat</l>
+          <r>dere<s n="vblex"/><s n="prs"/><s n="p3"/><s n="sg"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>deant</l>
+          <r>dere<s n="vblex"/><s n="prs"/><s n="p3"/><s n="pl"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>dear</l>
+          <r>dere<s n="vblex"/><s n="prs"/><s n="psv"/><s n="p1"/><s n="sg"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>deamur</l>
+          <r>dere<s n="vblex"/><s n="prs"/><s n="psv"/><s n="p1"/><s n="pl"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>dearis</l>
+          <r>dere<s n="vblex"/><s n="prs"/><s n="psv"/><s n="p2"/><s n="sg"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>deamini</l>
+          <r>dere<s n="vblex"/><s n="prs"/><s n="psv"/><s n="p2"/><s n="pl"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>deatur</l>
+          <r>dere<s n="vblex"/><s n="prs"/><s n="psv"/><s n="p3"/><s n="sg"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>deantur</l>
+          <r>dere<s n="vblex"/><s n="prs"/><s n="psv"/><s n="p3"/><s n="pl"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>su</l>
+          <r>dere<s n="vblex"/><s n="spn"/><s n="dat"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>sum</l>
+          <r>dere<s n="vblex"/><s n="spn"/><s n="acc"/></r>
+        </p>
+      </e>
+    </pardef>
 
     <pardef n="abu/ti__vblex">
       <e>
@@ -12515,6 +13211,7 @@
     <e lm="audire"><i>audi</i><par n="audi/re__vblex"/></e>
     <e lm="monere"><i>mon</i><par n="mon/ere__vblex"/></e>
     <e lm="legere"><i>le</i><par n="le/gere__vblex"/></e>
+    <e lm="videre"><i>vi</i><par n="vi/dere__vblex"/></e>
     <e lm="abbreviare"><i>abbrevi</i><par n="am/are__vblex"/></e>
     <e lm="abdicare"><i>abdic</i><par n="am/are__vblex"/></e>
     <e lm="abitare"><i>abit</i><par n="am/are__vblex"/></e>
