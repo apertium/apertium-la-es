@@ -16158,6 +16158,171 @@
         </p>
       </e>
     </pardef>
+    <pardef n="plu/ere__vblex">
+      <e>
+        <p>
+          <l>et</l>
+          <r>ere<s n="vblex"/><s n="fti"/><s n="p3"/><s n="sg"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ent</l>
+          <r>ere<s n="vblex"/><s n="fti"/><s n="p3"/><s n="pl"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>verit</l>
+          <r>ere<s n="vblex"/><s n="ftp"/><s n="p3"/><s n="sg"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>verint</l>
+          <r>ere<s n="vblex"/><s n="ftp"/><s n="p3"/><s n="pl"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ito</l>
+          <r>ere<s n="vblex"/><s n="imp"/><s n="fut"/><s n="p2"/><s n="sg"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>itote</l>
+          <r>ere<s n="vblex"/><s n="imp"/><s n="fut"/><s n="p2"/><s n="pl"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ito</l>
+          <r>ere<s n="vblex"/><s n="imp"/><s n="fut"/><s n="p3"/><s n="sg"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>unto</l>
+          <r>ere<s n="vblex"/><s n="imp"/><s n="fut"/><s n="p3"/><s n="pl"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>vit</l>
+          <r>ere<s n="vblex"/><s n="ifi"/><s n="p3"/><s n="sg"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>verunt</l>
+          <r>ere<s n="vblex"/><s n="ifi"/><s n="p3"/><s n="pl"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ere</l>
+          <r>ere<s n="vblex"/><s n="inf"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>visse</l>
+          <r>ere<s n="vblex"/><s n="infp"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>verat</l>
+          <r>ere<s n="vblex"/><s n="pmp"/><s n="p3"/><s n="sg"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>verant</l>
+          <r>ere<s n="vblex"/><s n="pmp"/><s n="p3"/><s n="pl"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>visset</l>
+          <r>ere<s n="vblex"/><s n="pms"/><s n="p3"/><s n="sg"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>verit</l>
+          <r>ere<s n="vblex"/><s n="pfs"/><s n="p3"/><s n="sg"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ebat</l>
+          <r>ere<s n="vblex"/><s n="pii"/><s n="p3"/><s n="sg"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ebant</l>
+          <r>ere<s n="vblex"/><s n="pii"/><s n="p3"/><s n="pl"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>eret</l>
+          <r>ere<s n="vblex"/><s n="pis"/><s n="p3"/><s n="sg"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>en</l>
+          <r>ere<s n="vblex"/><s n="pprs"/></r>
+        </p>
+        <par n="BASE__amans"/>
+      </e>
+      <e>
+        <p>
+          <l>it</l>
+          <r>ere<s n="vblex"/><s n="pri"/><s n="p3"/><s n="sg"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>unt</l>
+          <r>ere<s n="vblex"/><s n="pri"/><s n="p3"/><s n="pl"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>at</l>
+          <r>ere<s n="vblex"/><s n="prs"/><s n="p3"/><s n="sg"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ant</l>
+          <r>ere<s n="vblex"/><s n="prs"/><s n="p3"/><s n="pl"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>erent</l>
+          <r>ere<s n="vblex"/><s n="prs"/><s n="p3"/><s n="pl"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>verint</l>
+          <r>ere<s n="vblex"/><s n="prs"/><s n="p3"/><s n="pl"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>vissent</l>
+          <r>ere<s n="vblex"/><s n="prs"/><s n="p3"/><s n="pl"/></r>
+        </p>
+      </e>
+    </pardef>
 
   </pardefs>
   <section id="main" type="standard">
@@ -16286,6 +16451,7 @@
 
     <e lm="esse"><i></i><par n="/esse__vbser"/></e>
     <e lm="ire"><i></i><par n="/ire__vblex"/></e>
+    <e lm="pluere"><i>plu</i><par n="plu/ere__vblex"/></e>
     <e lm="habere" i="yes"><i>hab</i><par n="hab/ere__vbhaver"/></e>
     <e lm="habere"><i>hab</i><par n="hab/ere__vblex"/></e>
     <e lm="tenere"><i>ten</i><par n="ten/ere__vblex"/></e>
@@ -18609,6 +18775,7 @@
     <e lm="gregorianus"><i>gregorian</i><par n="human/us__adj"/></e>
     <e lm="Britannicus"><i>Britannic</i><par n="human/us__adj"/></e>
     <e lm="Christianus"><i>Christian</i><par n="human/us__adj"/></e>
+    <e lm="Romanus"><i>Roman</i><par n="human/us__adj"/></e>
     <e lm="oeconomicus"><i>oeconomic</i><par n="human/us__adj"/></e>
     <e lm="archaeologicus"><i>archaeologic</i><par n="human/us__adj"/></e>
     <e lm="ammixtus"><i>ammixt</i><par n="human/us__adj"/></e>

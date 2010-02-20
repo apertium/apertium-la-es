@@ -212,6 +212,7 @@
     <e><p><l>convivere<s n="vblex"/></l><r>convivir<s n="vblex"/></r></p></e>
     <e><p><l>revivere<s n="vblex"/></l><r>revivir<s n="vblex"/></r></p></e>
     <e><p><l>ire<s n="vblex"/></l><r>ir<s n="vblex"/></r></p></e>
+    <e><p><l>pluere<s n="vblex"/></l><r>llover<s n="vblex"/></r></p></e>
     <e><p><l>abuti<s n="vblex"/></l><r>abusar<s n="vblex"/></r></p></e>
     <e><p><l>abbreviare<s n="vblex"/></l><r>abreviar<s n="vblex"/></r></p></e>
     <e><p><l>abdicare<s n="vblex"/></l><r>abdicar<s n="vblex"/></r></p></e>
@@ -526,6 +527,8 @@
     <e><p><l>capella<s n="n"/></l><r>capilla<s n="n"/></r></p></e>
     <e><p><l>campana<s n="n"/></l><r>campana<s n="n"/></r></p></e>
     <e><p><l>Christianus<s n="n"/></l><r>cristiano<s n="n"/></r></p></e>
+    <e><p><l>Romanus<s n="n"/></l><r>romano<s n="n"/></r></p></e>
+    <e><p><l>Romanus<s n="adj"/></l><r>romano<s n="adj"/></r></p></e>
     <e><p><l>aenigma<s n="n"/></l><r>enigma<s n="n"/></r></p></e>
     <e><p><l>diabolus<s n="n"/></l><r>diablo<s n="n"/></r></p></e>
     <e><p><l>catechismus<s n="n"/></l><r>catecismo<s n="n"/></r></p></e>
