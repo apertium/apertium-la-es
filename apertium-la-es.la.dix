@@ -7210,6 +7210,80 @@
         </p>
       </e>
     </pardef>
+    <pardef n="le/x__n">
+      <e>
+        <p>
+          <l>ge</l>
+          <r>x<s n="n"/><s n="f"/><s n="sg"/><s n="abl"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>gis</l>
+          <r>x<s n="n"/><s n="f"/><s n="sg"/><s n="gen"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>gi</l>
+          <r>x<s n="n"/><s n="f"/><s n="sg"/><s n="dat"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>gem</l>
+          <r>x<s n="n"/><s n="f"/><s n="sg"/><s n="acc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>x</l>
+          <r>x<s n="n"/><s n="f"/><s n="sg"/><s n="voc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>x</l>
+          <r>x<s n="n"/><s n="f"/><s n="sg"/><s n="nom"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>gibus</l>
+          <r>x<s n="n"/><s n="f"/><s n="pl"/><s n="abl"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>gum</l>
+          <r>x<s n="n"/><s n="f"/><s n="pl"/><s n="gen"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>gibus</l>
+          <r>x<s n="n"/><s n="f"/><s n="pl"/><s n="dat"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ges</l>
+          <r>x<s n="n"/><s n="f"/><s n="pl"/><s n="acc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ges</l>
+          <r>x<s n="n"/><s n="f"/><s n="pl"/><s n="voc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ges</l>
+          <r>x<s n="n"/><s n="f"/><s n="pl"/><s n="nom"/></r>
+        </p>
+      </e>
+    </pardef>
     <pardef n="re/s__n">
       <e>
         <p>
@@ -16522,6 +16596,7 @@
     <e lm="bruma"><i>brum</i><par n="aqu/a__n"/></e>
     <e lm="stella"><i>stell</i><par n="aqu/a__n"/></e>
     <e lm="nox"><i>no</i><par n="no/x__n"/></e>
+    <e lm="lex"><i>le</i><par n="le/x__n"/></e>
     <e lm="nomen"><i>nom</i><par n="nom/en__n"/></e>
     <e lm="vulnus"><i>vuln</i><par n="vuln/us__n"/></e>
     <e lm="homo"><i>hom</i><par n="hom/o__n"/></e>
@@ -17433,6 +17508,7 @@
     <e lm="Lucius"><i>Luci</i><par n="Iuli/us__np"/></e>
     <e lm="Isaacus"><i>Isaac</i><par n="Iuli/us__np"/></e>
     <e lm="Iesus"><i>Ies</i><par n="Iuli/us__np"/></e>
+    <e lm="Newtonus"><i>Newton</i><par n="Iuli/us__np"/></e>
     <e lm="Galilaeus"><i>Galilae</i><par n="Iuli/us__np"/></e>
     <e lm="Galilaeus Galilaei"><i>Galilae</i><par n="Iuli/us__np"/><p><l><b/>Galilaei</l><r><g><b/>Galilaei</g></r></p></e>
     <e lm="Albertus Einstein"><i>Albert</i><par n="Iuli/us__np"/><p><l><b/>Einstein</l><r><g><b/>Einstein</g></r></p></e>
