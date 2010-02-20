@@ -6903,43 +6903,43 @@
           <r>us<s n="np"/><s n="ant"/><s n="m"/><s n="sg"/><s n="loc"/></r>
         </p>
       </e>
-      <e>
+      <e i="yes">
         <p>
           <l>i</l>
           <r>us<s n="np"/><s n="ant"/><s n="m"/><s n="pl"/><s n="nom"/></r>
         </p>
       </e>
-      <e>
+      <e i="yes">
         <p>
           <l>orum</l>
           <r>us<s n="np"/><s n="ant"/><s n="m"/><s n="pl"/><s n="gen"/></r>
         </p>
       </e>
-      <e>
+      <e i="yes">
         <p>
           <l>is</l>
           <r>us<s n="np"/><s n="ant"/><s n="m"/><s n="pl"/><s n="dat"/></r>
         </p>
       </e>
-      <e>
+      <e i="yes">
         <p>
           <l>os</l>
           <r>us<s n="np"/><s n="ant"/><s n="m"/><s n="pl"/><s n="acc"/></r>
         </p>
       </e>
-      <e>
+      <e i="yes">
         <p>
           <l>is</l>
           <r>us<s n="np"/><s n="ant"/><s n="m"/><s n="pl"/><s n="abl"/></r>
         </p>
       </e>
-      <e>
+      <e i="yes">
         <p>
           <l>i</l>
           <r>us<s n="np"/><s n="ant"/><s n="m"/><s n="pl"/><s n="voc"/></r>
         </p>
       </e>
-      <e>
+      <e i="yes">
         <p>
           <l>is</l>
           <r>us<s n="np"/><s n="ant"/><s n="m"/><s n="pl"/><s n="loc"/></r>
