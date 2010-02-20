@@ -13212,6 +13212,12 @@
     <e lm="monere"><i>mon</i><par n="mon/ere__vblex"/></e>
     <e lm="legere"><i>le</i><par n="le/gere__vblex"/></e>
     <e lm="videre"><i>vi</i><par n="vi/dere__vblex"/></e>
+    <e lm="revidere"><i>revi</i><par n="vi/dere__vblex"/></e>
+    <e lm="providere"><i>provi</i><par n="vi/dere__vblex"/></e>
+    <e lm="praevidere"><i>praevi</i><par n="vi/dere__vblex"/></e>
+    <e lm="respondere"><i>respon</i><par n="vi/dere__vblex"/></e>
+    <e lm="correspondere"><i>correspon</i><par n="vi/dere__vblex"/></e>
+    <e lm="invidere"><i>invi</i><par n="vi/dere__vblex"/></e>
     <e lm="abbreviare"><i>abbrevi</i><par n="am/are__vblex"/></e>
     <e lm="abdicare"><i>abdic</i><par n="am/are__vblex"/></e>
     <e lm="abitare"><i>abit</i><par n="am/are__vblex"/></e>
