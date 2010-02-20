@@ -11266,6 +11266,702 @@
         </p>
       </e>
     </pardef>
+    <pardef n="le/gere__vblex">
+      <e>
+        <p>
+          <l>gam</l>
+          <r>gere<s n="vblex"/><s n="fti"/><s n="p1"/><s n="sg"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>gemus</l>
+          <r>gere<s n="vblex"/><s n="fti"/><s n="p1"/><s n="pl"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ges</l>
+          <r>gere<s n="vblex"/><s n="fti"/><s n="p2"/><s n="sg"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>getis</l>
+          <r>gere<s n="vblex"/><s n="fti"/><s n="p2"/><s n="pl"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>get</l>
+          <r>gere<s n="vblex"/><s n="fti"/><s n="p3"/><s n="sg"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>gent</l>
+          <r>gere<s n="vblex"/><s n="fti"/><s n="p3"/><s n="pl"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>gar</l>
+          <r>gere<s n="vblex"/><s n="fti"/><s n="psv"/><s n="p1"/><s n="sg"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>gemur</l>
+          <r>gere<s n="vblex"/><s n="fti"/><s n="psv"/><s n="p1"/><s n="pl"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>geris</l>
+          <r>gere<s n="vblex"/><s n="fti"/><s n="psv"/><s n="p2"/><s n="sg"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>gemini</l>
+          <r>gere<s n="vblex"/><s n="fti"/><s n="psv"/><s n="p2"/><s n="pl"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>getur</l>
+          <r>gere<s n="vblex"/><s n="fti"/><s n="psv"/><s n="p3"/><s n="sg"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>gentur</l>
+          <r>gere<s n="vblex"/><s n="fti"/><s n="psv"/><s n="p3"/><s n="pl"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>gero</l>
+          <r>gere<s n="vblex"/><s n="ftp"/><s n="p1"/><s n="sg"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>gerimus</l>
+          <r>gere<s n="vblex"/><s n="ftp"/><s n="p1"/><s n="pl"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>geris</l>
+          <r>gere<s n="vblex"/><s n="ftp"/><s n="p2"/><s n="sg"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>geritis</l>
+          <r>gere<s n="vblex"/><s n="ftp"/><s n="p2"/><s n="pl"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>gerit</l>
+          <r>gere<s n="vblex"/><s n="ftp"/><s n="p3"/><s n="sg"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>gerint</l>
+          <r>gere<s n="vblex"/><s n="ftp"/><s n="p3"/><s n="pl"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>gendo</l>
+          <r>gere<s n="vblex"/><s n="ger"/><s n="abl"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>gendi</l>
+          <r>gere<s n="vblex"/><s n="ger"/><s n="gen"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>gendo</l>
+          <r>gere<s n="vblex"/><s n="ger"/><s n="dat"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>gendum</l>
+          <r>gere<s n="vblex"/><s n="ger"/><s n="acc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>gendo</l>
+          <r>gere<s n="vblex"/><s n="ger"/><s n="loc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>gito</l>
+          <r>gere<s n="vblex"/><s n="imp"/><s n="fut"/><s n="p2"/><s n="sg"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>gitote</l>
+          <r>gere<s n="vblex"/><s n="imp"/><s n="fut"/><s n="p2"/><s n="pl"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>gito</l>
+          <r>gere<s n="vblex"/><s n="imp"/><s n="fut"/><s n="p3"/><s n="sg"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>gunto</l>
+          <r>gere<s n="vblex"/><s n="imp"/><s n="fut"/><s n="p3"/><s n="pl"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>gitor</l>
+          <r>gere<s n="vblex"/><s n="imp"/><s n="fut"/><s n="psv"/><s n="p2"/><s n="sg"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>gitor</l>
+          <r>gere<s n="vblex"/><s n="imp"/><s n="fut"/><s n="psv"/><s n="p3"/><s n="sg"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>guntor</l>
+          <r>gere<s n="vblex"/><s n="imp"/><s n="fut"/><s n="psv"/><s n="p3"/><s n="pl"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ge</l>
+          <r>gere<s n="vblex"/><s n="imp"/><s n="p2"/><s n="sg"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>gite</l>
+          <r>gere<s n="vblex"/><s n="imp"/><s n="p2"/><s n="pl"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>gere</l>
+          <r>gere<s n="vblex"/><s n="imp"/><s n="psv"/><s n="p2"/><s n="sg"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>gimini</l>
+          <r>gere<s n="vblex"/><s n="imp"/><s n="psv"/><s n="p2"/><s n="pl"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>gi</l>
+          <r>gere<s n="vblex"/><s n="ifi"/><s n="p1"/><s n="sg"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>gimus</l>
+          <r>gere<s n="vblex"/><s n="ifi"/><s n="p1"/><s n="pl"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>gisti</l>
+          <r>gere<s n="vblex"/><s n="ifi"/><s n="p2"/><s n="sg"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>gistis</l>
+          <r>gere<s n="vblex"/><s n="ifi"/><s n="p2"/><s n="pl"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>git</l>
+          <r>gere<s n="vblex"/><s n="ifi"/><s n="p3"/><s n="sg"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>gerunt</l>
+          <r>gere<s n="vblex"/><s n="ifi"/><s n="p3"/><s n="pl"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>gere</l>
+          <r>gere<s n="vblex"/><s n="inf"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>gi</l>
+          <r>gere<s n="vblex"/><s n="inf"/><s n="psv"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>gisse</l>
+          <r>gere<s n="vblex"/><s n="infp"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>geram</l>
+          <r>gere<s n="vblex"/><s n="pmp"/><s n="p1"/><s n="sg"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>geramus</l>
+          <r>gere<s n="vblex"/><s n="pmp"/><s n="p1"/><s n="pl"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>geras</l>
+          <r>gere<s n="vblex"/><s n="pmp"/><s n="p2"/><s n="sg"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>geratis</l>
+          <r>gere<s n="vblex"/><s n="pmp"/><s n="p2"/><s n="pl"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>gerat</l>
+          <r>gere<s n="vblex"/><s n="pmp"/><s n="p3"/><s n="sg"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>gerant</l>
+          <r>gere<s n="vblex"/><s n="pmp"/><s n="p3"/><s n="pl"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>gissem</l>
+          <r>gere<s n="vblex"/><s n="pms"/><s n="p1"/><s n="sg"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>gissemus</l>
+          <r>gere<s n="vblex"/><s n="pms"/><s n="p1"/><s n="pl"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>gisses</l>
+          <r>gere<s n="vblex"/><s n="pms"/><s n="p2"/><s n="sg"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>gissetis</l>
+          <r>gere<s n="vblex"/><s n="pms"/><s n="p2"/><s n="pl"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>gisset</l>
+          <r>gere<s n="vblex"/><s n="pms"/><s n="p3"/><s n="sg"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>gissent</l>
+          <r>gere<s n="vblex"/><s n="pms"/><s n="p3"/><s n="pl"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>gerim</l>
+          <r>gere<s n="vblex"/><s n="pfs"/><s n="p1"/><s n="sg"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>gerimus</l>
+          <r>gere<s n="vblex"/><s n="pfs"/><s n="p1"/><s n="pl"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>geris</l>
+          <r>gere<s n="vblex"/><s n="pfs"/><s n="p2"/><s n="sg"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>geritis</l>
+          <r>gere<s n="vblex"/><s n="pfs"/><s n="p2"/><s n="pl"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>gerit</l>
+          <r>gere<s n="vblex"/><s n="pfs"/><s n="p3"/><s n="sg"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>gerint</l>
+          <r>gere<s n="vblex"/><s n="pfs"/><s n="p3"/><s n="pl"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ctur</l>
+          <r>gere<s n="vblex"/><s n="pfut"/></r>
+        </p>
+        <par n="BASE__amatus"/>
+      </e>
+      <e>
+        <p>
+          <l>gend</l>
+          <r>gere<s n="vblex"/><s n="pfut"/><s n="psv"/></r>
+        </p>
+        <par n="BASE__amatus"/>
+      </e>
+      <e>
+        <p>
+          <l>gebam</l>
+          <r>gere<s n="vblex"/><s n="pii"/><s n="p1"/><s n="sg"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>gebamus</l>
+          <r>gere<s n="vblex"/><s n="pii"/><s n="p1"/><s n="pl"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>gebas</l>
+          <r>gere<s n="vblex"/><s n="pii"/><s n="p2"/><s n="sg"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>gebatis</l>
+          <r>gere<s n="vblex"/><s n="pii"/><s n="p2"/><s n="pl"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>gebat</l>
+          <r>gere<s n="vblex"/><s n="pii"/><s n="p3"/><s n="sg"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>gebant</l>
+          <r>gere<s n="vblex"/><s n="pii"/><s n="p3"/><s n="pl"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>gebar</l>
+          <r>gere<s n="vblex"/><s n="pii"/><s n="psv"/><s n="p1"/><s n="sg"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>gebamur</l>
+          <r>gere<s n="vblex"/><s n="pii"/><s n="psv"/><s n="p1"/><s n="pl"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>gebaris</l>
+          <r>gere<s n="vblex"/><s n="pii"/><s n="psv"/><s n="p2"/><s n="sg"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>gebamini</l>
+          <r>gere<s n="vblex"/><s n="pii"/><s n="psv"/><s n="p2"/><s n="pl"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>gebatur</l>
+          <r>gere<s n="vblex"/><s n="pii"/><s n="psv"/><s n="p3"/><s n="sg"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>gebantur</l>
+          <r>gere<s n="vblex"/><s n="pii"/><s n="psv"/><s n="p3"/><s n="pl"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>gerem</l>
+          <r>gere<s n="vblex"/><s n="pis"/><s n="p1"/><s n="sg"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>geremus</l>
+          <r>gere<s n="vblex"/><s n="pis"/><s n="p1"/><s n="pl"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>geres</l>
+          <r>gere<s n="vblex"/><s n="pis"/><s n="p2"/><s n="sg"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>geretis</l>
+          <r>gere<s n="vblex"/><s n="pis"/><s n="p2"/><s n="pl"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>geret</l>
+          <r>gere<s n="vblex"/><s n="pis"/><s n="p3"/><s n="sg"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>gerent</l>
+          <r>gere<s n="vblex"/><s n="pis"/><s n="p3"/><s n="pl"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>gerer</l>
+          <r>gere<s n="vblex"/><s n="pis"/><s n="psv"/><s n="p1"/><s n="sg"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>geremur</l>
+          <r>gere<s n="vblex"/><s n="pis"/><s n="psv"/><s n="p1"/><s n="pl"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>gereris</l>
+          <r>gere<s n="vblex"/><s n="pis"/><s n="psv"/><s n="p2"/><s n="sg"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>geremini</l>
+          <r>gere<s n="vblex"/><s n="pis"/><s n="psv"/><s n="p2"/><s n="pl"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>geretur</l>
+          <r>gere<s n="vblex"/><s n="pis"/><s n="psv"/><s n="p3"/><s n="sg"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>gerentur</l>
+          <r>gere<s n="vblex"/><s n="pis"/><s n="psv"/><s n="p3"/><s n="pl"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ct</l>
+          <r>gere<s n="vblex"/><s n="pp"/></r>
+        </p>
+        <par n="BASE__amatus"/>
+      </e>
+      <e>
+        <p>
+          <l>gen</l>
+          <r>gere<s n="vblex"/><s n="pprs"/></r>
+        </p>
+        <par n="BASE__amans"/>
+      </e>
+      <e>
+        <p>
+          <l>go</l>
+          <r>gere<s n="vblex"/><s n="pri"/><s n="p1"/><s n="sg"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>gimus</l>
+          <r>gere<s n="vblex"/><s n="pri"/><s n="p1"/><s n="pl"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>gis</l>
+          <r>gere<s n="vblex"/><s n="pri"/><s n="p2"/><s n="sg"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>gitis</l>
+          <r>gere<s n="vblex"/><s n="pri"/><s n="p2"/><s n="pl"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>git</l>
+          <r>gere<s n="vblex"/><s n="pri"/><s n="p3"/><s n="sg"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>gunt</l>
+          <r>gere<s n="vblex"/><s n="pri"/><s n="p3"/><s n="pl"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>gor</l>
+          <r>gere<s n="vblex"/><s n="pri"/><s n="psv"/><s n="p1"/><s n="sg"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>gimur</l>
+          <r>gere<s n="vblex"/><s n="pri"/><s n="psv"/><s n="p1"/><s n="pl"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>geris</l>
+          <r>gere<s n="vblex"/><s n="pri"/><s n="psv"/><s n="p2"/><s n="sg"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>gimini</l>
+          <r>gere<s n="vblex"/><s n="pri"/><s n="psv"/><s n="p2"/><s n="pl"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>gitur</l>
+          <r>gere<s n="vblex"/><s n="pri"/><s n="psv"/><s n="p3"/><s n="sg"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>guntur</l>
+          <r>gere<s n="vblex"/><s n="pri"/><s n="psv"/><s n="p3"/><s n="pl"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>gam</l>
+          <r>gere<s n="vblex"/><s n="prs"/><s n="p1"/><s n="sg"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>gamus</l>
+          <r>gere<s n="vblex"/><s n="prs"/><s n="p1"/><s n="pl"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>gas</l>
+          <r>gere<s n="vblex"/><s n="prs"/><s n="p2"/><s n="sg"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>gatis</l>
+          <r>gere<s n="vblex"/><s n="prs"/><s n="p2"/><s n="pl"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>gat</l>
+          <r>gere<s n="vblex"/><s n="prs"/><s n="p3"/><s n="sg"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>gant</l>
+          <r>gere<s n="vblex"/><s n="prs"/><s n="p3"/><s n="pl"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>gar</l>
+          <r>gere<s n="vblex"/><s n="prs"/><s n="psv"/><s n="p1"/><s n="sg"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>gamur</l>
+          <r>gere<s n="vblex"/><s n="prs"/><s n="psv"/><s n="p1"/><s n="pl"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>garis</l>
+          <r>gere<s n="vblex"/><s n="prs"/><s n="psv"/><s n="p2"/><s n="sg"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>gamini</l>
+          <r>gere<s n="vblex"/><s n="prs"/><s n="psv"/><s n="p2"/><s n="pl"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>gatur</l>
+          <r>gere<s n="vblex"/><s n="prs"/><s n="psv"/><s n="p3"/><s n="sg"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>gantur</l>
+          <r>gere<s n="vblex"/><s n="prs"/><s n="psv"/><s n="p3"/><s n="pl"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ctu</l>
+          <r>gere<s n="vblex"/><s n="spn"/><s n="dat"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ctum</l>
+          <r>gere<s n="vblex"/><s n="spn"/><s n="acc"/></r>
+        </p>
+      </e>
+    </pardef>
 
     <pardef n="abu/ti__vblex">
       <e>
@@ -11635,6 +12331,7 @@
     <e lm="abuti"><i>abu</i><par n="abu/ti__vblex"/></e>
     <e lm="audire"><i>audi</i><par n="audi/re__vblex"/></e>
     <e lm="monere"><i>mon</i><par n="mon/ere__vblex"/></e>
+    <e lm="legere"><i>le</i><par n="le/gere__vblex"/></e>
     <e lm="abbreviare"><i>abbrevi</i><par n="am/are__vblex"/></e>
     <e lm="abdicare"><i>abdic</i><par n="am/are__vblex"/></e>
     <e lm="abitare"><i>abit</i><par n="am/are__vblex"/></e>
