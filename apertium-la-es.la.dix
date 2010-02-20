@@ -6878,6 +6878,14 @@
         </p>
       </e>
     </pardef>
+    <pardef n="CPU__n">
+      <e>
+        <p>
+          <l></l>
+          <r><s n="n"/><s n="acr"/><s n="nt"/><s n="sp"/></r>
+        </p>
+      </e>
+    </pardef>
     <pardef n="Iuli/us__np">
       <e>
         <p>
@@ -16581,6 +16589,7 @@
     
     <e lm="ROM"><i>ROM</i><par n="ROM__n"/></e>
     <e lm="RAM"><i>RAM</i><par n="ROM__n"/></e>
+    <e lm="CPU"><i>CPU</i><par n="CPU__n"/></e>
     <!-- Declension 1 f a, ae -->
     <e lm="aqua"><i>aqu</i><par n="aqu/a__n"/></e> <!-- water -->
     <e lm="artilleria"><i>artilleri</i><par n="aqu/a__n"/></e>
