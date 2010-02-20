@@ -5,6 +5,7 @@
      <sdef n="n"/>
      <sdef n="pr"/>
      <sdef n="np"/>
+     <sdef n="acr"/>
      <sdef n="adv"/>
      <sdef n="cnjadv"/>
 
@@ -1915,6 +1916,8 @@
     <e><p><l>Galilaeus<s n="np"/><s n="ant"/></l><r>Galileo<s n="np"/><s n="ant"/></r></p></e>
     <e><p><l>Galilaeus<g><b/>Galilaei</g><s n="np"/><s n="ant"/></l><r>Galileo<b/>Galilei<s n="np"/><s n="ant"/></r></p></e>
     <e><p><l>Albertus<g><b/>Einstein</g><s n="np"/><s n="ant"/></l><r>Albert<b/>Einstein<s n="np"/><s n="ant"/></r></p></e>
+    <e><p><l>ROM<s n="n"/><s n="acr"/><s n="f"/><s n="sp"/></l><r>ROM<s n="n"/><s n="acr"/><s n="f"/><s n="sg"/></r></p></e>
+    <e><p><l>RAM<s n="n"/><s n="acr"/><s n="f"/><s n="sp"/></l><r>RAM<s n="n"/><s n="acr"/><s n="f"/><s n="sg"/></r></p></e>
 
     <e><p><l>dura<b/>lex,<b/>sed<b/>lex<s n="adv"/></l><r>la<b/>ley<b/>es<b/>dura,<b/>pero<b/>es<b/>la<b/>ley<s n="adv"/></r></p></e>
     <e><p><l>ecce<b/>homo<s n="adv"/></l><r>he<b/>aquí<b/>el<b/>hombre<s n="adv"/></r></p></e>

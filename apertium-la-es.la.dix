@@ -13,6 +13,8 @@
     <sdef n="np"/>
     <sdef n="ant"/>
     <sdef n="top"/>
+    <sdef n="acr"/>
+    <sdef n="cog"/>
     
     <sdef n="nom"/>
     <sdef n="gen"/>
@@ -6857,6 +6859,22 @@
         <p>
           <l>nes</l>
           <r><s n="n"/><s n="f"/><s n="pl"/><s n="nom"/></r>
+        </p>
+      </e>
+    </pardef>
+    <pardef n="Keynes__np">
+      <e>
+        <p>
+          <l></l>
+          <r><s n="np"/><s n="cog"/><s n="mf"/><s n="sp"/></r>
+        </p>
+      </e>
+    </pardef>
+    <pardef n="ROM__n">
+      <e>
+        <p>
+          <l></l>
+          <r><s n="n"/><s n="acr"/><s n="f"/><s n="sp"/></r>
         </p>
       </e>
     </pardef>
@@ -16561,6 +16579,8 @@
     <e lm="a.C.n"><i>a.C.n</i><par n="quasi__adv"/></e>
     <e lm="mathematice"><i>mathematice</i><par n="quasi__adv"/></e>
     
+    <e lm="ROM"><i>ROM</i><par n="ROM__n"/></e>
+    <e lm="RAM"><i>RAM</i><par n="ROM__n"/></e>
     <!-- Declension 1 f a, ae -->
     <e lm="aqua"><i>aqu</i><par n="aqu/a__n"/></e> <!-- water -->
     <e lm="artilleria"><i>artilleri</i><par n="aqu/a__n"/></e>
@@ -16602,6 +16622,7 @@
     <e lm="homo"><i>hom</i><par n="hom/o__n"/></e>
     <e lm="amor"><i>amor</i><par n="amor__n"/></e>
     <e lm="electronica"><i>electronic</i><par n="aqu/a__n"/></e>
+    <e lm="Keynes"><i>Keynes</i><par n="Keynes__np"/></e>
     <e a="afgl-lat" lm="Cornelia"><i>Corneli</i><par n="Corneli/a__np"/></e>
     <e a="afgl-lat" lm="abstinentia"><i>abstinenti</i><par n="aqu/a__n"/></e>
     <e a="afgl-lat" lm="abundantia"><i>abundanti</i><par n="aqu/a__n"/></e>
