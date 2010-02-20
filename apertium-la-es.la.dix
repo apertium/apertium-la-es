@@ -17301,6 +17301,15 @@
     <e a="agfl-lat" lm="colonus"><i>colon</i><par n="mur/us__n"/></e>
     <e a="agfl-lat" lm="daemonus"><i>daemon</i><par n="mur/us__n"/></e>
     <e lm="deus"><i>de</i><par n="fili/us__n"/></e>
+    <e lm="deus"><p><l>di</l><r>deus<s n="n"/><s n="pl"/><s n="nom"/></r></p></e>
+    <e lm="deus"><p><l>dii</l><r>deus<s n="n"/><s n="pl"/><s n="nom"/></r></p></e>
+    <e lm="deus"><p><l>deum</l><r>deus<s n="n"/><s n="pl"/><s n="gen"/></r></p></e>
+    <e lm="deus"><p><l>dis</l><r>deus<s n="n"/><s n="pl"/><s n="dat"/></r></p></e>
+    <e lm="deus"><p><l>diis</l><r>deus<s n="n"/><s n="pl"/><s n="dat"/></r></p></e>
+    <e lm="deus"><p><l>dis</l><r>deus<s n="n"/><s n="pl"/><s n="abl"/></r></p></e>
+    <e lm="deus"><p><l>diis</l><r>deus<s n="n"/><s n="pl"/><s n="abl"/></r></p></e>
+    <e lm="deus"><p><l>di</l><r>deus<s n="n"/><s n="pl"/><s n="voc"/></r></p></e>
+    <e lm="deus"><p><l>dii</l><r>deus<s n="n"/><s n="pl"/><s n="voc"/></r></p></e>
     <e lm="catechismus"><i>catechism</i><par n="mur/us__n"/></e>
     <e a="agfl-lat" lm="diabolus"><i>diabol</i><par n="mur/us__n"/></e>
     <e a="agfl-lat" lm="digitus"><i>digit</i><par n="mur/us__n"/></e>
