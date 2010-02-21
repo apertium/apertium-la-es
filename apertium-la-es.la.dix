@@ -8656,6 +8656,80 @@
         </p>
       </e>
     </pardef>
+    <pardef n="pat/er__n">
+      <e>
+        <p>
+          <l>re</l>
+          <r>er<s n="n"/><s n="m"/><s n="sg"/><s n="abl"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ris</l>
+          <r>er<s n="n"/><s n="m"/><s n="sg"/><s n="gen"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ri</l>
+          <r>er<s n="n"/><s n="m"/><s n="sg"/><s n="dat"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>rem</l>
+          <r>er<s n="n"/><s n="m"/><s n="sg"/><s n="acc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>er</l>
+          <r>er<s n="n"/><s n="m"/><s n="sg"/><s n="voc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>er</l>
+          <r>er<s n="n"/><s n="m"/><s n="sg"/><s n="nom"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ribus</l>
+          <r>er<s n="n"/><s n="m"/><s n="pl"/><s n="abl"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>rum</l>
+          <r>er<s n="n"/><s n="m"/><s n="pl"/><s n="gen"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ribus</l>
+          <r>er<s n="n"/><s n="m"/><s n="pl"/><s n="dat"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>res</l>
+          <r>er<s n="n"/><s n="m"/><s n="pl"/><s n="acc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>res</l>
+          <r>er<s n="n"/><s n="m"/><s n="pl"/><s n="voc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>res</l>
+          <r>er<s n="n"/><s n="m"/><s n="pl"/><s n="nom"/></r>
+        </p>
+      </e>
+    </pardef>
 
     <pardef n="/esse__vbser">
       <e>
@@ -17383,6 +17457,7 @@
     <e lm="emptor"><i>emptor</i><par n="emptor__n"/></e>
     <e lm="salvator"><i>salvator</i><par n="emptor__n"/></e>
     <e lm="redemptor"><i>redemptor</i><par n="emptor__n"/></e>
+    <e lm="pater"><i>pat</i><par n="pat/er__n"/></e>
     <!-- Declension 1 f a, ae -->
     <e lm="aqua"><i>aqu</i><par n="aqu/a__n"/></e> <!-- water -->
     <e lm="artilleria"><i>artilleri</i><par n="aqu/a__n"/></e>
