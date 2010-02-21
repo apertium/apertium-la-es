@@ -1597,6 +1597,8 @@
     <e><p><l>disparitio<s n="n"/><s n="f"/></l><r>desaparición<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>disproportio<s n="n"/><s n="f"/></l><r>desproporción<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>dissectio<s n="n"/><s n="f"/></l><r>disección<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>sectio<s n="n"/><s n="f"/></l><r>sección<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>adhortatio<s n="n"/><s n="f"/></l><r>exhortación<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>dissimulatio<s n="n"/><s n="f"/></l><r>disimulación<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>dissolutio<s n="n"/><s n="f"/></l><r>disolución<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>distillatio<s n="n"/><s n="f"/></l><r>destilación<s n="n"/><s n="f"/></r></p></e>
@@ -1619,6 +1621,8 @@
     <e><p><l>motus<s n="n"/><s n="m"/></l><r>movimiento<s n="n"/><s n="m"/></r></p></e>
     <e c="sometimes"><p><l>calendarium<s n="n"/><s n="nt"/></l><r>calendario<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>medium<s n="n"/><s n="nt"/></l><r>medio<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>sacramentum<s n="n"/><s n="nt"/></l><r>sacramento<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>fidei<b/>sacramentum<s n="n"/><s n="nt"/></l><r>sacramento<g><b/>de<b/>la<b/>fe</g><s n="n"/><s n="m"/></r></p></e>
     <e><p><l>nox<s n="n"/><s n="f"/></l><r>noche<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>nomen<s n="n"/><s n="nt"/></l><r>nombre<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>homo<s n="n"/><s n="m"/></l><r>hombre<s n="n"/><s n="m"/></r></p></e>
@@ -1631,6 +1635,7 @@
     <e><p><l>theoria<s n="n"/><s n="f"/></l><r>teoría<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>processorium<s n="n"/><s n="nt"/></l><r>procesador<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>coprocessorium<s n="n"/><s n="nt"/></l><r>coprocesador<s n="n"/><s n="m"/></r></p></e>
+    <e><p><l>symbolum<s n="n"/><s n="nt"/></l><r>símbolo<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>argumentum<s n="n"/><s n="nt"/></l><r>argumento<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>fungus<s n="n"/><s n="m"/></l><r>hungo<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>articulus<s n="n"/><s n="m"/></l><r>artículo<s n="n"/><s n="m"/></r></p></e>

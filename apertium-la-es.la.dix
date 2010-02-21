@@ -17961,6 +17961,8 @@
     <e lm="disparitio"><i>disparitio</i><par n="radiatio__n"/></e>
     <e lm="disproportio"><i>disproportio</i><par n="radiatio__n"/></e>
     <e lm="dissectio"><i>dissectio</i><par n="radiatio__n"/></e>
+    <e lm="sectio"><i>sectio</i><par n="radiatio__n"/></e>
+    <e lm="adhortatio"><i>adhortatio</i><par n="radiatio__n"/></e>
     <e lm="dissimulatio"><i>dissimulatio</i><par n="radiatio__n"/></e>
     <e lm="dissolutio"><i>dissolutio</i><par n="radiatio__n"/></e>
     <e lm="distillatio"><i>distillatio</i><par n="radiatio__n"/></e>
@@ -18175,6 +18177,7 @@
     <e lm="res"><i>re</i><par n="re/s__n"/></e>
     <e lm="ager"><i>ag</i><par n="ag/er__n"/></e>
     <e lm="bellum"><i>bell</i><par n="bell/um__n"/></e>
+    <e lm="symbolum"><i>symbol</i><par n="bell/um__n"/></e>
     <e lm="processorium"><i>processori</i><par n="bell/um__n"/></e>
     <e lm="coprocessorium"><i>coprocessori</i><par n="bell/um__n"/></e>
     <e lm="abecedarium"><i>abecedari</i><par n="bell/um__n"/></e>
@@ -18659,6 +18662,7 @@
     <e a="agfl-lat" lm="respiramentum"><i>respirament</i><par n="bell/um__n"/></e>
     <e a="agfl-lat" lm="rudimentum"><i>rudiment</i><par n="bell/um__n"/></e>
     <e a="agfl-lat" lm="sacramentum"><i>sacrament</i><par n="bell/um__n"/></e>
+    <e lm="fidei sacramentum"><i>fidei<b/>sacrament</i><par n="bell/um__n"/></e>
     <e a="agfl-lat" lm="sacrificium"><i>sacrifici</i><par n="bell/um__n"/></e>
     <e a="agfl-lat" lm="sacrum"><i>sacr</i><par n="bell/um__n"/></e>
     <e a="agfl-lat" lm="saeculum"><i>saecul</i><par n="bell/um__n"/></e>
