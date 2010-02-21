@@ -17457,6 +17457,44 @@
     <e lm="emptor"><i>emptor</i><par n="emptor__n"/></e>
     <e lm="salvator"><i>salvator</i><par n="emptor__n"/></e>
     <e lm="redemptor"><i>redemptor</i><par n="emptor__n"/></e>
+    <e lm="viator"><i>viator</i><par n="emptor__n"/></e>
+    <e lm="actor"><i>actor</i><par n="emptor__n"/></e>
+    <e lm="amor"><i>amor</i><par n="emptor__n"/></e>
+    <e lm="calor"><i>calor</i><par n="emptor__n"/></e>
+    <e lm="canon"><i>canon</i><par n="emptor__n"/></e>
+    <e lm="castor"><i>castor</i><par n="emptor__n"/></e>
+    <e lm="clamor"><i>clamor</i><par n="emptor__n"/></e>
+    <e lm="clon"><i>clon</i><par n="emptor__n"/></e>
+    <e lm="color"><i>color</i><par n="emptor__n"/></e>
+    <e lm="compositor"><i>compositor</i><par n="emptor__n"/></e>
+    <e lm="cursor"><i>cursor</i><par n="emptor__n"/></e>
+    <e lm="desertor"><i>desertor</i><par n="emptor__n"/></e>
+    <e lm="destructor"><i>destructor</i><par n="emptor__n"/></e>
+    <e lm="director"><i>director</i><par n="emptor__n"/></e>
+    <e lm="doctor"><i>doctor</i><par n="emptor__n"/></e>
+    <e lm="dolor"><i>dolor</i><par n="emptor__n"/></e>
+    <e lm="editor"><i>editor</i><par n="emptor__n"/></e>
+    <e lm="error"><i>error</i><par n="emptor__n"/></e>
+    <e lm="favor"><i>favor</i><par n="emptor__n"/></e>
+    <e lm="fervor"><i>fervor</i><par n="emptor__n"/></e>
+    <e lm="gradual"><i>gradual</i><par n="emptor__n"/></e>
+    <e lm="honor"><i>honor</i><par n="emptor__n"/></e>
+    <e lm="humor"><i>humor</i><par n="emptor__n"/></e>
+    <e lm="inventor"><i>inventor</i><par n="emptor__n"/></e>
+    <e lm="lector"><i>lector</i><par n="emptor__n"/></e>
+    <e lm="pastor"><i>pastor</i><par n="emptor__n"/></e>
+    <e lm="rector"><i>rector</i><par n="emptor__n"/></e>
+    <e lm="rumor"><i>rumor</i><par n="emptor__n"/></e>
+    <e lm="sal"><i>sal</i><par n="emptor__n"/></e>
+    <e lm="seductor"><i>seductor</i><par n="emptor__n"/></e>
+    <e lm="sol"><i>sol</i><par n="emptor__n"/></e>
+    <e lm="sudor"><i>sudor</i><par n="emptor__n"/></e>
+    <e lm="tenor"><i>tenor</i><par n="emptor__n"/></e>
+    <e lm="terror"><i>terror</i><par n="emptor__n"/></e>
+    <e lm="tutor"><i>tutor</i><par n="emptor__n"/></e>
+    <e lm="valor"><i>valor</i><par n="emptor__n"/></e>
+    <e lm="vapor"><i>vapor</i><par n="emptor__n"/></e>
+    <e lm="vigor"><i>vigor</i><par n="emptor__n"/></e>
     <e lm="pater"><i>pat</i><par n="pat/er__n"/></e>
     <e lm="September"><i>Septemb</i><par n="Septemb/er__n"/></e>
     <e lm="October"><i>Octob</i><par n="Octob/er__n"/></e>
