@@ -17458,6 +17458,10 @@
     <e lm="salvator"><i>salvator</i><par n="emptor__n"/></e>
     <e lm="redemptor"><i>redemptor</i><par n="emptor__n"/></e>
     <e lm="pater"><i>pat</i><par n="pat/er__n"/></e>
+    <e lm="September"><i>Septemb</i><par n="Septemb/er__n"/></e>
+    <e lm="October"><i>Octob</i><par n="Octob/er__n"/></e>
+    <e lm="November"><i>Novemb</i><par n="Novemb/er__n"/></e>
+    <e lm="December"><i>Decemb</i><par n="Decemb/er__n"/></e>
     <!-- Declension 1 f a, ae -->
     <e lm="aqua"><i>aqu</i><par n="aqu/a__n"/></e> <!-- water -->
     <e lm="artilleria"><i>artilleri</i><par n="aqu/a__n"/></e>
