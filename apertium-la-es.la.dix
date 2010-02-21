@@ -103,6 +103,24 @@
         </p>
       </e>
     </pardef>
+    <pardef n="bible_abbrev">
+      <e><i>Io</i></e>
+      <e><i>Act</i></e>
+      <e><i>1<b/>Tim</i></e>
+      <e><i>Mt</i></e>
+      <e><i>Mc</i></e>
+    </pardef>
+    <pardef n="bible">
+      <e>
+        <par n="bible_abbrev"/>
+        <i><b/></i>
+        <re>[0-9]+,([0-9])+(\-[0-9]+)?</re>
+        <p>
+          <l/>
+          <r><s n="n"/><s n="acr"/><s n="mf"/><s n="sp"/></r>
+        </p>
+      </e>
+    </pardef>
 
     <!-- Prepositions -->  
     <pardef n="ab__pr">
@@ -19154,6 +19172,7 @@
     <e lm="Iesus Nazarenus Rex Iudaeorum"><i>Iesus<b/>Nazarenus<b/>Rex<b/>Iudaeorum</i><par n="quasi__adv"/></e>
     <e lm="Senatus Populus Que Romanus"><i>Senatus<b/>Populus<b/>Que<b/>Romanus</i><par n="quasi__adv"/></e>
     <e lm="requiescat in pace"><i>requiescat<b/>in<b/>pace</i><par n="quasi__adv"/></e>
+    <e><par n="bible"/></e>
   </section>
   <section id="punt" type="inconditional">
     <e><par n="numeros"/></e>

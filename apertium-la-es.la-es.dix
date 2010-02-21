@@ -67,6 +67,31 @@
      <sdef n="voc"/>
      <sdef n="loc"/>
   </sdefs>
+  <pardefs>
+    <pardef n="bible_abbrevs">
+      <e>
+        <p>
+          <l>Io</l>
+          <r>Jn</r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>Act</l>
+          <r>Hch</r>
+        </p>
+      </e>
+      <e>
+        <i>1<b/>Tim</i>
+      </e>
+      <e>
+        <i>Mt</i>
+      </e>
+      <e>
+        <i>Mc</i>
+      </e>
+    </pardef>
+  </pardefs>
   <section id="main" type="standard">
     <e><p><l>ab<s n="pr"/></l><r>desde<s n="pr"/></r></p></e>
     <e><p><l>abs<s n="pr"/></l><r>desde<s n="pr"/></r></p></e>
@@ -1969,6 +1994,7 @@
     <e><i>)<s n="rpar"/></i></e>
     <e><i>]<s n="rpar"/></i></e>
     <e><re>[0-9]+([.,][0-9]+)?</re><i><s n="num"/></i></e>
+    <e><par n="bible_abbrevs"/><i><b/></i><re>[0-9]+,([0-9])+(\-[0-9]+)?</re><i><s n="n"/><s n="acr"/><s n="mf"/><s n="sp"/></i></e>
     <e><i>«<s n="lquot"/></i></e>
     <e><i>»<s n="rquot"/></i></e>
     <e><i>&quot;<s n="quot"/></i></e>
