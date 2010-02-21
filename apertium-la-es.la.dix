@@ -7208,6 +7208,50 @@
         </p>
       </e>
     </pardef>
+    <pardef n="Ies/us__np">
+      <e>
+        <p>
+          <l>us</l>
+          <r>us<s n="np"/><s n="ant"/><s n="m"/><s n="sg"/><s n="nom"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>u</l>
+          <r>us<s n="np"/><s n="ant"/><s n="m"/><s n="sg"/><s n="gen"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>u</l>
+          <r>us<s n="np"/><s n="ant"/><s n="m"/><s n="sg"/><s n="dat"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>um</l>
+          <r>us<s n="np"/><s n="ant"/><s n="m"/><s n="sg"/><s n="acc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>u</l>
+          <r>us<s n="np"/><s n="ant"/><s n="m"/><s n="sg"/><s n="abl"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>u</l>
+          <r>us<s n="np"/><s n="ant"/><s n="m"/><s n="sg"/><s n="voc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>u</l>
+          <r>us<s n="np"/><s n="ant"/><s n="m"/><s n="sg"/><s n="loc"/></r>
+        </p>
+      </e>
+    </pardef>
     <pardef n="dom/us__n">
       <e>
         <p>
@@ -18166,7 +18210,7 @@
     <e lm="Marcus"><i>Marc</i><par n="Iuli/us__np"/></e>
     <e lm="Lucius"><i>Luci</i><par n="Iuli/us__np"/></e>
     <e lm="Isaacus"><i>Isaac</i><par n="Iuli/us__np"/></e>
-    <e lm="Iesus"><i>Ies</i><par n="Iuli/us__np"/></e>
+    <e lm="Iesus"><i>Ies</i><par n="Ies/us__np"/></e>
     <e lm="Newtonus"><i>Newton</i><par n="Iuli/us__np"/></e>
     <e lm="Galilaeus"><i>Galilae</i><par n="Iuli/us__np"/></e>
     <e lm="Galilaeus Galilaei"><i>Galilae</i><par n="Iuli/us__np"/><p><l><b/>Galilaei</l><r><g><b/>Galilaei</g></r></p></e>
