@@ -7252,6 +7252,50 @@
         </p>
       </e>
     </pardef>
+    <pardef n="Ada/m__np">
+      <e c="This paradigm is guesed, and wrong in places">
+        <p>
+          <l>m</l>
+          <r>m<s n="np"/><s n="ant"/><s n="m"/><s n="sg"/><s n="nom"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>e</l>
+          <r>m<s n="np"/><s n="ant"/><s n="m"/><s n="sg"/><s n="gen"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>e</l>
+          <r>m<s n="np"/><s n="ant"/><s n="m"/><s n="sg"/><s n="dat"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>m</l>
+          <r>m<s n="np"/><s n="ant"/><s n="m"/><s n="sg"/><s n="acc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>e</l>
+          <r>m<s n="np"/><s n="ant"/><s n="m"/><s n="sg"/><s n="abl"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>m</l>
+          <r>m<s n="np"/><s n="ant"/><s n="m"/><s n="sg"/><s n="voc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>e</l>
+          <r>m<s n="np"/><s n="ant"/><s n="m"/><s n="sg"/><s n="loc"/></r>
+        </p>
+      </e>
+    </pardef>
     <pardef n="dom/us__n">
       <e>
         <p>
@@ -17075,6 +17119,8 @@
     <e lm="istuc"><i>istuc</i><par n="quasi__adv"/></e>
     <e lm="longe"><i>long</i><par n="long/e__adv"/></e>
     <e lm="adsidue"><i>adsidu</i><par n="long/e__adv"/></e>
+    <e lm="infinite"><i>infinit</i><par n="long/e__adv"/></e>
+    <e lm="libere"><i>liber</i><par n="long/e__adv"/></e>
     <e lm="audaciter"><i>audac</i><par n="audac/iter__adv"/></e>
     <e lm="certo"><i>cert</i><par n="cert/o__adv"/></e>
     <e lm="cito"><i>cit</i><par n="cert/o__adv"/></e>
@@ -17304,6 +17350,7 @@
     <e lm="electronica"><i>electronic</i><par n="aqu/a__n"/></e>
     <e lm="Keynes"><i>Keynes</i><par n="Keynes__np"/></e>
     <e a="afgl-lat" lm="Cornelia"><i>Corneli</i><par n="Corneli/a__np"/></e>
+    <e lm="Eva"><i>Ev</i><par n="Corneli/a__np"/></e>
     <e a="afgl-lat" lm="abstinentia"><i>abstinenti</i><par n="aqu/a__n"/></e>
     <e a="afgl-lat" lm="abundantia"><i>abundanti</i><par n="aqu/a__n"/></e>
     <e a="afgl-lat" lm="adolescentia"><i>adolescenti</i><par n="aqu/a__n"/></e>
@@ -18210,6 +18257,8 @@
     <e lm="Marcus"><i>Marc</i><par n="Iuli/us__np"/></e>
     <e lm="Lucius"><i>Luci</i><par n="Iuli/us__np"/></e>
     <e lm="Isaacus"><i>Isaac</i><par n="Iuli/us__np"/></e>
+    <e lm="Adamus"><i>Adam</i><par n="Iuli/us__np"/></e>
+    <e lm="Adam"><i>Ada</i><par n="Ada/m__np"/></e>
     <e lm="Iesus"><i>Ies</i><par n="Ies/us__np"/></e>
     <e lm="Newtonus"><i>Newton</i><par n="Iuli/us__np"/></e>
     <e lm="Galilaeus"><i>Galilae</i><par n="Iuli/us__np"/></e>

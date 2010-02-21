@@ -205,6 +205,8 @@
     <e><p><l>adfatim<s n="adv"/></l><r>suficientemente<s n="adv"/></r></p></e>
     <e><p><l>adsidue<s n="adv"/></l><r>continuamente<s n="adv"/></r></p></e>
     <e><p><l>mathematice<s n="adv"/></l><r>matemáticamente<s n="adv"/></r></p></e>
+    <e><p><l>infinite<s n="adv"/></l><r>infinitamente<s n="adv"/></r></p></e>
+    <e><p><l>libere<s n="adv"/></l><r>libremente<s n="adv"/></r></p></e>
     <e><p><l>abhinc<s n="adv"/></l><r>atrás<s n="adv"/></r></p></e>
     <e><p><l>usque<s n="adv"/></l><r>sin<b/>interrupción<s n="adv"/></r></p></e>
     <e><p><l>atqui<s n="adv"/></l><r>aun<b/>así<s n="adv"/></r></p></e>
@@ -1948,6 +1950,10 @@
     <e><p><l>Lucius<s n="np"/><s n="ant"/></l><r>Lucius<s n="np"/><s n="ant"/></r></p></e>
     <e><p><l>Marcus<s n="np"/><s n="ant"/></l><r>Marcus<s n="np"/><s n="ant"/></r></p></e>
     <e><p><l>Isaacus<s n="np"/><s n="ant"/></l><r>Isaac<s n="np"/><s n="ant"/></r></p></e>
+    <e><p><l>Iesus<s n="np"/><s n="ant"/></l><r>Jesús<s n="np"/><s n="ant"/></r></p></e>
+    <e><p><l>Adamus<s n="np"/><s n="ant"/></l><r>Adam<s n="np"/><s n="ant"/></r></p></e>
+    <e><p><l>Adam<s n="np"/><s n="ant"/></l><r>Adam<s n="np"/><s n="ant"/></r></p></e>
+    <e><p><l>Eva<s n="np"/><s n="ant"/></l><r>Eva<s n="np"/><s n="ant"/></r></p></e>
     <e><p><l>Newtonus<s n="np"/><s n="ant"/></l><r>Newton<s n="np"/><s n="ant"/></r></p></e>
     <e><p><l>Galilaeus<s n="np"/><s n="ant"/></l><r>Galileo<s n="np"/><s n="ant"/></r></p></e>
     <e><p><l>Galilaeus<g><b/>Galilaei</g><s n="np"/><s n="ant"/></l><r>Galileo<b/>Galilei<s n="np"/><s n="ant"/></r></p></e>
