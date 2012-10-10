@@ -78,8 +78,9 @@ apertium_la_es_DATA=$(PREFIX1).automorf.bin \
 
 install-data-local:
 	apertium-gen-modes modes.xml apertium-$(PREFIX1)
-	$(INSTALL_DATA) $(PREFIX1).mode $(apertium_la_modesdir)
-	$(INSTALL_DATA) $(BASENAME).$(PREFIX1).t1x $(apertium_la_esdir)
-	$(INSTALL_DATA) $(BASENAME).$(PREFIX1).t3x $(apertium_la_esdir)
+	test -d $(DESTDIR)$(apertium_la_modesdir) || mkdir $(DESTDIR)$(apertium_la_modesdir)
+	$(INSTALL_DATA) $(PREFIX1).mode $(DESTDIR)$(apertium_la_modesdir)
+	$(INSTALL_DATA) $(BASENAME).$(PREFIX1).t1x $(DESTDIR)$(apertium_la_esdir)
+	$(INSTALL_DATA) $(BASENAME).$(PREFIX1).t3x $(DESTDIR)$(apertium_la_esdir)
 
 CLEANFILES = -r $(TARGETS) 
