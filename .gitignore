@@ -20,3 +20,12 @@
 /missing
 /modes
 /stamp-h1
+/*.hfst
+/*.gz
+/*.pc
+/*.zhfst
+/.DS_Store
+/ap_include.am
+/*-*.prob
+/.deps
+/test/*-output.txt

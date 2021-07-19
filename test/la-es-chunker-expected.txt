@@ -1,0 +1,20 @@
+[0DUCxD10owuT#0] ^default<default>{^,<cm>$}$
+[/0DUCxD10owuT]
+[FYrTgZI5aoYQ#0] ^unknown<unknown>{^*fūīsír$}$
+[/FYrTgZI5aoYQ]
+[K7zfGBe5tyJQ#0] ^default<default>{^1<num>$}$^unknown<unknown>{^*néi$}$
+[/K7zfGBe5tyJQ]
+[MgFNoPFpI6QX#0] ^unknown<unknown>{^*Ăs$}$
+[/MgFNoPFpI6QX]
+[VSUJ3BTJj8fR#0] ^unknown<unknown>{^*ōĭp$}$
+[/VSUJ3BTJj8fR]
+[Xvb98yUTqnzR#0] ^default<default>{^104<num>$}$
+[/Xvb98yUTqnzR]
+[iNH5irIl3B20#0] ^default<default>{^@'<apos>$}$
+[/iNH5irIl3B20]
+[ituuj909yZU6#0] ^unknown<unknown>{^*būlĭmísboĭ$}$
+[/ituuj909yZU6]
+[q132Jbx229Th#0] ^default<default>{^...<elip>$}$
+[/q132Jbx229Th]
+[u3IIvJtdfATx#0] ^punt<sent>{^!<sent>$}$
+[/u3IIvJtdfATx]
